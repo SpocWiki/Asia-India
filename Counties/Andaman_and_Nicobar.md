@@ -36,6 +36,8 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Andaman_and_Nicobar/
 markerFolder: ./Andaman_and_Nicobar/
+marker: default,11.572366195918184,92.25025702200708,,North Sentinel Island,,
+
 ```
 
 
