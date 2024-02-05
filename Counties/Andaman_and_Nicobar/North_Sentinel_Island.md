@@ -3,7 +3,8 @@
 
 > **North Sentinel Island** is one of the Andaman Islands, an Indian archipelago in the Bay of Bengal which also includes South Sentinel Island. 
 > 
-> It is home to the Sentinelese, an indigenous people in voluntary isolation who have defended, often by force, their protected isolation from the outside world. 
+> It is home to the [[Sentinelese]], an indigenous people in voluntary isolation 
+> who have defended, often by force, their protected isolation from the outside world. 
 > 
 > The island is about 8 kilometres (5.0 mi) long and 7 kilometres (4.3 mi) wide, and its area is approximately 60 square kilometres (23 sq mi).
 >
