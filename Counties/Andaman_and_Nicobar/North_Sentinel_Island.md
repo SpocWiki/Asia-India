@@ -24,13 +24,14 @@
 
 ```leaflet
 id: Andaman_and_Nicobar
-zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
 geojson: IND-India-North_Sentinel_Island.geojson
 geojsonFolder: ./North_Sentinel_Island/
 markerFolder: ./North_Sentinel_Island/
 marker: default,11.57,92.25,,North Sentinel Island,,
-
+lat: 11.57
+long: 92.25
+defaultZoom: 10
 ```
 
