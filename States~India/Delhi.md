@@ -1,23 +1,23 @@
----
+﻿---
 location:
-  - 28.7
-  - 77.1
+- 28.7
+- 77.1
 type: geo-Region
 title: Delhi
-license: CC BY-SA 4.0
-source: https://datahub.io/core/country-codes
+license: "CC BY-SA 4.0"
+source: "https://datahub.io/core/country-codes"
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
 tags:
-  - geo/Country/Region
+- geo/Country/Region
 aliases:
-  - Delhi
+- Delhi
 Languages:
-  - de
+- de
 cssclasses:
-  - geo-Region
+- geo-Region
 publish: true
 linkTitle: 
 keywords: 
@@ -25,144 +25,144 @@ layout:
 publishDate: 
 expiryDate: 
 has_id_wikidata: Q1353
-contains the administrative territorial entity:
-  - "[[/_Standards/WikiData/WD~Shahdara district,83486]]"
-  - "[[/_Standards/WikiData/WD~Central Delhi district,107941]]"
-  - "[[/_Standards/WikiData/WD~East Delhi district,107960]]"
-  - "[[/_Standards/WikiData/WD~North East Delhi district,429329]]"
-  - "[[/_Standards/WikiData/WD~West Delhi district,549807]]"
-  - "[[/_Standards/WikiData/WD~North Delhi district,693367]]"
-  - "[[/_Standards/WikiData/WD~North West Delhi district,766125]]"
-  - "[[/_Standards/WikiData/WD~South Delhi district,2061938]]"
-  - "[[/_Standards/WikiData/WD~South West Delhi district,2379189]]"
-  - "[[/_Standards/WikiData/WD~New Delhi district,8560886]]"
-  - "[[/_Standards/WikiData/WD~South East Delhi district,25553535]]"
-twinned administrative body:
-  - "[[/_Standards/WikiData/WD~Fukuoka Prefecture,123258]]"
-  - "[[/_Standards/WikiData/WD~Moscow,649]]"
-  - "[[/_Standards/WikiData/WD~Beijing,956]]"
-  - "[[/_Standards/WikiData/WD~Chicago,1297]]"
-  - "[[/_Standards/WikiData/WD~Tokyo,1490]]"
-  - "[[/_Standards/WikiData/WD~Kuala Lumpur,1865]]"
-  - "[[/_Standards/WikiData/WD~Yerevan,1953]]"
-  - "[[/_Standards/WikiData/WD~Karachi,8660]]"
-  - "[[/_Standards/WikiData/WD~Seoul,8684]]"
-  - "[[/_Standards/WikiData/WD~Ulaanbaatar,23430]]"
-  - "[[/_Standards/WikiData/WD~London,84]]"
-instance of:
-  - "[[/_Standards/WikiData/WD~megacity,174844]]"
-  - "[[/_Standards/WikiData/WD~metropolis,200250]]"
-  - "[[/_Standards/WikiData/WD~largest city,51929311]]"
-  - "[[/_Standards/WikiData/WD~national capital,108178728]]"
-  - "[[/_Standards/WikiData/WD~administrative territorial entity,56061]]"
-part of:
-  - "[[/_Standards/WikiData/WD~Indo-Gangetic Plain,192305]]"
-  - "[[/_Standards/WikiData/WD~Yamuna-Ganga Doab,14213993]]"
-capital of:
-  - "[[/_Standards/WikiData/WD~Delhi Sultanate,229411]]"
-  - "[[/_Standards/WikiData/WD~Sur Empire,373650]]"
-  - "[[/_Standards/WikiData/WD~Mamluk sultanate,847420]]"
-  - "[[/_Standards/WikiData/WD~Khalji dynasty,919071]]"
-  - "[[/_Standards/WikiData/WD~Tughlaq dynasty,1124402]]"
-  - "[[/_Standards/WikiData/WD~Sayyid dynasty,1331421]]"
-  - "[[/_Standards/WikiData/WD~Lodi dynasty,11709]]"
-  - "[[/_Standards/WikiData/WD~Mughal Empire,33296]]"
-described by source:
-  - "[[/_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[/_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[/_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[/_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-  - "[[/_Standards/WikiData/WD~Encyclopedic Lexicon,4532135]]"
-  - "[[/_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[/_Standards/WikiData/WD~Meyer’s Universum, Erster Band,126374795]]"
-history of topic: "[[/_Standards/WikiData/WD~history of Delhi,2741444]]"
-language used:
-  - "[[/_Standards/WikiData/WD~Mewari,2992857]]"
-  - "[[/_Standards/WikiData/WD~Sansi,3309366]]"
-  - "[[/_Standards/WikiData/WD~Bauria,4873579]]"
-  - "[[/_Standards/WikiData/WD~Central Tibetan,5061915]]"
-  - "[[/_Standards/WikiData/WD~Mala Malasar,6740693]]"
-  - "[[/_Standards/WikiData/WD~Kanjari,12953610]]"
-  - "[[/_Standards/WikiData/WD~Gade Lohar,12953671]]"
-  - "[[/_Standards/WikiData/WD~Gaddi,17455500]]"
-  - "[[/_Standards/WikiData/WD~Hindi,1568]]"
-  - "[[/_Standards/WikiData/WD~Sanskrit,11059]]"
-  - "[[/_Standards/WikiData/WD~Awadhi,29579]]"
-  - "[[/_Standards/WikiData/WD~Bhojpuri,33268]]"
-  - "[[/_Standards/WikiData/WD~Haryanvi,33410]]"
-  - "[[/_Standards/WikiData/WD~Sindhi,33997]]"
-  - "[[/_Standards/WikiData/WD~Tibetan,34271]]"
-  - "[[/_Standards/WikiData/WD~Braj Bhasha,35243]]"
-  - "[[/_Standards/WikiData/WD~Maithili,36109]]"
-  - "[[/_Standards/WikiData/WD~Punjabi,58635]]"
-has part(s):
-  - "[[/_Standards/WikiData/WD~North Delhi,3021585]]"
-  - "[[/_Standards/WikiData/WD~East Delhi,58481534]]"
-  - "[[/_Standards/WikiData/WD~South Delhi,58481533]]"
-  - "[[/_Standards/WikiData/WD~Delhi,113268525]]"
+contains_the_administrative_territorial_entity:
+- "[[/_Standards/WikiData/WD~Shahdara district,83486]]"
+- "[[/_Standards/WikiData/WD~Central Delhi district,107941]]"
+- "[[/_Standards/WikiData/WD~East Delhi district,107960]]"
+- "[[/_Standards/WikiData/WD~North East Delhi district,429329]]"
+- "[[/_Standards/WikiData/WD~West Delhi district,549807]]"
+- "[[/_Standards/WikiData/WD~North Delhi district,693367]]"
+- "[[/_Standards/WikiData/WD~North West Delhi district,766125]]"
+- "[[/_Standards/WikiData/WD~South Delhi district,2061938]]"
+- "[[/_Standards/WikiData/WD~South West Delhi district,2379189]]"
+- "[[/_Standards/WikiData/WD~New Delhi district,8560886]]"
+- "[[/_Standards/WikiData/WD~South East Delhi district,25553535]]"
+twinned_administrative_body:
+- "[[/_Standards/WikiData/WD~Fukuoka Prefecture,123258]]"
+- '[[/_Standards/WikiData/WD~Moscow,649]]'
+- '[[/_Standards/WikiData/WD~Beijing,956]]'
+- '[[/_Standards/WikiData/WD~Chicago,1297]]'
+- '[[/_Standards/WikiData/WD~Tokyo,1490]]'
+- "[[/_Standards/WikiData/WD~Kuala Lumpur,1865]]"
+- '[[/_Standards/WikiData/WD~Yerevan,1953]]'
+- '[[/_Standards/WikiData/WD~Karachi,8660]]'
+- '[[/_Standards/WikiData/WD~Seoul,8684]]'
+- '[[/_Standards/WikiData/WD~Ulaanbaatar,23430]]'
+- '[[/_Standards/WikiData/WD~London,84]]'
+instance_of:
+- '[[/_Standards/WikiData/WD~megacity,174844]]'
+- '[[/_Standards/WikiData/WD~metropolis,200250]]'
+- "[[/_Standards/WikiData/WD~largest city,51929311]]"
+- "[[/_Standards/WikiData/WD~national capital,108178728]]"
+- "[[/_Standards/WikiData/WD~administrative territorial entity,56061]]"
+part_of:
+- "[[/_Standards/WikiData/WD~Indo-Gangetic Plain,192305]]"
+- "[[/_Standards/WikiData/WD~Yamuna-Ganga Doab,14213993]]"
+capital_of:
+- "[[/_Standards/WikiData/WD~Delhi Sultanate,229411]]"
+- "[[/_Standards/WikiData/WD~Sur Empire,373650]]"
+- "[[/_Standards/WikiData/WD~Mamluk sultanate,847420]]"
+- "[[/_Standards/WikiData/WD~Khalji dynasty,919071]]"
+- "[[/_Standards/WikiData/WD~Tughlaq dynasty,1124402]]"
+- "[[/_Standards/WikiData/WD~Sayyid dynasty,1331421]]"
+- "[[/_Standards/WikiData/WD~Lodi dynasty,11709]]"
+- "[[/_Standards/WikiData/WD~Mughal Empire,33296]]"
+described_by_source:
+- "[[/_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[/_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[/_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[/_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
+- "[[/_Standards/WikiData/WD~Encyclopedic Lexicon,4532135]]"
+- "[[/_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[/_Standards/WikiData/WD~Meyer’s Universum, Erster Band,126374795]]"
+history_of_topic: "[[/_Standards/WikiData/WD~history of Delhi,2741444]]"
+language_used:
+- '[[/_Standards/WikiData/WD~Mewari,2992857]]'
+- '[[/_Standards/WikiData/WD~Sansi,3309366]]'
+- '[[/_Standards/WikiData/WD~Bauria,4873579]]'
+- "[[/_Standards/WikiData/WD~Central Tibetan,5061915]]"
+- "[[/_Standards/WikiData/WD~Mala Malasar,6740693]]"
+- '[[/_Standards/WikiData/WD~Kanjari,12953610]]'
+- "[[/_Standards/WikiData/WD~Gade Lohar,12953671]]"
+- '[[/_Standards/WikiData/WD~Gaddi,17455500]]'
+- '[[/_Standards/WikiData/WD~Hindi,1568]]'
+- '[[/_Standards/WikiData/WD~Sanskrit,11059]]'
+- '[[/_Standards/WikiData/WD~Awadhi,29579]]'
+- '[[/_Standards/WikiData/WD~Bhojpuri,33268]]'
+- '[[/_Standards/WikiData/WD~Haryanvi,33410]]'
+- '[[/_Standards/WikiData/WD~Sindhi,33997]]'
+- '[[/_Standards/WikiData/WD~Tibetan,34271]]'
+- "[[/_Standards/WikiData/WD~Braj Bhasha,35243]]"
+- '[[/_Standards/WikiData/WD~Maithili,36109]]'
+- '[[/_Standards/WikiData/WD~Punjabi,58635]]'
+has_part_s_:
+- "[[/_Standards/WikiData/WD~North Delhi,3021585]]"
+- "[[/_Standards/WikiData/WD~East Delhi,58481534]]"
+- "[[/_Standards/WikiData/WD~South Delhi,58481533]]"
+- '[[/_Standards/WikiData/WD~Delhi,113268525]]'
 authority: "[[/_Standards/WikiData/WD~Government of Delhi,3633119]]"
-located in the administrative territorial entity: "[[/_Standards/WikiData/WD~National Capital Territory of Delhi,9357528]]"
-said to be the same as: "[[/_Standards/WikiData/WD~National Capital Territory of Delhi,9357528]]"
+located_in_the_administrative_territorial_entity: "[[/_Standards/WikiData/WD~National Capital Territory of Delhi,9357528]]"
+said_to_be_the_same_as: "[[/_Standards/WikiData/WD~National Capital Territory of Delhi,9357528]]"
 replaces: "[[/_Standards/WikiData/WD~Seven Cities of Delhi,12159392]]"
-different from:
-  - "[[/_Standards/WikiData/WD~Dehlī,12434177]]"
-  - "[[/_Standards/WikiData/WD~National Capital Territory of Delhi,57156500]]"
-  - "[[/_Standards/WikiData/WD~Delhi,113268525]]"
-  - "[[/_Standards/WikiData/WD~New Delhi,987]]"
-permanent duplicated item: "[[/_Standards/WikiData/WD~Q21287386,21287386]]"
-economy of topic: "[[/_Standards/WikiData/WD~economy of Delhi,29026718]]"
-IPA transcription:
-  - d̪eɦliː
-  - d̪ɪlliː
+different_from:
+- '[[/_Standards/WikiData/WD~Dehlī,12434177]]'
+- "[[/_Standards/WikiData/WD~National Capital Territory of Delhi,57156500]]"
+- '[[/_Standards/WikiData/WD~Delhi,113268525]]'
+- "[[/_Standards/WikiData/WD~New Delhi,987]]"
+permanent_duplicated_item: '[[/_Standards/WikiData/WD~Q21287386,21287386]]'
+economy_of_topic: "[[/_Standards/WikiData/WD~economy of Delhi,29026718]]"
+IPA_transcription:
+- d̪eɦliː
+- d̪ɪlliː
 demonym:
-  - दिल्लीवाले
-  - Delhiite
-  - Delhiano
-  - دہلوی
-ISNI: "0000000121799761"
-official website: https://mcdonline.nic.in/
-coordinate location: Point(77.216666666 28.666666666)
-country: "[[/_Standards/WikiData/WD~India,668]]"
-located in time zone: "[[/_Standards/WikiData/WD~UTC+05_30,6828]]"
-continent: "[[/_Standards/WikiData/WD~Asia,48]]"
-official name:
-  - دہلی
-  - दिल्ली
-literate population: 12737767
-urban population: 16368899
-aerial view: http://commons.wikimedia.org/wiki/Special:FilePath/Delhi%20aerial%20photo%2003-2016%20img2.jpg
-inception: -0500-01-01T00:00:00Z
-elevation above sea level: 221
+- दिल्लीवाले
+- Delhiite
+- Delhiano
+- دہلوی
+ISNI: 0000000121799761
+official_website: "https://mcdonline.nic.in/"
+coordinate_location: "Point(77.216666666 28.666666666)"
+country: '[[/_Standards/WikiData/WD~India,668]]'
+located_in_time_zone: '[[/_Standards/WikiData/WD~UTC+05_30,6828]]'
+continent: '[[/_Standards/WikiData/WD~Asia,48]]'
+official_name:
+- دہلی
+- दिल्ली
+literate_population: 12737767
+urban_population: 16368899
+aerial_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Delhi%20aerial%20photo%2003-2016%20img2.jpg"
+inception: "-0500-01-01T00:00:00Z"
+elevation_above_sea_level: 221
 area: 1397.3
 population: 26495000
-rural population: 419042
-native label:
-  - दिल्ली
-  - देहली
-  - دهلي
-  - دہلی
-illiterate population: 4050174
-female population: 7800615
-male population: 8987326
+rural_population: 419042
+native_label:
+- दिल्ली
+- देहली
+- دهلي
+- دہلی
+illiterate_population: 4050174
+female_population: 7800615
+male_population: 8987326
 subreddit: delhi
-GitHub topic: delhi
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Delhi%20banner%20India%20gate.jpg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Delhi%20metropolitan%20region%2C%20satellite%20image%2C%20Landsat-5%2C%202011-03-12.jpg
-montage image: http://commons.wikimedia.org/wiki/Special:FilePath/Delhi%20Montage.jpg
-location map: http://commons.wikimedia.org/wiki/Special:FilePath/Location%20map%20India%20Delhi%20EN.svg
-locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/National%20Capital%20Territory%20of%20Delhi%20in%20India%20%28special%20marker%29%20%28claimed%20and%20disputed%20hatched%29.svg
-postal code: 110000–110999
-OmegaWiki Defined Meaning: "1212362"
-Dewey Decimal Classification: 2--5456
-Libris-URI: 86lnm2cs14xlg3l
+GitHub_topic: delhi
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Delhi%20banner%20India%20gate.jpg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Delhi%20metropolitan%20region%2C%20satellite%20image%2C%20Landsat-5%2C%202011-03-12.jpg"
+montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Delhi%20Montage.jpg"
+location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Location%20map%20India%20Delhi%20EN.svg"
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/National%20Capital%20Territory%20of%20Delhi%20in%20India%20%28special%20marker%29%20%28claimed%20and%20disputed%20hatched%29.svg"
+postal_code: 110000–110999
+OmegaWiki_Defined_Meaning: 1212362
+Dewey_Decimal_Classification: 2--5456
+Libris_URI: 86lnm2cs14xlg3l
 hashtag: Delhi
-Commons category: Delhi
-Commons gallery: Delhi - दिल्ली
-Instagram username: delhigovdigital
-Facebook username: DelhiGovDigital
-X (Twitter) username: DelhiGovDigital
-licence plate code: DL-xx
-UN/LOCODE: INDEL
+Commons_category: Delhi
+Commons_gallery: "Delhi - दिल्ली"
+Instagram_username: delhigovdigital
+Facebook_username: DelhiGovDigital
+X_Twitter_username: DelhiGovDigital
+licence_plate_code: DL-xx
+UN_LOCODE: INDEL
 ---
 
 # Delhi
