@@ -29,13 +29,13 @@ coordinate_location: "Point(77.208888888 28.613888888)"
 inception: "1911-01-01T00:00:00Z"
 located_in_or_next_to_body_of_water: '[[/_Standards/WikiData/WD~Yamuna,132726]]'
 instance_of:
-- "[[/_Standards/WikiData/WD~federal capital,257391]]"
-- "[[/_Standards/WikiData/WD~municipality of India,112684326]]"
-authority: "[[/_Standards/WikiData/WD~New Delhi Municipal Council,3429205]]"
-located_in_the_administrative_territorial_entity: "[[/_Standards/WikiData/WD~New Delhi district,8560886]]"
+- "[[/_Standards/WikiData/WD~federal_capital,257391]]"
+- "[[/_Standards/WikiData/WD~municipality_of_India,112684326]]"
+authority: "[[/_Standards/WikiData/WD~New_Delhi_Municipal_Council,3429205]]"
+located_in_the_administrative_territorial_entity: "[[/_Standards/WikiData/WD~New_Delhi_district,8560886]]"
 different_from:
-- "[[/_Standards/WikiData/WD~New Delhi district,8560886]]"
-- "[[/_Standards/WikiData/WD~Xinde Village,96974292]]"
+- "[[/_Standards/WikiData/WD~New_Delhi_district,8560886]]"
+- "[[/_Standards/WikiData/WD~Xinde_Village,96974292]]"
 - '[[/_Standards/WikiData/WD~Delhi,1353]]'
 detail_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Location%20map%20India%20New%20Delhi%20EN.svg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/New%20Delhi%20montage.png"
@@ -61,7 +61,7 @@ UN_LOCODE: INICD
 twinned_administrative_body:
 - '[[/_Standards/WikiData/WD~Moscow,649]]'
 - '[[/_Standards/WikiData/WD~Samarkand,5753]]'
-- "[[/_Standards/WikiData/WD~Jersey City,26339]]"
+- "[[/_Standards/WikiData/WD~Jersey_City,26339]]"
 country: '[[/_Standards/WikiData/WD~India,668]]'
 capital_of: '[[/_Standards/WikiData/WD~India,668]]'
 named_after: '[[/_Standards/WikiData/WD~Delhi,1353]]'

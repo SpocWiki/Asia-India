@@ -3,28 +3,28 @@ aliases:
 - Chennai
 - Madras
 has_id_wikidata: Q1352
-authority: "[[/_Standards/WikiData/WD~Greater Chennai Corporation,286536]]"
+authority: "[[/_Standards/WikiData/WD~Greater_Chennai_Corporation,286536]]"
 instance_of:
-- "[[/_Standards/WikiData/WD~business cluster,745456]]"
-- "[[/_Standards/WikiData/WD~million city,1637706]]"
-- "[[/_Standards/WikiData/WD~state capital,11271835]]"
-- "[[/_Standards/WikiData/WD~largest city,51929311]]"
+- "[[/_Standards/WikiData/WD~business_cluster,745456]]"
+- "[[/_Standards/WikiData/WD~million_city,1637706]]"
+- "[[/_Standards/WikiData/WD~state_capital,11271835]]"
+- "[[/_Standards/WikiData/WD~largest_city,51929311]]"
 described_by_source:
-- "[[/_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[/_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[/_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-- "[[/_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[/_Standards/WikiData/WD~Meyer’s Universum, Zweiter Band,126937278]]"
-head_of_government: "[[/_Standards/WikiData/WD~M. K. Stalin,983475]]"
-member_of: "[[/_Standards/WikiData/WD~Creative Cities Network,1139352]]"
+- "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[/_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+- "[[/_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[/_Standards/WikiData/WD~Meyer’s_Universum,_Zweiter_Band,126937278]]"
+head_of_government: "[[/_Standards/WikiData/WD~M._K._Stalin,983475]]"
+member_of: "[[/_Standards/WikiData/WD~Creative_Cities_Network,1139352]]"
 capital_of:
-- "[[/_Standards/WikiData/WD~Madras Presidency,1772596]]"
-- "[[/_Standards/WikiData/WD~Madras State,2618458]]"
-- "[[/_Standards/WikiData/WD~Tamil Nadu,1445]]"
-- "[[/_Standards/WikiData/WD~Chennai district,15116]]"
-demographics_of_topic: "[[/_Standards/WikiData/WD~demographics of Chennai,5255999]]"
-economy_of_topic: "[[/_Standards/WikiData/WD~economy of Chennai,5333650]]"
-geography_of_topic: "[[/_Standards/WikiData/WD~geography of Chennai,5535130]]"
+- "[[/_Standards/WikiData/WD~Madras_Presidency,1772596]]"
+- "[[/_Standards/WikiData/WD~Madras_State,2618458]]"
+- "[[/_Standards/WikiData/WD~Tamil_Nadu,1445]]"
+- "[[/_Standards/WikiData/WD~Chennai_district,15116]]"
+demographics_of_topic: "[[/_Standards/WikiData/WD~demographics_of_Chennai,5255999]]"
+economy_of_topic: "[[/_Standards/WikiData/WD~economy_of_Chennai,5333650]]"
+geography_of_topic: "[[/_Standards/WikiData/WD~geography_of_Chennai,5535130]]"
 pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Chennai.ogg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q5885%20%28tam%29-Sriveenkat-%E0%AE%AE%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%B0%E0%AE%BE%E0%AE%B8%E0%AF%8D.wav"
@@ -48,16 +48,16 @@ official_website: "https://chennaicorporation.gov.in/"
 country: '[[/_Standards/WikiData/WD~India,668]]'
 twinned_administrative_body:
 - '[[/_Standards/WikiData/WD~Volgograd,914]]'
-- "[[/_Standards/WikiData/WD~San Antonio,975]]"
+- "[[/_Standards/WikiData/WD~San_Antonio,975]]"
 - '[[/_Standards/WikiData/WD~Frankfurt,1794]]'
-- "[[/_Standards/WikiData/WD~Kuala Lumpur,1865]]"
+- "[[/_Standards/WikiData/WD~Kuala_Lumpur,1865]]"
 - '[[/_Standards/WikiData/WD~Chemnitz,2795]]'
 - '[[/_Standards/WikiData/WD~Chongqing,11725]]'
 - '[[/_Standards/WikiData/WD~Denver,16554]]'
 - '[[/_Standards/WikiData/WD~Ulsan,41278]]'
 official_language: '[[/_Standards/WikiData/WD~Tamil,5885]]'
 located_in_time_zone: '[[/_Standards/WikiData/WD~UTC+05_30,6828]]'
-located_in_the_administrative_territorial_entity: "[[/_Standards/WikiData/WD~Chennai district,15116]]"
+located_in_the_administrative_territorial_entity: "[[/_Standards/WikiData/WD~Chennai_district,15116]]"
 continent: '[[/_Standards/WikiData/WD~Asia,48]]'
 elevation_above_sea_level: 6
 local_dialing_code: 44

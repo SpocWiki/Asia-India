@@ -26,24 +26,24 @@ publishDate:
 expiryDate: 
 has_id_wikidata: Q1353
 contains_the_administrative_territorial_entity:
-- "[[/_Standards/WikiData/WD~Shahdara district,83486]]"
-- "[[/_Standards/WikiData/WD~Central Delhi district,107941]]"
-- "[[/_Standards/WikiData/WD~East Delhi district,107960]]"
-- "[[/_Standards/WikiData/WD~North East Delhi district,429329]]"
-- "[[/_Standards/WikiData/WD~West Delhi district,549807]]"
-- "[[/_Standards/WikiData/WD~North Delhi district,693367]]"
-- "[[/_Standards/WikiData/WD~North West Delhi district,766125]]"
-- "[[/_Standards/WikiData/WD~South Delhi district,2061938]]"
-- "[[/_Standards/WikiData/WD~South West Delhi district,2379189]]"
-- "[[/_Standards/WikiData/WD~New Delhi district,8560886]]"
-- "[[/_Standards/WikiData/WD~South East Delhi district,25553535]]"
+- "[[/_Standards/WikiData/WD~Shahdara_district,83486]]"
+- "[[/_Standards/WikiData/WD~Central_Delhi_district,107941]]"
+- "[[/_Standards/WikiData/WD~East_Delhi_district,107960]]"
+- "[[/_Standards/WikiData/WD~North_East_Delhi_district,429329]]"
+- "[[/_Standards/WikiData/WD~West_Delhi_district,549807]]"
+- "[[/_Standards/WikiData/WD~North_Delhi_district,693367]]"
+- "[[/_Standards/WikiData/WD~North_West_Delhi_district,766125]]"
+- "[[/_Standards/WikiData/WD~South_Delhi_district,2061938]]"
+- "[[/_Standards/WikiData/WD~South_West_Delhi_district,2379189]]"
+- "[[/_Standards/WikiData/WD~New_Delhi_district,8560886]]"
+- "[[/_Standards/WikiData/WD~South_East_Delhi_district,25553535]]"
 twinned_administrative_body:
-- "[[/_Standards/WikiData/WD~Fukuoka Prefecture,123258]]"
+- "[[/_Standards/WikiData/WD~Fukuoka_Prefecture,123258]]"
 - '[[/_Standards/WikiData/WD~Moscow,649]]'
 - '[[/_Standards/WikiData/WD~Beijing,956]]'
 - '[[/_Standards/WikiData/WD~Chicago,1297]]'
 - '[[/_Standards/WikiData/WD~Tokyo,1490]]'
-- "[[/_Standards/WikiData/WD~Kuala Lumpur,1865]]"
+- "[[/_Standards/WikiData/WD~Kuala_Lumpur,1865]]"
 - '[[/_Standards/WikiData/WD~Yerevan,1953]]'
 - '[[/_Standards/WikiData/WD~Karachi,8660]]'
 - '[[/_Standards/WikiData/WD~Seoul,8684]]'
@@ -52,38 +52,38 @@ twinned_administrative_body:
 instance_of:
 - '[[/_Standards/WikiData/WD~megacity,174844]]'
 - '[[/_Standards/WikiData/WD~metropolis,200250]]'
-- "[[/_Standards/WikiData/WD~largest city,51929311]]"
-- "[[/_Standards/WikiData/WD~national capital,108178728]]"
-- "[[/_Standards/WikiData/WD~administrative territorial entity,56061]]"
+- "[[/_Standards/WikiData/WD~largest_city,51929311]]"
+- "[[/_Standards/WikiData/WD~national_capital,108178728]]"
+- "[[/_Standards/WikiData/WD~administrative_territorial_entity,56061]]"
 part_of:
-- "[[/_Standards/WikiData/WD~Indo-Gangetic Plain,192305]]"
-- "[[/_Standards/WikiData/WD~Yamuna-Ganga Doab,14213993]]"
+- "[[/_Standards/WikiData/WD~Indo-Gangetic_Plain,192305]]"
+- "[[/_Standards/WikiData/WD~Yamuna-Ganga_Doab,14213993]]"
 capital_of:
-- "[[/_Standards/WikiData/WD~Delhi Sultanate,229411]]"
-- "[[/_Standards/WikiData/WD~Sur Empire,373650]]"
-- "[[/_Standards/WikiData/WD~Mamluk sultanate,847420]]"
-- "[[/_Standards/WikiData/WD~Khalji dynasty,919071]]"
-- "[[/_Standards/WikiData/WD~Tughlaq dynasty,1124402]]"
-- "[[/_Standards/WikiData/WD~Sayyid dynasty,1331421]]"
-- "[[/_Standards/WikiData/WD~Lodi dynasty,11709]]"
-- "[[/_Standards/WikiData/WD~Mughal Empire,33296]]"
+- "[[/_Standards/WikiData/WD~Delhi_Sultanate,229411]]"
+- "[[/_Standards/WikiData/WD~Sur_Empire,373650]]"
+- "[[/_Standards/WikiData/WD~Mamluk_sultanate,847420]]"
+- "[[/_Standards/WikiData/WD~Khalji_dynasty,919071]]"
+- "[[/_Standards/WikiData/WD~Tughlaq_dynasty,1124402]]"
+- "[[/_Standards/WikiData/WD~Sayyid_dynasty,1331421]]"
+- "[[/_Standards/WikiData/WD~Lodi_dynasty,11709]]"
+- "[[/_Standards/WikiData/WD~Mughal_Empire,33296]]"
 described_by_source:
-- "[[/_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[/_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[/_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[/_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-- "[[/_Standards/WikiData/WD~Encyclopedic Lexicon,4532135]]"
-- "[[/_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[/_Standards/WikiData/WD~Meyer’s Universum, Erster Band,126374795]]"
-history_of_topic: "[[/_Standards/WikiData/WD~history of Delhi,2741444]]"
+- "[[/_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[/_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+- "[[/_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
+- "[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[/_Standards/WikiData/WD~Meyer’s_Universum,_Erster_Band,126374795]]"
+history_of_topic: "[[/_Standards/WikiData/WD~history_of_Delhi,2741444]]"
 language_used:
 - '[[/_Standards/WikiData/WD~Mewari,2992857]]'
 - '[[/_Standards/WikiData/WD~Sansi,3309366]]'
 - '[[/_Standards/WikiData/WD~Bauria,4873579]]'
-- "[[/_Standards/WikiData/WD~Central Tibetan,5061915]]"
-- "[[/_Standards/WikiData/WD~Mala Malasar,6740693]]"
+- "[[/_Standards/WikiData/WD~Central_Tibetan,5061915]]"
+- "[[/_Standards/WikiData/WD~Mala_Malasar,6740693]]"
 - '[[/_Standards/WikiData/WD~Kanjari,12953610]]'
-- "[[/_Standards/WikiData/WD~Gade Lohar,12953671]]"
+- "[[/_Standards/WikiData/WD~Gade_Lohar,12953671]]"
 - '[[/_Standards/WikiData/WD~Gaddi,17455500]]'
 - '[[/_Standards/WikiData/WD~Hindi,1568]]'
 - '[[/_Standards/WikiData/WD~Sanskrit,11059]]'
@@ -92,25 +92,25 @@ language_used:
 - '[[/_Standards/WikiData/WD~Haryanvi,33410]]'
 - '[[/_Standards/WikiData/WD~Sindhi,33997]]'
 - '[[/_Standards/WikiData/WD~Tibetan,34271]]'
-- "[[/_Standards/WikiData/WD~Braj Bhasha,35243]]"
+- "[[/_Standards/WikiData/WD~Braj_Bhasha,35243]]"
 - '[[/_Standards/WikiData/WD~Maithili,36109]]'
 - '[[/_Standards/WikiData/WD~Punjabi,58635]]'
 has_part_s_:
-- "[[/_Standards/WikiData/WD~North Delhi,3021585]]"
-- "[[/_Standards/WikiData/WD~East Delhi,58481534]]"
-- "[[/_Standards/WikiData/WD~South Delhi,58481533]]"
+- "[[/_Standards/WikiData/WD~North_Delhi,3021585]]"
+- "[[/_Standards/WikiData/WD~East_Delhi,58481534]]"
+- "[[/_Standards/WikiData/WD~South_Delhi,58481533]]"
 - '[[/_Standards/WikiData/WD~Delhi,113268525]]'
-authority: "[[/_Standards/WikiData/WD~Government of Delhi,3633119]]"
-located_in_the_administrative_territorial_entity: "[[/_Standards/WikiData/WD~National Capital Territory of Delhi,9357528]]"
-said_to_be_the_same_as: "[[/_Standards/WikiData/WD~National Capital Territory of Delhi,9357528]]"
-replaces: "[[/_Standards/WikiData/WD~Seven Cities of Delhi,12159392]]"
+authority: "[[/_Standards/WikiData/WD~Government_of_Delhi,3633119]]"
+located_in_the_administrative_territorial_entity: "[[/_Standards/WikiData/WD~National_Capital_Territory_of_Delhi,9357528]]"
+said_to_be_the_same_as: "[[/_Standards/WikiData/WD~National_Capital_Territory_of_Delhi,9357528]]"
+replaces: "[[/_Standards/WikiData/WD~Seven_Cities_of_Delhi,12159392]]"
 different_from:
 - '[[/_Standards/WikiData/WD~Dehlī,12434177]]'
-- "[[/_Standards/WikiData/WD~National Capital Territory of Delhi,57156500]]"
+- "[[/_Standards/WikiData/WD~National_Capital_Territory_of_Delhi,57156500]]"
 - '[[/_Standards/WikiData/WD~Delhi,113268525]]'
-- "[[/_Standards/WikiData/WD~New Delhi,987]]"
+- "[[/_Standards/WikiData/WD~New_Delhi,987]]"
 permanent_duplicated_item: '[[/_Standards/WikiData/WD~Q21287386,21287386]]'
-economy_of_topic: "[[/_Standards/WikiData/WD~economy of Delhi,29026718]]"
+economy_of_topic: "[[/_Standards/WikiData/WD~economy_of_Delhi,29026718]]"
 IPA_transcription:
 - d̪eɦliː
 - d̪ɪlliː

@@ -18,15 +18,15 @@ aliases:
 has_id_wikidata: Q1156
 twinned_administrative_body:
 - '[[/_Standards/WikiData/WD~Durango,112813]]'
-- "[[/_Standards/WikiData/WD~Honolulu County,487704]]"
-- "[[/_Standards/WikiData/WD~Saint Petersburg,656]]"
+- "[[/_Standards/WikiData/WD~Honolulu_County,487704]]"
+- "[[/_Standards/WikiData/WD~Saint_Petersburg,656]]"
 - '[[/_Standards/WikiData/WD~Stuttgart,1022]]'
 - '[[/_Standards/WikiData/WD~Manila,1461]]'
 - '[[/_Standards/WikiData/WD~Jakarta,3630]]'
 - '[[/_Standards/WikiData/WD~Busan,16520]]'
 - '[[/_Standards/WikiData/WD~Honolulu,18094]]'
 - '[[/_Standards/WikiData/WD~Berlin,64]]'
-- "[[/_Standards/WikiData/WD~Los Angeles,65]]"
+- "[[/_Standards/WikiData/WD~Los_Angeles,65]]"
 - '[[/_Standards/WikiData/WD~London,84]]'
 - '[[/_Standards/WikiData/WD~İzmir,35997]]'
 - '[[/_Standards/WikiData/WD~Yokohama,38283]]'
@@ -34,30 +34,30 @@ twinned_administrative_body:
 instance_of:
 - '[[/_Standards/WikiData/WD~megacity,174844]]'
 - '[[/_Standards/WikiData/WD~metropolis,200250]]'
-- "[[/_Standards/WikiData/WD~business cluster,745456]]"
-- "[[/_Standards/WikiData/WD~state capital,11271835]]"
+- "[[/_Standards/WikiData/WD~business_cluster,745456]]"
+- "[[/_Standards/WikiData/WD~state_capital,11271835]]"
 - '[[/_Standards/WikiData/WD~city,515]]'
 described_by_source:
-- "[[/_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[/_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[/_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[/_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-- "[[/_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[/_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[/_Standards/WikiData/WD~Treccani's Enciclopedia on line,65921422]]"
-- "[[/_Standards/WikiData/WD~Meyer’s Universum, Sechster Band,130477825]]"
-located_in_time_zone: "[[/_Standards/WikiData/WD~Indian Standard Time,604055]]"
-member_of: "[[/_Standards/WikiData/WD~Creative Cities Network,1139352]]"
+- "[[/_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[/_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+- "[[/_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[/_Standards/WikiData/WD~Treccani's_Enciclopedia_on_line,65921422]]"
+- "[[/_Standards/WikiData/WD~Meyer’s_Universum,_Sechster_Band,130477825]]"
+located_in_time_zone: "[[/_Standards/WikiData/WD~Indian_Standard_Time,604055]]"
+member_of: "[[/_Standards/WikiData/WD~Creative_Cities_Network,1139352]]"
 part_of: '[[/_Standards/WikiData/WD~Konkan,1142402]]'
-authority: "[[/_Standards/WikiData/WD~Brihanmumbai Municipal Corporation,1195653]]"
-economy_of_topic: "[[/_Standards/WikiData/WD~economy of Mumbai,5333727]]"
-geography_of_topic: "[[/_Standards/WikiData/WD~geography of Mumbai,5535200]]"
+authority: "[[/_Standards/WikiData/WD~Brihanmumbai_Municipal_Corporation,1195653]]"
+economy_of_topic: "[[/_Standards/WikiData/WD~economy_of_Mumbai,5333727]]"
+geography_of_topic: "[[/_Standards/WikiData/WD~geography_of_Mumbai,5535200]]"
 office_held_by_head_of_government:
-- "[[/_Standards/WikiData/WD~Mayor of Mumbai,6797761]]"
-- "[[/_Standards/WikiData/WD~Municipal Commissioner of Mumbai,6936210]]"
+- "[[/_Standards/WikiData/WD~Mayor_of_Mumbai,6797761]]"
+- "[[/_Standards/WikiData/WD~Municipal_Commissioner_of_Mumbai,6936210]]"
 category_for_people_buried_here: '[[/_Standards/WikiData/WD~Q32414945,32414945]]'
 named_after: '[[/_Standards/WikiData/WD~Mumba,76027520]]'
-head_of_government: "[[/_Standards/WikiData/WD~Iqbal Singh Chahal,106782866]]"
+head_of_government: "[[/_Standards/WikiData/WD~Iqbal_Singh_Chahal,106782866]]"
 BHCL_UUID: 9d82e58f-8cc2-4c9e-b98b-2e6aa757e290
 ISNI: 0000000112661998
 panoramic_view:
