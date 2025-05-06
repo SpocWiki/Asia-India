@@ -13,7 +13,7 @@ confidential: public
 tags:
 - geo/Country/Region
 aliases:
-- Daman_and_Diu
+- Daman and Diu
 
 Languages:
 - de

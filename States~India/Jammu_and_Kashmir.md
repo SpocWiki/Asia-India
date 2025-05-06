@@ -13,7 +13,7 @@ confidential: public
 tags:
 - geo/Country/Region
 aliases:
-- Jammu_and_Kashmir
+- Jammu and Kashmir
 
 Languages:
 - de

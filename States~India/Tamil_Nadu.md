@@ -13,7 +13,7 @@ confidential: public
 tags:
 - geo/Country/Region
 aliases:
-- Tamil_Nadu
+- Tamil Nadu
 
 Languages:
 - de

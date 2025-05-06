@@ -1,30 +1,29 @@
 ---
-location: [ 16.3 , 79.4 ] 
+location:
+  - 16.3
+  - 79.4
 type: geo-Region
 title: Andhra_Pradesh
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Andhra_Pradesh
-
+  - Andhra Pradesh
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
 linkTitle: 
 keywords: 
 layout: 
 publishDate: 
-expiryDate: 
+expiryDate:
 ---
 
 # Andhra_Pradesh

@@ -13,7 +13,7 @@ confidential: public
 tags:
 - geo/Country/Region
 aliases:
-- West_Bengal
+- West Bengal
 
 Languages:
 - de

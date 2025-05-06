@@ -13,7 +13,7 @@ confidential: public
 tags:
 - geo/Country/Region
 aliases:
-- Dadra_and_Nagar_Haveli
+- Dadra and Nagar Haveli
 
 Languages:
 - de

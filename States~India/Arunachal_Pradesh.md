@@ -13,7 +13,7 @@ confidential: public
 tags:
 - geo/Country/Region
 aliases:
-- Arunachal_Pradesh
+- Arunachal Pradesh
 
 Languages:
 - de

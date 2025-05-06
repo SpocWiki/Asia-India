@@ -13,7 +13,7 @@ confidential: public
 tags:
 - geo/Country/Region
 aliases:
-- Andaman_and_Nicobar
+- Andaman and Nicobar
 
 Languages:
 - de

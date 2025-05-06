@@ -13,7 +13,7 @@ confidential: public
 tags:
 - geo/Country/Region
 aliases:
-- Himachal_Pradesh
+- Himachal Pradesh
 
 Languages:
 - de
