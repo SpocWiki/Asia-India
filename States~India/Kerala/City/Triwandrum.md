@@ -31,10 +31,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/India/City/Triwandrum|Triwandrum]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/India/City/Triwandrum.public|Triwandrum.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/India/City/Triwandrum.internal|Triwandrum.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/India/City/Triwandrum.protect|Triwandrum.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/India/City/Triwandrum.private|Triwandrum.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/India/City/Triwandrum.personal|Triwandrum.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/India/City/Triwandrum.secret|Triwandrum.secret]] 
+
+### #is_/same_as :: [Triwandrum](/_Standards/Earth/Continent/Asia/Asia~South/India/States~India/Kerala/City/Triwandrum.md) 
+
+### #is_/same_as :: [Triwandrum.public](/_public/Earth/Continent/Asia/Asia~South/India/States~India/Kerala/City/Triwandrum.public.md) 
+
+### #is_/same_as :: [Triwandrum.internal](/_internal/Earth/Continent/Asia/Asia~South/India/States~India/Kerala/City/Triwandrum.internal.md) 
+
+### #is_/same_as :: [Triwandrum.protect](/_protect/Earth/Continent/Asia/Asia~South/India/States~India/Kerala/City/Triwandrum.protect.md) 
+
+### #is_/same_as :: [Triwandrum.private](/_private/Earth/Continent/Asia/Asia~South/India/States~India/Kerala/City/Triwandrum.private.md) 
+
+### #is_/same_as :: [Triwandrum.personal](/_personal/Earth/Continent/Asia/Asia~South/India/States~India/Kerala/City/Triwandrum.personal.md) 
+
+### #is_/same_as :: [Triwandrum.secret](/_secret/Earth/Continent/Asia/Asia~South/India/States~India/Kerala/City/Triwandrum.secret.md)
+

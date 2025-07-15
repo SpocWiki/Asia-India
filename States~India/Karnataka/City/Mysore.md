@@ -31,10 +31,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/India/City/Mysore|Mysore]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/India/City/Mysore.public|Mysore.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/India/City/Mysore.internal|Mysore.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/India/City/Mysore.protect|Mysore.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/India/City/Mysore.private|Mysore.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/India/City/Mysore.personal|Mysore.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/India/City/Mysore.secret|Mysore.secret]] 
+
+### #is_/same_as :: [Mysore](/_Standards/Earth/Continent/Asia/Asia~South/India/States~India/Karnataka/City/Mysore.md) 
+
+### #is_/same_as :: [Mysore.public](/_public/Earth/Continent/Asia/Asia~South/India/States~India/Karnataka/City/Mysore.public.md) 
+
+### #is_/same_as :: [Mysore.internal](/_internal/Earth/Continent/Asia/Asia~South/India/States~India/Karnataka/City/Mysore.internal.md) 
+
+### #is_/same_as :: [Mysore.protect](/_protect/Earth/Continent/Asia/Asia~South/India/States~India/Karnataka/City/Mysore.protect.md) 
+
+### #is_/same_as :: [Mysore.private](/_private/Earth/Continent/Asia/Asia~South/India/States~India/Karnataka/City/Mysore.private.md) 
+
+### #is_/same_as :: [Mysore.personal](/_personal/Earth/Continent/Asia/Asia~South/India/States~India/Karnataka/City/Mysore.personal.md) 
+
+### #is_/same_as :: [Mysore.secret](/_secret/Earth/Continent/Asia/Asia~South/India/States~India/Karnataka/City/Mysore.secret.md)
+

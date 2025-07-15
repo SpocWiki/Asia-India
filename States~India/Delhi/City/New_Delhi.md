@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 28.62
 - 77.22
@@ -125,10 +125,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/India/City/New_Delhi|New_Delhi]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/India/City/New_Delhi.public|New_Delhi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/India/City/New_Delhi.internal|New_Delhi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/India/City/New_Delhi.protect|New_Delhi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/India/City/New_Delhi.private|New_Delhi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/India/City/New_Delhi.personal|New_Delhi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/India/City/New_Delhi.secret|New_Delhi.secret]] 
+
+### #is_/same_as :: [New_Delhi](/_Standards/Earth/Continent/Asia/Asia~South/India/States~India/Delhi/City/New_Delhi.md) 
+
+### #is_/same_as :: [New_Delhi.public](/_public/Earth/Continent/Asia/Asia~South/India/States~India/Delhi/City/New_Delhi.public.md) 
+
+### #is_/same_as :: [New_Delhi.internal](/_internal/Earth/Continent/Asia/Asia~South/India/States~India/Delhi/City/New_Delhi.internal.md) 
+
+### #is_/same_as :: [New_Delhi.protect](/_protect/Earth/Continent/Asia/Asia~South/India/States~India/Delhi/City/New_Delhi.protect.md) 
+
+### #is_/same_as :: [New_Delhi.private](/_private/Earth/Continent/Asia/Asia~South/India/States~India/Delhi/City/New_Delhi.private.md) 
+
+### #is_/same_as :: [New_Delhi.personal](/_personal/Earth/Continent/Asia/Asia~South/India/States~India/Delhi/City/New_Delhi.personal.md) 
+
+### #is_/same_as :: [New_Delhi.secret](/_secret/Earth/Continent/Asia/Asia~South/India/States~India/Delhi/City/New_Delhi.secret.md)
+

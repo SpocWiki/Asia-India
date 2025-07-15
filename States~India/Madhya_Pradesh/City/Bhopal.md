@@ -31,10 +31,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/India/City/Bhopal|Bhopal]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/India/City/Bhopal.public|Bhopal.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/India/City/Bhopal.internal|Bhopal.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/India/City/Bhopal.protect|Bhopal.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/India/City/Bhopal.private|Bhopal.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/India/City/Bhopal.personal|Bhopal.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/India/City/Bhopal.secret|Bhopal.secret]] 
+
+### #is_/same_as :: [Bhopal](/_Standards/Earth/Continent/Asia/Asia~South/India/States~India/Madhya_Pradesh/City/Bhopal.md) 
+
+### #is_/same_as :: [Bhopal.public](/_public/Earth/Continent/Asia/Asia~South/India/States~India/Madhya_Pradesh/City/Bhopal.public.md) 
+
+### #is_/same_as :: [Bhopal.internal](/_internal/Earth/Continent/Asia/Asia~South/India/States~India/Madhya_Pradesh/City/Bhopal.internal.md) 
+
+### #is_/same_as :: [Bhopal.protect](/_protect/Earth/Continent/Asia/Asia~South/India/States~India/Madhya_Pradesh/City/Bhopal.protect.md) 
+
+### #is_/same_as :: [Bhopal.private](/_private/Earth/Continent/Asia/Asia~South/India/States~India/Madhya_Pradesh/City/Bhopal.private.md) 
+
+### #is_/same_as :: [Bhopal.personal](/_personal/Earth/Continent/Asia/Asia~South/India/States~India/Madhya_Pradesh/City/Bhopal.personal.md) 
+
+### #is_/same_as :: [Bhopal.secret](/_secret/Earth/Continent/Asia/Asia~South/India/States~India/Madhya_Pradesh/City/Bhopal.secret.md)
+

@@ -40,11 +40,18 @@ markerFolder: ./Dadra_and_Nagar_Haveli/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/India/Counties/Dadra_and_Nagar_Haveli|Dadra_and_Nagar_Haveli]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Dadra_and_Nagar_Haveli.public|Dadra_and_Nagar_Haveli.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Dadra_and_Nagar_Haveli.internal|Dadra_and_Nagar_Haveli.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Dadra_and_Nagar_Haveli.protect|Dadra_and_Nagar_Haveli.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Dadra_and_Nagar_Haveli.private|Dadra_and_Nagar_Haveli.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Dadra_and_Nagar_Haveli.personal|Dadra_and_Nagar_Haveli.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Dadra_and_Nagar_Haveli.secret|Dadra_and_Nagar_Haveli.secret]] 
+
+### #is_/same_as :: [Dadra_and_Nagar_Haveli](/_Standards/Earth/Continent/Asia/Asia~South/India/States~India/Dadra_and_Nagar_Haveli.md) 
+
+### #is_/same_as :: [Dadra_and_Nagar_Haveli.public](/_public/Earth/Continent/Asia/Asia~South/India/States~India/Dadra_and_Nagar_Haveli.public.md) 
+
+### #is_/same_as :: [Dadra_and_Nagar_Haveli.internal](/_internal/Earth/Continent/Asia/Asia~South/India/States~India/Dadra_and_Nagar_Haveli.internal.md) 
+
+### #is_/same_as :: [Dadra_and_Nagar_Haveli.protect](/_protect/Earth/Continent/Asia/Asia~South/India/States~India/Dadra_and_Nagar_Haveli.protect.md) 
+
+### #is_/same_as :: [Dadra_and_Nagar_Haveli.private](/_private/Earth/Continent/Asia/Asia~South/India/States~India/Dadra_and_Nagar_Haveli.private.md) 
+
+### #is_/same_as :: [Dadra_and_Nagar_Haveli.personal](/_personal/Earth/Continent/Asia/Asia~South/India/States~India/Dadra_and_Nagar_Haveli.personal.md) 
+
+### #is_/same_as :: [Dadra_and_Nagar_Haveli.secret](/_secret/Earth/Continent/Asia/Asia~South/India/States~India/Dadra_and_Nagar_Haveli.secret.md)
 

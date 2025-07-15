@@ -40,11 +40,18 @@ markerFolder: ./Jammu_and_Kashmir/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/India/Counties/Jammu_and_Kashmir|Jammu_and_Kashmir]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Jammu_and_Kashmir.public|Jammu_and_Kashmir.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Jammu_and_Kashmir.internal|Jammu_and_Kashmir.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Jammu_and_Kashmir.protect|Jammu_and_Kashmir.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Jammu_and_Kashmir.private|Jammu_and_Kashmir.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Jammu_and_Kashmir.personal|Jammu_and_Kashmir.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Jammu_and_Kashmir.secret|Jammu_and_Kashmir.secret]] 
+
+### #is_/same_as :: [Jammu_and_Kashmir](/_Standards/Earth/Continent/Asia/Asia~South/India/States~India/Jammu_and_Kashmir.md) 
+
+### #is_/same_as :: [Jammu_and_Kashmir.public](/_public/Earth/Continent/Asia/Asia~South/India/States~India/Jammu_and_Kashmir.public.md) 
+
+### #is_/same_as :: [Jammu_and_Kashmir.internal](/_internal/Earth/Continent/Asia/Asia~South/India/States~India/Jammu_and_Kashmir.internal.md) 
+
+### #is_/same_as :: [Jammu_and_Kashmir.protect](/_protect/Earth/Continent/Asia/Asia~South/India/States~India/Jammu_and_Kashmir.protect.md) 
+
+### #is_/same_as :: [Jammu_and_Kashmir.private](/_private/Earth/Continent/Asia/Asia~South/India/States~India/Jammu_and_Kashmir.private.md) 
+
+### #is_/same_as :: [Jammu_and_Kashmir.personal](/_personal/Earth/Continent/Asia/Asia~South/India/States~India/Jammu_and_Kashmir.personal.md) 
+
+### #is_/same_as :: [Jammu_and_Kashmir.secret](/_secret/Earth/Continent/Asia/Asia~South/India/States~India/Jammu_and_Kashmir.secret.md)
 

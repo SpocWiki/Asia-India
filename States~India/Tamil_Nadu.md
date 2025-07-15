@@ -40,11 +40,18 @@ markerFolder: ./Tamil_Nadu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/India/Counties/Tamil_Nadu|Tamil_Nadu]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Tamil_Nadu.public|Tamil_Nadu.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Tamil_Nadu.internal|Tamil_Nadu.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Tamil_Nadu.protect|Tamil_Nadu.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Tamil_Nadu.private|Tamil_Nadu.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Tamil_Nadu.personal|Tamil_Nadu.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Tamil_Nadu.secret|Tamil_Nadu.secret]] 
+
+### #is_/same_as :: [Tamil_Nadu](/_Standards/Earth/Continent/Asia/Asia~South/India/States~India/Tamil_Nadu.md) 
+
+### #is_/same_as :: [Tamil_Nadu.public](/_public/Earth/Continent/Asia/Asia~South/India/States~India/Tamil_Nadu.public.md) 
+
+### #is_/same_as :: [Tamil_Nadu.internal](/_internal/Earth/Continent/Asia/Asia~South/India/States~India/Tamil_Nadu.internal.md) 
+
+### #is_/same_as :: [Tamil_Nadu.protect](/_protect/Earth/Continent/Asia/Asia~South/India/States~India/Tamil_Nadu.protect.md) 
+
+### #is_/same_as :: [Tamil_Nadu.private](/_private/Earth/Continent/Asia/Asia~South/India/States~India/Tamil_Nadu.private.md) 
+
+### #is_/same_as :: [Tamil_Nadu.personal](/_personal/Earth/Continent/Asia/Asia~South/India/States~India/Tamil_Nadu.personal.md) 
+
+### #is_/same_as :: [Tamil_Nadu.secret](/_secret/Earth/Continent/Asia/Asia~South/India/States~India/Tamil_Nadu.secret.md)
 

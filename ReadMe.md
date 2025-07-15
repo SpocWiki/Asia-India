@@ -154,10 +154,4 @@ Capital :: [[India/Counties/Delhi/City/New_Delhi]]
 
 
 
-## Confidential Links & Embeds: 
-- [[India|India]]  
-- [[../../../../../_internal/geo/Continent/Asia/Asia~South/India.internal|India.internal]]  
-- [[../../../../../_protect/geo/Continent/Asia/Asia~South/India.protect|India.protect]] 
-- [[../../../../../_private/geo/Continent/Asia/Asia~South/India.private|India.private]] 
-- [[../../../../../_personal/geo/Continent/Asia/Asia~South/India.personal|India.personal]] 
-- [[../../../../../_secret/geo/Continent/Asia/Asia~South/India.secret|India.secret]] 
+

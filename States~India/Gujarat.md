@@ -40,11 +40,18 @@ markerFolder: ./Gujarat/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/India/Counties/Gujarat|Gujarat]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Gujarat.public|Gujarat.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Gujarat.internal|Gujarat.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Gujarat.protect|Gujarat.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Gujarat.private|Gujarat.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Gujarat.personal|Gujarat.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Gujarat.secret|Gujarat.secret]] 
+
+### #is_/same_as :: [Gujarat](/_Standards/Earth/Continent/Asia/Asia~South/India/States~India/Gujarat.md) 
+
+### #is_/same_as :: [Gujarat.public](/_public/Earth/Continent/Asia/Asia~South/India/States~India/Gujarat.public.md) 
+
+### #is_/same_as :: [Gujarat.internal](/_internal/Earth/Continent/Asia/Asia~South/India/States~India/Gujarat.internal.md) 
+
+### #is_/same_as :: [Gujarat.protect](/_protect/Earth/Continent/Asia/Asia~South/India/States~India/Gujarat.protect.md) 
+
+### #is_/same_as :: [Gujarat.private](/_private/Earth/Continent/Asia/Asia~South/India/States~India/Gujarat.private.md) 
+
+### #is_/same_as :: [Gujarat.personal](/_personal/Earth/Continent/Asia/Asia~South/India/States~India/Gujarat.personal.md) 
+
+### #is_/same_as :: [Gujarat.secret](/_secret/Earth/Continent/Asia/Asia~South/India/States~India/Gujarat.secret.md)
 

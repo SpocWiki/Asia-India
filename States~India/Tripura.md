@@ -40,11 +40,18 @@ markerFolder: ./Tripura/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/India/Counties/Tripura|Tripura]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Tripura.public|Tripura.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Tripura.internal|Tripura.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Tripura.protect|Tripura.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Tripura.private|Tripura.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Tripura.personal|Tripura.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Tripura.secret|Tripura.secret]] 
+
+### #is_/same_as :: [Tripura](/_Standards/Earth/Continent/Asia/Asia~South/India/States~India/Tripura.md) 
+
+### #is_/same_as :: [Tripura.public](/_public/Earth/Continent/Asia/Asia~South/India/States~India/Tripura.public.md) 
+
+### #is_/same_as :: [Tripura.internal](/_internal/Earth/Continent/Asia/Asia~South/India/States~India/Tripura.internal.md) 
+
+### #is_/same_as :: [Tripura.protect](/_protect/Earth/Continent/Asia/Asia~South/India/States~India/Tripura.protect.md) 
+
+### #is_/same_as :: [Tripura.private](/_private/Earth/Continent/Asia/Asia~South/India/States~India/Tripura.private.md) 
+
+### #is_/same_as :: [Tripura.personal](/_personal/Earth/Continent/Asia/Asia~South/India/States~India/Tripura.personal.md) 
+
+### #is_/same_as :: [Tripura.secret](/_secret/Earth/Continent/Asia/Asia~South/India/States~India/Tripura.secret.md)
 

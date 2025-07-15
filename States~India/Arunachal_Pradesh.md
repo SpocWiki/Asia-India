@@ -40,11 +40,18 @@ markerFolder: ./Arunachal_Pradesh/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/India/Counties/Arunachal_Pradesh|Arunachal_Pradesh]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Arunachal_Pradesh.public|Arunachal_Pradesh.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Arunachal_Pradesh.internal|Arunachal_Pradesh.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Arunachal_Pradesh.protect|Arunachal_Pradesh.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Arunachal_Pradesh.private|Arunachal_Pradesh.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Arunachal_Pradesh.personal|Arunachal_Pradesh.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Arunachal_Pradesh.secret|Arunachal_Pradesh.secret]] 
+
+### #is_/same_as :: [Arunachal_Pradesh](/_Standards/Earth/Continent/Asia/Asia~South/India/States~India/Arunachal_Pradesh.md) 
+
+### #is_/same_as :: [Arunachal_Pradesh.public](/_public/Earth/Continent/Asia/Asia~South/India/States~India/Arunachal_Pradesh.public.md) 
+
+### #is_/same_as :: [Arunachal_Pradesh.internal](/_internal/Earth/Continent/Asia/Asia~South/India/States~India/Arunachal_Pradesh.internal.md) 
+
+### #is_/same_as :: [Arunachal_Pradesh.protect](/_protect/Earth/Continent/Asia/Asia~South/India/States~India/Arunachal_Pradesh.protect.md) 
+
+### #is_/same_as :: [Arunachal_Pradesh.private](/_private/Earth/Continent/Asia/Asia~South/India/States~India/Arunachal_Pradesh.private.md) 
+
+### #is_/same_as :: [Arunachal_Pradesh.personal](/_personal/Earth/Continent/Asia/Asia~South/India/States~India/Arunachal_Pradesh.personal.md) 
+
+### #is_/same_as :: [Arunachal_Pradesh.secret](/_secret/Earth/Continent/Asia/Asia~South/India/States~India/Arunachal_Pradesh.secret.md)
 

@@ -31,10 +31,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/India/City/Nagpur|Nagpur]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/India/City/Nagpur.public|Nagpur.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/India/City/Nagpur.internal|Nagpur.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/India/City/Nagpur.protect|Nagpur.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/India/City/Nagpur.private|Nagpur.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/India/City/Nagpur.personal|Nagpur.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/India/City/Nagpur.secret|Nagpur.secret]] 
+
+### #is_/same_as :: [Nagpur](/_Standards/Earth/Continent/Asia/Asia~South/India/States~India/Maharashtra/City/Nagpur.md) 
+
+### #is_/same_as :: [Nagpur.public](/_public/Earth/Continent/Asia/Asia~South/India/States~India/Maharashtra/City/Nagpur.public.md) 
+
+### #is_/same_as :: [Nagpur.internal](/_internal/Earth/Continent/Asia/Asia~South/India/States~India/Maharashtra/City/Nagpur.internal.md) 
+
+### #is_/same_as :: [Nagpur.protect](/_protect/Earth/Continent/Asia/Asia~South/India/States~India/Maharashtra/City/Nagpur.protect.md) 
+
+### #is_/same_as :: [Nagpur.private](/_private/Earth/Continent/Asia/Asia~South/India/States~India/Maharashtra/City/Nagpur.private.md) 
+
+### #is_/same_as :: [Nagpur.personal](/_personal/Earth/Continent/Asia/Asia~South/India/States~India/Maharashtra/City/Nagpur.personal.md) 
+
+### #is_/same_as :: [Nagpur.secret](/_secret/Earth/Continent/Asia/Asia~South/India/States~India/Maharashtra/City/Nagpur.secret.md)
+

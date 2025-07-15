@@ -40,11 +40,18 @@ markerFolder: ./Madhya_Pradesh/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/India/Counties/Madhya_Pradesh|Madhya_Pradesh]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Madhya_Pradesh.public|Madhya_Pradesh.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Madhya_Pradesh.internal|Madhya_Pradesh.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Madhya_Pradesh.protect|Madhya_Pradesh.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Madhya_Pradesh.private|Madhya_Pradesh.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Madhya_Pradesh.personal|Madhya_Pradesh.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Madhya_Pradesh.secret|Madhya_Pradesh.secret]] 
+
+### #is_/same_as :: [Madhya_Pradesh](/_Standards/Earth/Continent/Asia/Asia~South/India/States~India/Madhya_Pradesh.md) 
+
+### #is_/same_as :: [Madhya_Pradesh.public](/_public/Earth/Continent/Asia/Asia~South/India/States~India/Madhya_Pradesh.public.md) 
+
+### #is_/same_as :: [Madhya_Pradesh.internal](/_internal/Earth/Continent/Asia/Asia~South/India/States~India/Madhya_Pradesh.internal.md) 
+
+### #is_/same_as :: [Madhya_Pradesh.protect](/_protect/Earth/Continent/Asia/Asia~South/India/States~India/Madhya_Pradesh.protect.md) 
+
+### #is_/same_as :: [Madhya_Pradesh.private](/_private/Earth/Continent/Asia/Asia~South/India/States~India/Madhya_Pradesh.private.md) 
+
+### #is_/same_as :: [Madhya_Pradesh.personal](/_personal/Earth/Continent/Asia/Asia~South/India/States~India/Madhya_Pradesh.personal.md) 
+
+### #is_/same_as :: [Madhya_Pradesh.secret](/_secret/Earth/Continent/Asia/Asia~South/India/States~India/Madhya_Pradesh.secret.md)
 

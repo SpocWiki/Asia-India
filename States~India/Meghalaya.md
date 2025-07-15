@@ -40,11 +40,18 @@ markerFolder: ./Meghalaya/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/India/Counties/Meghalaya|Meghalaya]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Meghalaya.public|Meghalaya.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Meghalaya.internal|Meghalaya.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Meghalaya.protect|Meghalaya.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Meghalaya.private|Meghalaya.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Meghalaya.personal|Meghalaya.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Meghalaya.secret|Meghalaya.secret]] 
+
+### #is_/same_as :: [Meghalaya](/_Standards/Earth/Continent/Asia/Asia~South/India/States~India/Meghalaya.md) 
+
+### #is_/same_as :: [Meghalaya.public](/_public/Earth/Continent/Asia/Asia~South/India/States~India/Meghalaya.public.md) 
+
+### #is_/same_as :: [Meghalaya.internal](/_internal/Earth/Continent/Asia/Asia~South/India/States~India/Meghalaya.internal.md) 
+
+### #is_/same_as :: [Meghalaya.protect](/_protect/Earth/Continent/Asia/Asia~South/India/States~India/Meghalaya.protect.md) 
+
+### #is_/same_as :: [Meghalaya.private](/_private/Earth/Continent/Asia/Asia~South/India/States~India/Meghalaya.private.md) 
+
+### #is_/same_as :: [Meghalaya.personal](/_personal/Earth/Continent/Asia/Asia~South/India/States~India/Meghalaya.personal.md) 
+
+### #is_/same_as :: [Meghalaya.secret](/_secret/Earth/Continent/Asia/Asia~South/India/States~India/Meghalaya.secret.md)
 

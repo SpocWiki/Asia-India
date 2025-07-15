@@ -39,11 +39,18 @@ markerFolder: ./Andhra_Pradesh/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/India/Counties/Andhra_Pradesh|Andhra_Pradesh]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Andhra_Pradesh.public|Andhra_Pradesh.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Andhra_Pradesh.internal|Andhra_Pradesh.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Andhra_Pradesh.protect|Andhra_Pradesh.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Andhra_Pradesh.private|Andhra_Pradesh.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Andhra_Pradesh.personal|Andhra_Pradesh.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Andhra_Pradesh.secret|Andhra_Pradesh.secret]] 
+
+### #is_/same_as :: [Andhra_Pradesh](/_Standards/Earth/Continent/Asia/Asia~South/India/States~India/Andhra_Pradesh.md) 
+
+### #is_/same_as :: [Andhra_Pradesh.public](/_public/Earth/Continent/Asia/Asia~South/India/States~India/Andhra_Pradesh.public.md) 
+
+### #is_/same_as :: [Andhra_Pradesh.internal](/_internal/Earth/Continent/Asia/Asia~South/India/States~India/Andhra_Pradesh.internal.md) 
+
+### #is_/same_as :: [Andhra_Pradesh.protect](/_protect/Earth/Continent/Asia/Asia~South/India/States~India/Andhra_Pradesh.protect.md) 
+
+### #is_/same_as :: [Andhra_Pradesh.private](/_private/Earth/Continent/Asia/Asia~South/India/States~India/Andhra_Pradesh.private.md) 
+
+### #is_/same_as :: [Andhra_Pradesh.personal](/_personal/Earth/Continent/Asia/Asia~South/India/States~India/Andhra_Pradesh.personal.md) 
+
+### #is_/same_as :: [Andhra_Pradesh.secret](/_secret/Earth/Continent/Asia/Asia~South/India/States~India/Andhra_Pradesh.secret.md)
 

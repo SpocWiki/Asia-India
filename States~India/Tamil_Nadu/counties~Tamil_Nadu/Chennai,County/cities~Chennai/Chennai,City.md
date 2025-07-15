@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Chennai
 - Madras
@@ -91,4 +91,23 @@ inception: "1639-01-01T00:00:00Z"
 > Chennai is a major centre for medical tourism and is termed "India's health capital". Chennai houses a major portion of India's automobile industry, hence the name "Detroit of India". It was the only South Asian city to be ranked among National Geographic's "Top 10 food cities" in 2015 and ranked ninth on Lonely Planet's best cosmopolitan cities in the world. In October 2017, Chennai was added to the UNESCO Creative Cities Network (UCCN) list. It is a major film production centre and home to the Tamil-language film industry.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chennai) 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Chennai,City](/_Standards/Earth/Continent/Asia/Asia~South/India/States~India/Tamil_Nadu/counties~Tamil_Nadu/Chennai,County/cities~Chennai/Chennai,City.md) 
+
+### #is_/same_as :: [Chennai,City.public](/_public/Earth/Continent/Asia/Asia~South/India/States~India/Tamil_Nadu/counties~Tamil_Nadu/Chennai,County/cities~Chennai/Chennai,City.public.md) 
+
+### #is_/same_as :: [Chennai,City.internal](/_internal/Earth/Continent/Asia/Asia~South/India/States~India/Tamil_Nadu/counties~Tamil_Nadu/Chennai,County/cities~Chennai/Chennai,City.internal.md) 
+
+### #is_/same_as :: [Chennai,City.protect](/_protect/Earth/Continent/Asia/Asia~South/India/States~India/Tamil_Nadu/counties~Tamil_Nadu/Chennai,County/cities~Chennai/Chennai,City.protect.md) 
+
+### #is_/same_as :: [Chennai,City.private](/_private/Earth/Continent/Asia/Asia~South/India/States~India/Tamil_Nadu/counties~Tamil_Nadu/Chennai,County/cities~Chennai/Chennai,City.private.md) 
+
+### #is_/same_as :: [Chennai,City.personal](/_personal/Earth/Continent/Asia/Asia~South/India/States~India/Tamil_Nadu/counties~Tamil_Nadu/Chennai,County/cities~Chennai/Chennai,City.personal.md) 
+
+### #is_/same_as :: [Chennai,City.secret](/_secret/Earth/Continent/Asia/Asia~South/India/States~India/Tamil_Nadu/counties~Tamil_Nadu/Chennai,County/cities~Chennai/Chennai,City.secret.md)
 

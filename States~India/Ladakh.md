@@ -13,3 +13,22 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ladakh](/_Standards/Earth/Continent/Asia/Asia~South/India/States~India/Ladakh.md) 
+
+### #is_/same_as :: [Ladakh.public](/_public/Earth/Continent/Asia/Asia~South/India/States~India/Ladakh.public.md) 
+
+### #is_/same_as :: [Ladakh.internal](/_internal/Earth/Continent/Asia/Asia~South/India/States~India/Ladakh.internal.md) 
+
+### #is_/same_as :: [Ladakh.protect](/_protect/Earth/Continent/Asia/Asia~South/India/States~India/Ladakh.protect.md) 
+
+### #is_/same_as :: [Ladakh.private](/_private/Earth/Continent/Asia/Asia~South/India/States~India/Ladakh.private.md) 
+
+### #is_/same_as :: [Ladakh.personal](/_personal/Earth/Continent/Asia/Asia~South/India/States~India/Ladakh.personal.md) 
+
+### #is_/same_as :: [Ladakh.secret](/_secret/Earth/Continent/Asia/Asia~South/India/States~India/Ladakh.secret.md)
+

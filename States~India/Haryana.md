@@ -40,11 +40,18 @@ markerFolder: ./Haryana/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/India/Counties/Haryana|Haryana]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Haryana.public|Haryana.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Haryana.internal|Haryana.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Haryana.protect|Haryana.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Haryana.private|Haryana.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Haryana.personal|Haryana.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Haryana.secret|Haryana.secret]] 
+
+### #is_/same_as :: [Haryana](/_Standards/Earth/Continent/Asia/Asia~South/India/States~India/Haryana.md) 
+
+### #is_/same_as :: [Haryana.public](/_public/Earth/Continent/Asia/Asia~South/India/States~India/Haryana.public.md) 
+
+### #is_/same_as :: [Haryana.internal](/_internal/Earth/Continent/Asia/Asia~South/India/States~India/Haryana.internal.md) 
+
+### #is_/same_as :: [Haryana.protect](/_protect/Earth/Continent/Asia/Asia~South/India/States~India/Haryana.protect.md) 
+
+### #is_/same_as :: [Haryana.private](/_private/Earth/Continent/Asia/Asia~South/India/States~India/Haryana.private.md) 
+
+### #is_/same_as :: [Haryana.personal](/_personal/Earth/Continent/Asia/Asia~South/India/States~India/Haryana.personal.md) 
+
+### #is_/same_as :: [Haryana.secret](/_secret/Earth/Continent/Asia/Asia~South/India/States~India/Haryana.secret.md)
 

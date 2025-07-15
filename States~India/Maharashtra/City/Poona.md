@@ -31,10 +31,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/India/City/Poona|Poona]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/India/City/Poona.public|Poona.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/India/City/Poona.internal|Poona.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/India/City/Poona.protect|Poona.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/India/City/Poona.private|Poona.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/India/City/Poona.personal|Poona.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/India/City/Poona.secret|Poona.secret]] 
+
+### #is_/same_as :: [Poona](/_Standards/Earth/Continent/Asia/Asia~South/India/States~India/Maharashtra/City/Poona.md) 
+
+### #is_/same_as :: [Poona.public](/_public/Earth/Continent/Asia/Asia~South/India/States~India/Maharashtra/City/Poona.public.md) 
+
+### #is_/same_as :: [Poona.internal](/_internal/Earth/Continent/Asia/Asia~South/India/States~India/Maharashtra/City/Poona.internal.md) 
+
+### #is_/same_as :: [Poona.protect](/_protect/Earth/Continent/Asia/Asia~South/India/States~India/Maharashtra/City/Poona.protect.md) 
+
+### #is_/same_as :: [Poona.private](/_private/Earth/Continent/Asia/Asia~South/India/States~India/Maharashtra/City/Poona.private.md) 
+
+### #is_/same_as :: [Poona.personal](/_personal/Earth/Continent/Asia/Asia~South/India/States~India/Maharashtra/City/Poona.personal.md) 
+
+### #is_/same_as :: [Poona.secret](/_secret/Earth/Continent/Asia/Asia~South/India/States~India/Maharashtra/City/Poona.secret.md)
+

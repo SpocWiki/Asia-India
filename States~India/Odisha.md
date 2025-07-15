@@ -40,11 +40,18 @@ markerFolder: ./Orissa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/India/Counties/Orissa|Orissa]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Orissa.public|Orissa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Orissa.internal|Orissa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Orissa.protect|Orissa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Orissa.private|Orissa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Orissa.personal|Orissa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Orissa.secret|Orissa.secret]] 
+
+### #is_/same_as :: [Odisha](/_Standards/Earth/Continent/Asia/Asia~South/India/States~India/Odisha.md) 
+
+### #is_/same_as :: [Odisha.public](/_public/Earth/Continent/Asia/Asia~South/India/States~India/Odisha.public.md) 
+
+### #is_/same_as :: [Odisha.internal](/_internal/Earth/Continent/Asia/Asia~South/India/States~India/Odisha.internal.md) 
+
+### #is_/same_as :: [Odisha.protect](/_protect/Earth/Continent/Asia/Asia~South/India/States~India/Odisha.protect.md) 
+
+### #is_/same_as :: [Odisha.private](/_private/Earth/Continent/Asia/Asia~South/India/States~India/Odisha.private.md) 
+
+### #is_/same_as :: [Odisha.personal](/_personal/Earth/Continent/Asia/Asia~South/India/States~India/Odisha.personal.md) 
+
+### #is_/same_as :: [Odisha.secret](/_secret/Earth/Continent/Asia/Asia~South/India/States~India/Odisha.secret.md)
 

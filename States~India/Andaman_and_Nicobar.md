@@ -42,11 +42,18 @@ marker: default,11.572366195918184,92.25025702200708,,North Sentinel Island,,
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/India/Counties/Andaman_and_Nicobar|Andaman_and_Nicobar]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Andaman_and_Nicobar.public|Andaman_and_Nicobar.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Andaman_and_Nicobar.internal|Andaman_and_Nicobar.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Andaman_and_Nicobar.protect|Andaman_and_Nicobar.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Andaman_and_Nicobar.private|Andaman_and_Nicobar.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Andaman_and_Nicobar.personal|Andaman_and_Nicobar.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Andaman_and_Nicobar.secret|Andaman_and_Nicobar.secret]] 
+
+### #is_/same_as :: [Andaman_and_Nicobar](/_Standards/Earth/Continent/Asia/Asia~South/India/States~India/Andaman_and_Nicobar.md) 
+
+### #is_/same_as :: [Andaman_and_Nicobar.public](/_public/Earth/Continent/Asia/Asia~South/India/States~India/Andaman_and_Nicobar.public.md) 
+
+### #is_/same_as :: [Andaman_and_Nicobar.internal](/_internal/Earth/Continent/Asia/Asia~South/India/States~India/Andaman_and_Nicobar.internal.md) 
+
+### #is_/same_as :: [Andaman_and_Nicobar.protect](/_protect/Earth/Continent/Asia/Asia~South/India/States~India/Andaman_and_Nicobar.protect.md) 
+
+### #is_/same_as :: [Andaman_and_Nicobar.private](/_private/Earth/Continent/Asia/Asia~South/India/States~India/Andaman_and_Nicobar.private.md) 
+
+### #is_/same_as :: [Andaman_and_Nicobar.personal](/_personal/Earth/Continent/Asia/Asia~South/India/States~India/Andaman_and_Nicobar.personal.md) 
+
+### #is_/same_as :: [Andaman_and_Nicobar.secret](/_secret/Earth/Continent/Asia/Asia~South/India/States~India/Andaman_and_Nicobar.secret.md)
 

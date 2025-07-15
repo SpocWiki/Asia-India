@@ -40,11 +40,18 @@ markerFolder: ./Uttar_Pradesh/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/India/Counties/Uttar_Pradesh|Uttar_Pradesh]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Uttar_Pradesh.public|Uttar_Pradesh.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Uttar_Pradesh.internal|Uttar_Pradesh.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Uttar_Pradesh.protect|Uttar_Pradesh.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Uttar_Pradesh.private|Uttar_Pradesh.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Uttar_Pradesh.personal|Uttar_Pradesh.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Uttar_Pradesh.secret|Uttar_Pradesh.secret]] 
+
+### #is_/same_as :: [Uttar_Pradesh](/_Standards/Earth/Continent/Asia/Asia~South/India/States~India/Uttar_Pradesh.md) 
+
+### #is_/same_as :: [Uttar_Pradesh.public](/_public/Earth/Continent/Asia/Asia~South/India/States~India/Uttar_Pradesh.public.md) 
+
+### #is_/same_as :: [Uttar_Pradesh.internal](/_internal/Earth/Continent/Asia/Asia~South/India/States~India/Uttar_Pradesh.internal.md) 
+
+### #is_/same_as :: [Uttar_Pradesh.protect](/_protect/Earth/Continent/Asia/Asia~South/India/States~India/Uttar_Pradesh.protect.md) 
+
+### #is_/same_as :: [Uttar_Pradesh.private](/_private/Earth/Continent/Asia/Asia~South/India/States~India/Uttar_Pradesh.private.md) 
+
+### #is_/same_as :: [Uttar_Pradesh.personal](/_personal/Earth/Continent/Asia/Asia~South/India/States~India/Uttar_Pradesh.personal.md) 
+
+### #is_/same_as :: [Uttar_Pradesh.secret](/_secret/Earth/Continent/Asia/Asia~South/India/States~India/Uttar_Pradesh.secret.md)
 

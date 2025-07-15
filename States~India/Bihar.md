@@ -40,11 +40,18 @@ markerFolder: ./Bihar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/India/Counties/Bihar|Bihar]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Bihar.public|Bihar.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Bihar.internal|Bihar.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Bihar.protect|Bihar.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Bihar.private|Bihar.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Bihar.personal|Bihar.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Bihar.secret|Bihar.secret]] 
+
+### #is_/same_as :: [Bihar](/_Standards/Earth/Continent/Asia/Asia~South/India/States~India/Bihar.md) 
+
+### #is_/same_as :: [Bihar.public](/_public/Earth/Continent/Asia/Asia~South/India/States~India/Bihar.public.md) 
+
+### #is_/same_as :: [Bihar.internal](/_internal/Earth/Continent/Asia/Asia~South/India/States~India/Bihar.internal.md) 
+
+### #is_/same_as :: [Bihar.protect](/_protect/Earth/Continent/Asia/Asia~South/India/States~India/Bihar.protect.md) 
+
+### #is_/same_as :: [Bihar.private](/_private/Earth/Continent/Asia/Asia~South/India/States~India/Bihar.private.md) 
+
+### #is_/same_as :: [Bihar.personal](/_personal/Earth/Continent/Asia/Asia~South/India/States~India/Bihar.personal.md) 
+
+### #is_/same_as :: [Bihar.secret](/_secret/Earth/Continent/Asia/Asia~South/India/States~India/Bihar.secret.md)
 

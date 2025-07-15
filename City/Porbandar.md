@@ -31,10 +31,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/India/City/Porbandar|Porbandar]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/India/City/Porbandar.public|Porbandar.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/India/City/Porbandar.internal|Porbandar.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/India/City/Porbandar.protect|Porbandar.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/India/City/Porbandar.private|Porbandar.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/India/City/Porbandar.personal|Porbandar.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/India/City/Porbandar.secret|Porbandar.secret]] 
+
+### #is_/same_as :: [Porbandar](/_Standards/Earth/Continent/Asia/Asia~South/India/City/Porbandar.md) 
+
+### #is_/same_as :: [Porbandar.public](/_public/Earth/Continent/Asia/Asia~South/India/City/Porbandar.public.md) 
+
+### #is_/same_as :: [Porbandar.internal](/_internal/Earth/Continent/Asia/Asia~South/India/City/Porbandar.internal.md) 
+
+### #is_/same_as :: [Porbandar.protect](/_protect/Earth/Continent/Asia/Asia~South/India/City/Porbandar.protect.md) 
+
+### #is_/same_as :: [Porbandar.private](/_private/Earth/Continent/Asia/Asia~South/India/City/Porbandar.private.md) 
+
+### #is_/same_as :: [Porbandar.personal](/_personal/Earth/Continent/Asia/Asia~South/India/City/Porbandar.personal.md) 
+
+### #is_/same_as :: [Porbandar.secret](/_secret/Earth/Continent/Asia/Asia~South/India/City/Porbandar.secret.md)
+

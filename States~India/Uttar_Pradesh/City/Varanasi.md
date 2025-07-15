@@ -31,10 +31,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/India/City/Varanasi|Varanasi]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/India/City/Varanasi.public|Varanasi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/India/City/Varanasi.internal|Varanasi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/India/City/Varanasi.protect|Varanasi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/India/City/Varanasi.private|Varanasi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/India/City/Varanasi.personal|Varanasi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/India/City/Varanasi.secret|Varanasi.secret]] 
+
+### #is_/same_as :: [Varanasi](/_Standards/Earth/Continent/Asia/Asia~South/India/States~India/Uttar_Pradesh/City/Varanasi.md) 
+
+### #is_/same_as :: [Varanasi.public](/_public/Earth/Continent/Asia/Asia~South/India/States~India/Uttar_Pradesh/City/Varanasi.public.md) 
+
+### #is_/same_as :: [Varanasi.internal](/_internal/Earth/Continent/Asia/Asia~South/India/States~India/Uttar_Pradesh/City/Varanasi.internal.md) 
+
+### #is_/same_as :: [Varanasi.protect](/_protect/Earth/Continent/Asia/Asia~South/India/States~India/Uttar_Pradesh/City/Varanasi.protect.md) 
+
+### #is_/same_as :: [Varanasi.private](/_private/Earth/Continent/Asia/Asia~South/India/States~India/Uttar_Pradesh/City/Varanasi.private.md) 
+
+### #is_/same_as :: [Varanasi.personal](/_personal/Earth/Continent/Asia/Asia~South/India/States~India/Uttar_Pradesh/City/Varanasi.personal.md) 
+
+### #is_/same_as :: [Varanasi.secret](/_secret/Earth/Continent/Asia/Asia~South/India/States~India/Uttar_Pradesh/City/Varanasi.secret.md)
+

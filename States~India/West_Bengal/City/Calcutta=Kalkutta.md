@@ -31,10 +31,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/India/City/Calcutta=Kalkutta|Calcutta=Kalkutta]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/India/City/Calcutta=Kalkutta.public|Calcutta=Kalkutta.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/India/City/Calcutta=Kalkutta.internal|Calcutta=Kalkutta.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/India/City/Calcutta=Kalkutta.protect|Calcutta=Kalkutta.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/India/City/Calcutta=Kalkutta.private|Calcutta=Kalkutta.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/India/City/Calcutta=Kalkutta.personal|Calcutta=Kalkutta.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/India/City/Calcutta=Kalkutta.secret|Calcutta=Kalkutta.secret]] 
+
+### #is_/same_as :: [Calcutta=Kalkutta](/_Standards/Earth/Continent/Asia/Asia~South/India/States~India/West_Bengal/City/Calcutta=Kalkutta.md) 
+
+### #is_/same_as :: [Calcutta=Kalkutta.public](/_public/Earth/Continent/Asia/Asia~South/India/States~India/West_Bengal/City/Calcutta=Kalkutta.public.md) 
+
+### #is_/same_as :: [Calcutta=Kalkutta.internal](/_internal/Earth/Continent/Asia/Asia~South/India/States~India/West_Bengal/City/Calcutta=Kalkutta.internal.md) 
+
+### #is_/same_as :: [Calcutta=Kalkutta.protect](/_protect/Earth/Continent/Asia/Asia~South/India/States~India/West_Bengal/City/Calcutta=Kalkutta.protect.md) 
+
+### #is_/same_as :: [Calcutta=Kalkutta.private](/_private/Earth/Continent/Asia/Asia~South/India/States~India/West_Bengal/City/Calcutta=Kalkutta.private.md) 
+
+### #is_/same_as :: [Calcutta=Kalkutta.personal](/_personal/Earth/Continent/Asia/Asia~South/India/States~India/West_Bengal/City/Calcutta=Kalkutta.personal.md) 
+
+### #is_/same_as :: [Calcutta=Kalkutta.secret](/_secret/Earth/Continent/Asia/Asia~South/India/States~India/West_Bengal/City/Calcutta=Kalkutta.secret.md)
+

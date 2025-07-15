@@ -39,11 +39,18 @@ markerFolder: ./Goa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/India/Counties/Goa|Goa]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Goa.public|Goa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Goa.internal|Goa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Goa.protect|Goa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Goa.private|Goa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Goa.personal|Goa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Goa.secret|Goa.secret]] 
+
+### #is_/same_as :: [Goa](/_Standards/Earth/Continent/Asia/Asia~South/India/States~India/Goa.md) 
+
+### #is_/same_as :: [Goa.public](/_public/Earth/Continent/Asia/Asia~South/India/States~India/Goa.public.md) 
+
+### #is_/same_as :: [Goa.internal](/_internal/Earth/Continent/Asia/Asia~South/India/States~India/Goa.internal.md) 
+
+### #is_/same_as :: [Goa.protect](/_protect/Earth/Continent/Asia/Asia~South/India/States~India/Goa.protect.md) 
+
+### #is_/same_as :: [Goa.private](/_private/Earth/Continent/Asia/Asia~South/India/States~India/Goa.private.md) 
+
+### #is_/same_as :: [Goa.personal](/_personal/Earth/Continent/Asia/Asia~South/India/States~India/Goa.personal.md) 
+
+### #is_/same_as :: [Goa.secret](/_secret/Earth/Continent/Asia/Asia~South/India/States~India/Goa.secret.md)
 

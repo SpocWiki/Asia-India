@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 22.58
 - 88.35
@@ -136,10 +136,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/India/City/Kalkutta=Calcutta|Kalkutta=Calcutta]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/India/City/Kalkutta=Calcutta.public|Kalkutta=Calcutta.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/India/City/Kalkutta=Calcutta.internal|Kalkutta=Calcutta.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/India/City/Kalkutta=Calcutta.protect|Kalkutta=Calcutta.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/India/City/Kalkutta=Calcutta.private|Kalkutta=Calcutta.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/India/City/Kalkutta=Calcutta.personal|Kalkutta=Calcutta.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/India/City/Kalkutta=Calcutta.secret|Kalkutta=Calcutta.secret]] 
+
+### #is_/same_as :: [Kolkata](/_Standards/Earth/Continent/Asia/Asia~South/India/States~India/West_Bengal/City/Kolkata.md) 
+
+### #is_/same_as :: [Kolkata.public](/_public/Earth/Continent/Asia/Asia~South/India/States~India/West_Bengal/City/Kolkata.public.md) 
+
+### #is_/same_as :: [Kolkata.internal](/_internal/Earth/Continent/Asia/Asia~South/India/States~India/West_Bengal/City/Kolkata.internal.md) 
+
+### #is_/same_as :: [Kolkata.protect](/_protect/Earth/Continent/Asia/Asia~South/India/States~India/West_Bengal/City/Kolkata.protect.md) 
+
+### #is_/same_as :: [Kolkata.private](/_private/Earth/Continent/Asia/Asia~South/India/States~India/West_Bengal/City/Kolkata.private.md) 
+
+### #is_/same_as :: [Kolkata.personal](/_personal/Earth/Continent/Asia/Asia~South/India/States~India/West_Bengal/City/Kolkata.personal.md) 
+
+### #is_/same_as :: [Kolkata.secret](/_secret/Earth/Continent/Asia/Asia~South/India/States~India/West_Bengal/City/Kolkata.secret.md)
+

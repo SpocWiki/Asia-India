@@ -40,11 +40,18 @@ markerFolder: ./Chhattisgarh/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/India/Counties/Chhattisgarh|Chhattisgarh]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Chhattisgarh.public|Chhattisgarh.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Chhattisgarh.internal|Chhattisgarh.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Chhattisgarh.protect|Chhattisgarh.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Chhattisgarh.private|Chhattisgarh.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Chhattisgarh.personal|Chhattisgarh.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Chhattisgarh.secret|Chhattisgarh.secret]] 
+
+### #is_/same_as :: [Chhattisgarh](/_Standards/Earth/Continent/Asia/Asia~South/India/States~India/Chhattisgarh.md) 
+
+### #is_/same_as :: [Chhattisgarh.public](/_public/Earth/Continent/Asia/Asia~South/India/States~India/Chhattisgarh.public.md) 
+
+### #is_/same_as :: [Chhattisgarh.internal](/_internal/Earth/Continent/Asia/Asia~South/India/States~India/Chhattisgarh.internal.md) 
+
+### #is_/same_as :: [Chhattisgarh.protect](/_protect/Earth/Continent/Asia/Asia~South/India/States~India/Chhattisgarh.protect.md) 
+
+### #is_/same_as :: [Chhattisgarh.private](/_private/Earth/Continent/Asia/Asia~South/India/States~India/Chhattisgarh.private.md) 
+
+### #is_/same_as :: [Chhattisgarh.personal](/_personal/Earth/Continent/Asia/Asia~South/India/States~India/Chhattisgarh.personal.md) 
+
+### #is_/same_as :: [Chhattisgarh.secret](/_secret/Earth/Continent/Asia/Asia~South/India/States~India/Chhattisgarh.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 28.7
 - 77.1
@@ -196,12 +196,21 @@ markerFolder: ./Delhi/
 > Delhi ranks fifth among the Indian states and union territories in human development index, and has the second-highest GDP per capita in India (after Goa). Although a union territory, the political administration of the NCT of Delhi today more closely resembles that of a state of India, with its own legislature, high court and an executive council of ministers headed by a chief minister. New Delhi is jointly administered by the federal government of India and the local government of Delhi, and serves as the capital of the nation as well as the NCT of Delhi. Delhi is also the centre of the National Capital Region, which is an "interstate regional planning" area created in 1985. Delhi hosted the inaugural 1951 Asian Games, the 1982 Asian Games, the 1983 Non-Aligned Movement summit, the 2010 Men's Hockey World Cup, the 2010 Commonwealth Games, the 2012 BRICS summit, the 2023 G20 summit, and was one of the major host cities of the 2011 and 2023 Cricket World Cups.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Delhi)
+
+
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/India/Counties/Delhi|Delhi]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Delhi.public|Delhi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Delhi.internal|Delhi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Delhi.protect|Delhi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Delhi.private|Delhi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Delhi.personal|Delhi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Delhi.secret|Delhi.secret]] 
+
+### #is_/same_as :: [Delhi](/_Standards/Earth/Continent/Asia/Asia~South/India/States~India/Delhi.md) 
+
+### #is_/same_as :: [Delhi.public](/_public/Earth/Continent/Asia/Asia~South/India/States~India/Delhi.public.md) 
+
+### #is_/same_as :: [Delhi.internal](/_internal/Earth/Continent/Asia/Asia~South/India/States~India/Delhi.internal.md) 
+
+### #is_/same_as :: [Delhi.protect](/_protect/Earth/Continent/Asia/Asia~South/India/States~India/Delhi.protect.md) 
+
+### #is_/same_as :: [Delhi.private](/_private/Earth/Continent/Asia/Asia~South/India/States~India/Delhi.private.md) 
+
+### #is_/same_as :: [Delhi.personal](/_personal/Earth/Continent/Asia/Asia~South/India/States~India/Delhi.personal.md) 
+
+### #is_/same_as :: [Delhi.secret](/_secret/Earth/Continent/Asia/Asia~South/India/States~India/Delhi.secret.md)
 

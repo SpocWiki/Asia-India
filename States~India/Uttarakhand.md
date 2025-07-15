@@ -40,11 +40,18 @@ markerFolder: ./Uttaranchal/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/India/Counties/Uttaranchal|Uttaranchal]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Uttaranchal.public|Uttaranchal.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Uttaranchal.internal|Uttaranchal.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Uttaranchal.protect|Uttaranchal.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Uttaranchal.private|Uttaranchal.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Uttaranchal.personal|Uttaranchal.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Uttaranchal.secret|Uttaranchal.secret]] 
+
+### #is_/same_as :: [Uttarakhand](/_Standards/Earth/Continent/Asia/Asia~South/India/States~India/Uttarakhand.md) 
+
+### #is_/same_as :: [Uttarakhand.public](/_public/Earth/Continent/Asia/Asia~South/India/States~India/Uttarakhand.public.md) 
+
+### #is_/same_as :: [Uttarakhand.internal](/_internal/Earth/Continent/Asia/Asia~South/India/States~India/Uttarakhand.internal.md) 
+
+### #is_/same_as :: [Uttarakhand.protect](/_protect/Earth/Continent/Asia/Asia~South/India/States~India/Uttarakhand.protect.md) 
+
+### #is_/same_as :: [Uttarakhand.private](/_private/Earth/Continent/Asia/Asia~South/India/States~India/Uttarakhand.private.md) 
+
+### #is_/same_as :: [Uttarakhand.personal](/_personal/Earth/Continent/Asia/Asia~South/India/States~India/Uttarakhand.personal.md) 
+
+### #is_/same_as :: [Uttarakhand.secret](/_secret/Earth/Continent/Asia/Asia~South/India/States~India/Uttarakhand.secret.md)
 

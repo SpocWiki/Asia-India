@@ -31,10 +31,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/India/City/Darjeeling|Darjeeling]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/India/City/Darjeeling.public|Darjeeling.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/India/City/Darjeeling.internal|Darjeeling.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/India/City/Darjeeling.protect|Darjeeling.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/India/City/Darjeeling.private|Darjeeling.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/India/City/Darjeeling.personal|Darjeeling.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/India/City/Darjeeling.secret|Darjeeling.secret]] 
+
+### #is_/same_as :: [Darjeeling](/_Standards/Earth/Continent/Asia/Asia~South/India/States~India/West_Bengal/City/Darjeeling.md) 
+
+### #is_/same_as :: [Darjeeling.public](/_public/Earth/Continent/Asia/Asia~South/India/States~India/West_Bengal/City/Darjeeling.public.md) 
+
+### #is_/same_as :: [Darjeeling.internal](/_internal/Earth/Continent/Asia/Asia~South/India/States~India/West_Bengal/City/Darjeeling.internal.md) 
+
+### #is_/same_as :: [Darjeeling.protect](/_protect/Earth/Continent/Asia/Asia~South/India/States~India/West_Bengal/City/Darjeeling.protect.md) 
+
+### #is_/same_as :: [Darjeeling.private](/_private/Earth/Continent/Asia/Asia~South/India/States~India/West_Bengal/City/Darjeeling.private.md) 
+
+### #is_/same_as :: [Darjeeling.personal](/_personal/Earth/Continent/Asia/Asia~South/India/States~India/West_Bengal/City/Darjeeling.personal.md) 
+
+### #is_/same_as :: [Darjeeling.secret](/_secret/Earth/Continent/Asia/Asia~South/India/States~India/West_Bengal/City/Darjeeling.secret.md)
+

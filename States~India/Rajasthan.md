@@ -40,11 +40,18 @@ markerFolder: ./Rajasthan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/India/Counties/Rajasthan|Rajasthan]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Rajasthan.public|Rajasthan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Rajasthan.internal|Rajasthan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Rajasthan.protect|Rajasthan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Rajasthan.private|Rajasthan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Rajasthan.personal|Rajasthan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Rajasthan.secret|Rajasthan.secret]] 
+
+### #is_/same_as :: [Rajasthan](/_Standards/Earth/Continent/Asia/Asia~South/India/States~India/Rajasthan.md) 
+
+### #is_/same_as :: [Rajasthan.public](/_public/Earth/Continent/Asia/Asia~South/India/States~India/Rajasthan.public.md) 
+
+### #is_/same_as :: [Rajasthan.internal](/_internal/Earth/Continent/Asia/Asia~South/India/States~India/Rajasthan.internal.md) 
+
+### #is_/same_as :: [Rajasthan.protect](/_protect/Earth/Continent/Asia/Asia~South/India/States~India/Rajasthan.protect.md) 
+
+### #is_/same_as :: [Rajasthan.private](/_private/Earth/Continent/Asia/Asia~South/India/States~India/Rajasthan.private.md) 
+
+### #is_/same_as :: [Rajasthan.personal](/_personal/Earth/Continent/Asia/Asia~South/India/States~India/Rajasthan.personal.md) 
+
+### #is_/same_as :: [Rajasthan.secret](/_secret/Earth/Continent/Asia/Asia~South/India/States~India/Rajasthan.secret.md)
 
