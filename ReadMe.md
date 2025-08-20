@@ -1,61 +1,62 @@
 ---
 location:
-- 20.3923
-- 78.9354
+  - 20.3923
+  - 78.9354
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26925
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: India
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- India
-- Inde
-- الهند
-- 印度
-- Индия
-- the Republic of India
-- la República de la India
-- India (la)
+  - India
+  - Inde
+  - الهند
+  - 印度
+  - Индия
+  - the Republic of India
+  - la República de la India
+  - India (la)
 Languages:
-- en-IN
-- hi
-- bn
-- te
-- mr
-- ta
-- ur
-- gu
-- kn
-- ml
-- or
-- pa
-- as
-- bh
-- sat
-- ks
-- ne
-- sd
-- kok
-- doi
-- mni
-- sit
-- sa
-- fr
-- lus
-- inc
+  - en-IN
+  - hi
+  - bn
+  - te
+  - mr
+  - ta
+  - ur
+  - gu
+  - kn
+  - ml
+  - or
+  - pa
+  - as
+  - bh
+  - sat
+  - ks
+  - ne
+  - sd
+  - kok
+  - doi
+  - mni
+  - sit
+  - sa
+  - fr
+  - lus
+  - inc
 ---
 
 

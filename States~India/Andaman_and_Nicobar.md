@@ -1,30 +1,29 @@
 ---
-location: [ 12.5 , 92.9 ] 
+location:
+  - 12.5
+  - 92.9
 type: geo-Region
 title: Andaman_and_Nicobar
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Andaman and Nicobar
-
+  - Andaman and Nicobar
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Andaman_and_Nicobar
