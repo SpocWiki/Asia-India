@@ -165,7 +165,11 @@ licence_plate_code: DL-xx
 UN_LOCODE: INDEL
 ---
 
-# Delhi
+# [[Delhi]] 
+
+#is_/same_as :: [[../../../../../../WikiData/WD~Delhi,1353|WD~Delhi,1353]] 
+
+## #has_/map 
 
 ```leaflet
 id: Delhi
