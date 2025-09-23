@@ -40,17 +40,17 @@ markerFolder: ./Arunachal_Pradesh/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Arunachal_Pradesh](/_Standards/Earth/Continent/Asia/Asia~South/India/States~India/Arunachal_Pradesh.md) 
+### #is_/same_as :: [Arunachal_Pradesh](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Arunachal_Pradesh.md) 
 
-### #is_/same_as :: [Arunachal_Pradesh.public](/_public/Earth/Continent/Asia/Asia~South/India/States~India/Arunachal_Pradesh.public.md) 
+### #is_/same_as :: [Arunachal_Pradesh.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Arunachal_Pradesh.public.md) 
 
-### #is_/same_as :: [Arunachal_Pradesh.internal](/_internal/Earth/Continent/Asia/Asia~South/India/States~India/Arunachal_Pradesh.internal.md) 
+### #is_/same_as :: [Arunachal_Pradesh.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Arunachal_Pradesh.internal.md) 
 
-### #is_/same_as :: [Arunachal_Pradesh.protect](/_protect/Earth/Continent/Asia/Asia~South/India/States~India/Arunachal_Pradesh.protect.md) 
+### #is_/same_as :: [Arunachal_Pradesh.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Arunachal_Pradesh.protect.md) 
 
-### #is_/same_as :: [Arunachal_Pradesh.private](/_private/Earth/Continent/Asia/Asia~South/India/States~India/Arunachal_Pradesh.private.md) 
+### #is_/same_as :: [Arunachal_Pradesh.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Arunachal_Pradesh.private.md) 
 
-### #is_/same_as :: [Arunachal_Pradesh.personal](/_personal/Earth/Continent/Asia/Asia~South/India/States~India/Arunachal_Pradesh.personal.md) 
+### #is_/same_as :: [Arunachal_Pradesh.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Arunachal_Pradesh.personal.md) 
 
-### #is_/same_as :: [Arunachal_Pradesh.secret](/_secret/Earth/Continent/Asia/Asia~South/India/States~India/Arunachal_Pradesh.secret.md)
+### #is_/same_as :: [Arunachal_Pradesh.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Arunachal_Pradesh.secret.md)
 

@@ -143,10 +143,10 @@ markerFolder: ./
 Continent :: [[Asia]]  
 [VehicleCode::IND] 
 Capital :: [[India/Counties/Delhi/City/New_Delhi]]  
-![[India/Emblem_of_India.svg|350]]  
+![[Emblem_of_India.svg|350]]  
 
 ![[Anthem-India.mp3]] 
-![[India/Flag_of_India.svg|350]]  
+![[Flag_of_India.svg|350]]  
 
 [Alcohol-l::2.6] 
 [Language-Id::499] 

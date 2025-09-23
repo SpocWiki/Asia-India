@@ -40,17 +40,17 @@ markerFolder: ./Jammu_and_Kashmir/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jammu_and_Kashmir](/_Standards/Earth/Continent/Asia/Asia~South/India/States~India/Jammu_and_Kashmir.md) 
+### #is_/same_as :: [Jammu_and_Kashmir](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Jammu_and_Kashmir.md) 
 
-### #is_/same_as :: [Jammu_and_Kashmir.public](/_public/Earth/Continent/Asia/Asia~South/India/States~India/Jammu_and_Kashmir.public.md) 
+### #is_/same_as :: [Jammu_and_Kashmir.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Jammu_and_Kashmir.public.md) 
 
-### #is_/same_as :: [Jammu_and_Kashmir.internal](/_internal/Earth/Continent/Asia/Asia~South/India/States~India/Jammu_and_Kashmir.internal.md) 
+### #is_/same_as :: [Jammu_and_Kashmir.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Jammu_and_Kashmir.internal.md) 
 
-### #is_/same_as :: [Jammu_and_Kashmir.protect](/_protect/Earth/Continent/Asia/Asia~South/India/States~India/Jammu_and_Kashmir.protect.md) 
+### #is_/same_as :: [Jammu_and_Kashmir.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Jammu_and_Kashmir.protect.md) 
 
-### #is_/same_as :: [Jammu_and_Kashmir.private](/_private/Earth/Continent/Asia/Asia~South/India/States~India/Jammu_and_Kashmir.private.md) 
+### #is_/same_as :: [Jammu_and_Kashmir.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Jammu_and_Kashmir.private.md) 
 
-### #is_/same_as :: [Jammu_and_Kashmir.personal](/_personal/Earth/Continent/Asia/Asia~South/India/States~India/Jammu_and_Kashmir.personal.md) 
+### #is_/same_as :: [Jammu_and_Kashmir.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Jammu_and_Kashmir.personal.md) 
 
-### #is_/same_as :: [Jammu_and_Kashmir.secret](/_secret/Earth/Continent/Asia/Asia~South/India/States~India/Jammu_and_Kashmir.secret.md)
+### #is_/same_as :: [Jammu_and_Kashmir.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Jammu_and_Kashmir.secret.md)
 

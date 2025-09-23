@@ -204,17 +204,17 @@ markerFolder: ./Delhi/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Delhi](/_Standards/Earth/Continent/Asia/Asia~South/India/States~India/Delhi.md) 
+### #is_/same_as :: [Delhi](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Delhi.md) 
 
-### #is_/same_as :: [Delhi.public](/_public/Earth/Continent/Asia/Asia~South/India/States~India/Delhi.public.md) 
+### #is_/same_as :: [Delhi.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Delhi.public.md) 
 
-### #is_/same_as :: [Delhi.internal](/_internal/Earth/Continent/Asia/Asia~South/India/States~India/Delhi.internal.md) 
+### #is_/same_as :: [Delhi.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Delhi.internal.md) 
 
-### #is_/same_as :: [Delhi.protect](/_protect/Earth/Continent/Asia/Asia~South/India/States~India/Delhi.protect.md) 
+### #is_/same_as :: [Delhi.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Delhi.protect.md) 
 
-### #is_/same_as :: [Delhi.private](/_private/Earth/Continent/Asia/Asia~South/India/States~India/Delhi.private.md) 
+### #is_/same_as :: [Delhi.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Delhi.private.md) 
 
-### #is_/same_as :: [Delhi.personal](/_personal/Earth/Continent/Asia/Asia~South/India/States~India/Delhi.personal.md) 
+### #is_/same_as :: [Delhi.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Delhi.personal.md) 
 
-### #is_/same_as :: [Delhi.secret](/_secret/Earth/Continent/Asia/Asia~South/India/States~India/Delhi.secret.md)
+### #is_/same_as :: [Delhi.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Delhi.secret.md)
 

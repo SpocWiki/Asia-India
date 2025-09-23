@@ -40,17 +40,17 @@ markerFolder: ./Andhra_Pradesh/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Andhra_Pradesh](/_Standards/Earth/Continent/Asia/Asia~South/India/States~India/Andhra_Pradesh.md) 
+### #is_/same_as :: [Andhra_Pradesh](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Andhra_Pradesh.md) 
 
-### #is_/same_as :: [Andhra_Pradesh.public](/_public/Earth/Continent/Asia/Asia~South/India/States~India/Andhra_Pradesh.public.md) 
+### #is_/same_as :: [Andhra_Pradesh.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Andhra_Pradesh.public.md) 
 
-### #is_/same_as :: [Andhra_Pradesh.internal](/_internal/Earth/Continent/Asia/Asia~South/India/States~India/Andhra_Pradesh.internal.md) 
+### #is_/same_as :: [Andhra_Pradesh.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Andhra_Pradesh.internal.md) 
 
-### #is_/same_as :: [Andhra_Pradesh.protect](/_protect/Earth/Continent/Asia/Asia~South/India/States~India/Andhra_Pradesh.protect.md) 
+### #is_/same_as :: [Andhra_Pradesh.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Andhra_Pradesh.protect.md) 
 
-### #is_/same_as :: [Andhra_Pradesh.private](/_private/Earth/Continent/Asia/Asia~South/India/States~India/Andhra_Pradesh.private.md) 
+### #is_/same_as :: [Andhra_Pradesh.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Andhra_Pradesh.private.md) 
 
-### #is_/same_as :: [Andhra_Pradesh.personal](/_personal/Earth/Continent/Asia/Asia~South/India/States~India/Andhra_Pradesh.personal.md) 
+### #is_/same_as :: [Andhra_Pradesh.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Andhra_Pradesh.personal.md) 
 
-### #is_/same_as :: [Andhra_Pradesh.secret](/_secret/Earth/Continent/Asia/Asia~South/India/States~India/Andhra_Pradesh.secret.md)
+### #is_/same_as :: [Andhra_Pradesh.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Andhra_Pradesh.secret.md)
 

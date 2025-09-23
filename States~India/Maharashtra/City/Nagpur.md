@@ -32,17 +32,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nagpur](/_Standards/Earth/Continent/Asia/Asia~South/India/States~India/Maharashtra/City/Nagpur.md) 
+### #is_/same_as :: [Nagpur](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Maharashtra/City/Nagpur.md) 
 
-### #is_/same_as :: [Nagpur.public](/_public/Earth/Continent/Asia/Asia~South/India/States~India/Maharashtra/City/Nagpur.public.md) 
+### #is_/same_as :: [Nagpur.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Maharashtra/City/Nagpur.public.md) 
 
-### #is_/same_as :: [Nagpur.internal](/_internal/Earth/Continent/Asia/Asia~South/India/States~India/Maharashtra/City/Nagpur.internal.md) 
+### #is_/same_as :: [Nagpur.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Maharashtra/City/Nagpur.internal.md) 
 
-### #is_/same_as :: [Nagpur.protect](/_protect/Earth/Continent/Asia/Asia~South/India/States~India/Maharashtra/City/Nagpur.protect.md) 
+### #is_/same_as :: [Nagpur.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Maharashtra/City/Nagpur.protect.md) 
 
-### #is_/same_as :: [Nagpur.private](/_private/Earth/Continent/Asia/Asia~South/India/States~India/Maharashtra/City/Nagpur.private.md) 
+### #is_/same_as :: [Nagpur.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Maharashtra/City/Nagpur.private.md) 
 
-### #is_/same_as :: [Nagpur.personal](/_personal/Earth/Continent/Asia/Asia~South/India/States~India/Maharashtra/City/Nagpur.personal.md) 
+### #is_/same_as :: [Nagpur.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Maharashtra/City/Nagpur.personal.md) 
 
-### #is_/same_as :: [Nagpur.secret](/_secret/Earth/Continent/Asia/Asia~South/India/States~India/Maharashtra/City/Nagpur.secret.md)
+### #is_/same_as :: [Nagpur.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Maharashtra/City/Nagpur.secret.md)
 

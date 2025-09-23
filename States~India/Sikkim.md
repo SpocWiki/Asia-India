@@ -40,17 +40,17 @@ markerFolder: ./Sikkim/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sikkim](/_Standards/Earth/Continent/Asia/Asia~South/India/States~India/Sikkim.md) 
+### #is_/same_as :: [Sikkim](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Sikkim.md) 
 
-### #is_/same_as :: [Sikkim.public](/_public/Earth/Continent/Asia/Asia~South/India/States~India/Sikkim.public.md) 
+### #is_/same_as :: [Sikkim.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Sikkim.public.md) 
 
-### #is_/same_as :: [Sikkim.internal](/_internal/Earth/Continent/Asia/Asia~South/India/States~India/Sikkim.internal.md) 
+### #is_/same_as :: [Sikkim.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Sikkim.internal.md) 
 
-### #is_/same_as :: [Sikkim.protect](/_protect/Earth/Continent/Asia/Asia~South/India/States~India/Sikkim.protect.md) 
+### #is_/same_as :: [Sikkim.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Sikkim.protect.md) 
 
-### #is_/same_as :: [Sikkim.private](/_private/Earth/Continent/Asia/Asia~South/India/States~India/Sikkim.private.md) 
+### #is_/same_as :: [Sikkim.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Sikkim.private.md) 
 
-### #is_/same_as :: [Sikkim.personal](/_personal/Earth/Continent/Asia/Asia~South/India/States~India/Sikkim.personal.md) 
+### #is_/same_as :: [Sikkim.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Sikkim.personal.md) 
 
-### #is_/same_as :: [Sikkim.secret](/_secret/Earth/Continent/Asia/Asia~South/India/States~India/Sikkim.secret.md)
+### #is_/same_as :: [Sikkim.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Sikkim.secret.md)
 

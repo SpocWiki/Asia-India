@@ -32,17 +32,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Anantapur](/_Standards/Earth/Continent/Asia/Asia~South/India/States~India/Andhra_Pradesh/City/Anantapur.md) 
+### #is_/same_as :: [Anantapur](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Andhra_Pradesh/City/Anantapur.md) 
 
-### #is_/same_as :: [Anantapur.public](/_public/Earth/Continent/Asia/Asia~South/India/States~India/Andhra_Pradesh/City/Anantapur.public.md) 
+### #is_/same_as :: [Anantapur.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Andhra_Pradesh/City/Anantapur.public.md) 
 
-### #is_/same_as :: [Anantapur.internal](/_internal/Earth/Continent/Asia/Asia~South/India/States~India/Andhra_Pradesh/City/Anantapur.internal.md) 
+### #is_/same_as :: [Anantapur.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Andhra_Pradesh/City/Anantapur.internal.md) 
 
-### #is_/same_as :: [Anantapur.protect](/_protect/Earth/Continent/Asia/Asia~South/India/States~India/Andhra_Pradesh/City/Anantapur.protect.md) 
+### #is_/same_as :: [Anantapur.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Andhra_Pradesh/City/Anantapur.protect.md) 
 
-### #is_/same_as :: [Anantapur.private](/_private/Earth/Continent/Asia/Asia~South/India/States~India/Andhra_Pradesh/City/Anantapur.private.md) 
+### #is_/same_as :: [Anantapur.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Andhra_Pradesh/City/Anantapur.private.md) 
 
-### #is_/same_as :: [Anantapur.personal](/_personal/Earth/Continent/Asia/Asia~South/India/States~India/Andhra_Pradesh/City/Anantapur.personal.md) 
+### #is_/same_as :: [Anantapur.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Andhra_Pradesh/City/Anantapur.personal.md) 
 
-### #is_/same_as :: [Anantapur.secret](/_secret/Earth/Continent/Asia/Asia~South/India/States~India/Andhra_Pradesh/City/Anantapur.secret.md)
+### #is_/same_as :: [Anantapur.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Andhra_Pradesh/City/Anantapur.secret.md)
 

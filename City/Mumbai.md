@@ -152,17 +152,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mumbai](/_Standards/Earth/Continent/Asia/Asia~South/India/City/Mumbai.md) 
+### #is_/same_as :: [Mumbai](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/City/Mumbai.md) 
 
-### #is_/same_as :: [Mumbai.public](/_public/Earth/Continent/Asia/Asia~South/India/City/Mumbai.public.md) 
+### #is_/same_as :: [Mumbai.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India/City/Mumbai.public.md) 
 
-### #is_/same_as :: [Mumbai.internal](/_internal/Earth/Continent/Asia/Asia~South/India/City/Mumbai.internal.md) 
+### #is_/same_as :: [Mumbai.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/City/Mumbai.internal.md) 
 
-### #is_/same_as :: [Mumbai.protect](/_protect/Earth/Continent/Asia/Asia~South/India/City/Mumbai.protect.md) 
+### #is_/same_as :: [Mumbai.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/City/Mumbai.protect.md) 
 
-### #is_/same_as :: [Mumbai.private](/_private/Earth/Continent/Asia/Asia~South/India/City/Mumbai.private.md) 
+### #is_/same_as :: [Mumbai.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India/City/Mumbai.private.md) 
 
-### #is_/same_as :: [Mumbai.personal](/_personal/Earth/Continent/Asia/Asia~South/India/City/Mumbai.personal.md) 
+### #is_/same_as :: [Mumbai.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/City/Mumbai.personal.md) 
 
-### #is_/same_as :: [Mumbai.secret](/_secret/Earth/Continent/Asia/Asia~South/India/City/Mumbai.secret.md)
+### #is_/same_as :: [Mumbai.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/City/Mumbai.secret.md)
 

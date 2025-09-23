@@ -32,17 +32,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bhopal](/_Standards/Earth/Continent/Asia/Asia~South/India/States~India/Madhya_Pradesh/City/Bhopal.md) 
+### #is_/same_as :: [Bhopal](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Madhya_Pradesh/City/Bhopal.md) 
 
-### #is_/same_as :: [Bhopal.public](/_public/Earth/Continent/Asia/Asia~South/India/States~India/Madhya_Pradesh/City/Bhopal.public.md) 
+### #is_/same_as :: [Bhopal.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Madhya_Pradesh/City/Bhopal.public.md) 
 
-### #is_/same_as :: [Bhopal.internal](/_internal/Earth/Continent/Asia/Asia~South/India/States~India/Madhya_Pradesh/City/Bhopal.internal.md) 
+### #is_/same_as :: [Bhopal.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Madhya_Pradesh/City/Bhopal.internal.md) 
 
-### #is_/same_as :: [Bhopal.protect](/_protect/Earth/Continent/Asia/Asia~South/India/States~India/Madhya_Pradesh/City/Bhopal.protect.md) 
+### #is_/same_as :: [Bhopal.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Madhya_Pradesh/City/Bhopal.protect.md) 
 
-### #is_/same_as :: [Bhopal.private](/_private/Earth/Continent/Asia/Asia~South/India/States~India/Madhya_Pradesh/City/Bhopal.private.md) 
+### #is_/same_as :: [Bhopal.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Madhya_Pradesh/City/Bhopal.private.md) 
 
-### #is_/same_as :: [Bhopal.personal](/_personal/Earth/Continent/Asia/Asia~South/India/States~India/Madhya_Pradesh/City/Bhopal.personal.md) 
+### #is_/same_as :: [Bhopal.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Madhya_Pradesh/City/Bhopal.personal.md) 
 
-### #is_/same_as :: [Bhopal.secret](/_secret/Earth/Continent/Asia/Asia~South/India/States~India/Madhya_Pradesh/City/Bhopal.secret.md)
+### #is_/same_as :: [Bhopal.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Madhya_Pradesh/City/Bhopal.secret.md)
 

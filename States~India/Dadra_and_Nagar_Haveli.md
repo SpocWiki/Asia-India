@@ -40,17 +40,17 @@ markerFolder: ./Dadra_and_Nagar_Haveli/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dadra_and_Nagar_Haveli](/_Standards/Earth/Continent/Asia/Asia~South/India/States~India/Dadra_and_Nagar_Haveli.md) 
+### #is_/same_as :: [Dadra_and_Nagar_Haveli](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Dadra_and_Nagar_Haveli.md) 
 
-### #is_/same_as :: [Dadra_and_Nagar_Haveli.public](/_public/Earth/Continent/Asia/Asia~South/India/States~India/Dadra_and_Nagar_Haveli.public.md) 
+### #is_/same_as :: [Dadra_and_Nagar_Haveli.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Dadra_and_Nagar_Haveli.public.md) 
 
-### #is_/same_as :: [Dadra_and_Nagar_Haveli.internal](/_internal/Earth/Continent/Asia/Asia~South/India/States~India/Dadra_and_Nagar_Haveli.internal.md) 
+### #is_/same_as :: [Dadra_and_Nagar_Haveli.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Dadra_and_Nagar_Haveli.internal.md) 
 
-### #is_/same_as :: [Dadra_and_Nagar_Haveli.protect](/_protect/Earth/Continent/Asia/Asia~South/India/States~India/Dadra_and_Nagar_Haveli.protect.md) 
+### #is_/same_as :: [Dadra_and_Nagar_Haveli.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Dadra_and_Nagar_Haveli.protect.md) 
 
-### #is_/same_as :: [Dadra_and_Nagar_Haveli.private](/_private/Earth/Continent/Asia/Asia~South/India/States~India/Dadra_and_Nagar_Haveli.private.md) 
+### #is_/same_as :: [Dadra_and_Nagar_Haveli.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Dadra_and_Nagar_Haveli.private.md) 
 
-### #is_/same_as :: [Dadra_and_Nagar_Haveli.personal](/_personal/Earth/Continent/Asia/Asia~South/India/States~India/Dadra_and_Nagar_Haveli.personal.md) 
+### #is_/same_as :: [Dadra_and_Nagar_Haveli.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Dadra_and_Nagar_Haveli.personal.md) 
 
-### #is_/same_as :: [Dadra_and_Nagar_Haveli.secret](/_secret/Earth/Continent/Asia/Asia~South/India/States~India/Dadra_and_Nagar_Haveli.secret.md)
+### #is_/same_as :: [Dadra_and_Nagar_Haveli.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Dadra_and_Nagar_Haveli.secret.md)
 

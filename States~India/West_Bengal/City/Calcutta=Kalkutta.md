@@ -32,17 +32,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Calcutta=Kalkutta](/_Standards/Earth/Continent/Asia/Asia~South/India/States~India/West_Bengal/City/Calcutta=Kalkutta.md) 
+### #is_/same_as :: [Calcutta=Kalkutta](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal/City/Calcutta=Kalkutta.md) 
 
-### #is_/same_as :: [Calcutta=Kalkutta.public](/_public/Earth/Continent/Asia/Asia~South/India/States~India/West_Bengal/City/Calcutta=Kalkutta.public.md) 
+### #is_/same_as :: [Calcutta=Kalkutta.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal/City/Calcutta=Kalkutta.public.md) 
 
-### #is_/same_as :: [Calcutta=Kalkutta.internal](/_internal/Earth/Continent/Asia/Asia~South/India/States~India/West_Bengal/City/Calcutta=Kalkutta.internal.md) 
+### #is_/same_as :: [Calcutta=Kalkutta.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal/City/Calcutta=Kalkutta.internal.md) 
 
-### #is_/same_as :: [Calcutta=Kalkutta.protect](/_protect/Earth/Continent/Asia/Asia~South/India/States~India/West_Bengal/City/Calcutta=Kalkutta.protect.md) 
+### #is_/same_as :: [Calcutta=Kalkutta.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal/City/Calcutta=Kalkutta.protect.md) 
 
-### #is_/same_as :: [Calcutta=Kalkutta.private](/_private/Earth/Continent/Asia/Asia~South/India/States~India/West_Bengal/City/Calcutta=Kalkutta.private.md) 
+### #is_/same_as :: [Calcutta=Kalkutta.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal/City/Calcutta=Kalkutta.private.md) 
 
-### #is_/same_as :: [Calcutta=Kalkutta.personal](/_personal/Earth/Continent/Asia/Asia~South/India/States~India/West_Bengal/City/Calcutta=Kalkutta.personal.md) 
+### #is_/same_as :: [Calcutta=Kalkutta.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal/City/Calcutta=Kalkutta.personal.md) 
 
-### #is_/same_as :: [Calcutta=Kalkutta.secret](/_secret/Earth/Continent/Asia/Asia~South/India/States~India/West_Bengal/City/Calcutta=Kalkutta.secret.md)
+### #is_/same_as :: [Calcutta=Kalkutta.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal/City/Calcutta=Kalkutta.secret.md)
 
