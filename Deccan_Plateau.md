@@ -24,16 +24,40 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Indiahills
 Commons_category: Deccan Plateau
 ---
 
-
 # [[Deccan_Plateau]]
 
 #is_/same_as :: [[../../../../../WikiData/WD~Deccan_Plateau,169966|WD~Deccan_Plateau,169966]] 
 
+## #has_/map  
+
+```leaflet
+id: Deccan_Plateau
+coordinates: [[Deccan_Plateau]] 
+markerFile: [[Deccan_Plateau]] 
+geojsonFolder: ./Deccan_Plateau/
+markerFolder: ./Deccan_Plateau/
+defaultZoom: 11 
+maxZoom: 18
+```
+
 ## #has_/text_of_/abstract 
 
-> The Deccan plateau (IPA: [d̪əkː(ʰ)ən]) extends over an area of 422,000 km2 (163,000 sq mi) on the southern part of the Indian peninsula. It stretches from the Satpura and Vindhya Ranges in the north to the northern fringes of Tamil Nadu in the south. It is bound by the mountain ranges of the Western Ghats and the Eastern Ghats on the sides, which separate the region from the Western and Eastern Coastal Plains respectively. It covers most of the Indian States of Maharashtra, Karnataka, Telangana and Andhra Pradesh excluding the coastal regions, and minor portions of Tamil Nadu and Kerala.
+> The Deccan plateau (IPA: [d̪əkː(ʰ)ən]) extends over an area of 422,000 km2 (163,000 sq mi) 
+> on the southern part of the Indian peninsula. 
+> 
+> It stretches from the Satpura and Vindhya Ranges in the north 
+> to the northern fringes of Tamil Nadu in the south. 
+> It is bound by the mountain ranges of the Western Ghats and the Eastern Ghats on the sides, 
+> which separate the region from the Western and Eastern Coastal Plains respectively. 
+> It covers most of the Indian States of 
+> Maharashtra, Karnataka, Telangana and Andhra Pradesh 
+> excluding the coastal regions, and minor portions of Tamil Nadu and Kerala.
 >
-> The plateau is marked by rocky terrain with an average elevation of about 600 m (2,000 ft). It is subdivided into Maharashtra Plateau, Karnataka Plateau, and Rayalaseema & Telangana Plateau. The Deccan Traps in the north west were formed by multiple layers of igneous rocks laid down by basaltic lava flows following a massive volcanic eruption that occurred during the end of the Cretaceous period (66 mya). The underlying bed consists of granite and sedimentary rocks formed during the Precambrian era and the formation of Gondwana.
+> The plateau is marked by rocky terrain with an average elevation of about 600 m (2,000 ft). 
+> It is subdivided into Maharashtra Plateau, Karnataka Plateau, 
+> and Rayalaseema & Telangana Plateau. 
+> 
+> The Deccan Traps in the north west were formed by multiple layers of igneous rocks laid down by basaltic lava flows following a massive volcanic eruption that occurred during the end of the Cretaceous period (66 mya). The underlying bed consists of granite and sedimentary rocks formed during the Precambrian era and the formation of Gondwana.
 >
 > The region forms one of the major watersheds of India, with many perennial river systems such as Godavari, Krishna, and Kaveri flowing through the region. The plateau slopes gently from the west to east, resulting in most of the principal rivers flowing eastwards towards the Bay of Bengal. As the Western Ghats block the rain bearing winds, the plateau region is drier than the coastal region and has a semi-arid climate.
 >

@@ -93,9 +93,22 @@ panoramic_view: http://commons.wikimedia.org/wiki/Special:FilePath/India%20-%20H
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%B9%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%A6.wav
 ---
 
-# [[Hyderabad]] 
+# [[Hyderabad]]  
 
 #is_/same_as :: [[WikiData/WD~Hyderabad,1361|WD~Hyderabad,1361]] 
+
+```leaflet
+id: Hyderabad_City
+coordinates: [[Hyderabad,City]] 
+markerFile: [[Hyderabad,City]] 
+geojsonFolder: ./Hyderabad,City//
+markerFolder: ./Hyderabad,City//
+defaultZoom: 11 
+minZoom: 5 
+maxZoom: 18
+zoomFeatures: true 
+```
+
 
 ## #has_/text_of_/abstract 
 
@@ -107,7 +120,12 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610
 > much of Hyderabad is situated on hilly terrain around artificial lakes, 
 > including the Hussain Sagar lake, predating the city's founding, in the north of the city centre. 
 > 
-> According to the 2011 census of India, Hyderabad is the fourth-most populous city in India with a population of 6.9 million residents within the city limits, and has a population of 9.7 million residents in the metropolitan region, making it the sixth-most populous metropolitan area in India. With an output of US$ 95 billion, Hyderabad has the sixth-largest urban economy in India.
+> According to the 2011 census of India, 
+> Hyderabad is the fourth-most populous city in India 
+> with a population of 6.9 million residents within the city limits, 
+> and has a population of 9.7 million residents in the metropolitan region, 
+> making it the sixth-most populous metropolitan area in India. 
+> With an output of US$ 95 billion, Hyderabad has the sixth-largest urban economy in India.
 >
 > The Qutb Shahi dynasty's Muhammad Quli Qutb Shah established Hyderabad in 1591 to extend the capital beyond the fortified Golconda. In 1687, the city was annexed by the Mughals. In 1724, Asaf Jah I, the Mughal viceroy, declared his sovereignty and founded the Asaf Jahi dynasty, also known as the Nizams. Hyderabad served as the imperial capital of the Asaf Jahis from 1769 to 1948. As the capital of the princely state of Hyderabad, the city housed the British Residency and cantonment until Indian independence in 1947. Hyderabad was annexed by the Indian Union in 1948 and continued as a capital of Hyderabad State from 1948 to 1956. After the introduction of the States Reorganisation Act of 1956, Hyderabad was made the capital of the newly formed Andhra Pradesh. In 2014, Andhra Pradesh was split to form the state of Telangana, and Hyderabad became the joint capital of the two states until 2024. Since 1956, the city has housed the Rashtrapati Nilayam, the winter office of the president of India.
 >
