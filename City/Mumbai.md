@@ -1,122 +1,122 @@
 ---
+aliases:
+  - Mumbai
+  - Bombay
+has_id_wikidata: Q1156
 location:
-- 18.94
-- 72.85
+  - 18.94
+  - 72.85
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 mapmarker: city
 type: City
 SpocWebEntityId: 29263
 isDeleted: false
 confidential: public
 tags:
-- geo/City
-aliases:
-- Mumbai
-- Bombay
-has_id_wikidata: Q1156
+  - geo/City
 twinned_administrative_body:
-- '[[/_Standards/WikiData/WD~Durango,112813]]'
-- "[[/_Standards/WikiData/WD~Honolulu_County,487704]]"
-- "[[/_Standards/WikiData/WD~Saint_Petersburg,656]]"
-- '[[/_Standards/WikiData/WD~Stuttgart,1022]]'
-- '[[/_Standards/WikiData/WD~Manila,1461]]'
-- '[[/_Standards/WikiData/WD~Jakarta,3630]]'
-- '[[/_Standards/WikiData/WD~Busan,16520]]'
-- '[[/_Standards/WikiData/WD~Honolulu,18094]]'
-- '[[/_Standards/WikiData/WD~Berlin,64]]'
-- "[[/_Standards/WikiData/WD~Los_Angeles,65]]"
-- '[[/_Standards/WikiData/WD~London,84]]'
-- '[[/_Standards/WikiData/WD~İzmir,35997]]'
-- '[[/_Standards/WikiData/WD~Yokohama,38283]]'
-- '[[/_Standards/WikiData/WD~Espoo,47034]]'
+  - "[[/_Standards/WikiData/WD~Durango,112813]]"
+  - "[[/_Standards/WikiData/WD~Honolulu_County,487704]]"
+  - "[[/_Standards/WikiData/WD~Saint_Petersburg,656]]"
+  - "[[/_Standards/WikiData/WD~Stuttgart,1022]]"
+  - "[[/_Standards/WikiData/WD~Manila,1461]]"
+  - "[[/_Standards/WikiData/WD~Jakarta,3630]]"
+  - "[[/_Standards/WikiData/WD~Busan,16520]]"
+  - "[[/_Standards/WikiData/WD~Honolulu,18094]]"
+  - "[[/_Standards/WikiData/WD~Berlin,64]]"
+  - "[[/_Standards/WikiData/WD~Los_Angeles,65]]"
+  - "[[/_Standards/WikiData/WD~London,84]]"
+  - "[[/_Standards/WikiData/WD~İzmir,35997]]"
+  - "[[/_Standards/WikiData/WD~Yokohama,38283]]"
+  - "[[/_Standards/WikiData/WD~Espoo,47034]]"
 instance_of:
-- '[[/_Standards/WikiData/WD~megacity,174844]]'
-- '[[/_Standards/WikiData/WD~metropolis,200250]]'
-- "[[/_Standards/WikiData/WD~business_cluster,745456]]"
-- "[[/_Standards/WikiData/WD~state_capital,11271835]]"
-- '[[/_Standards/WikiData/WD~city,515]]'
+  - "[[/_Standards/WikiData/WD~megacity,174844]]"
+  - "[[/_Standards/WikiData/WD~metropolis,200250]]"
+  - "[[/_Standards/WikiData/WD~business_cluster,745456]]"
+  - "[[/_Standards/WikiData/WD~state_capital,11271835]]"
+  - "[[/_Standards/WikiData/WD~city,515]]"
 described_by_source:
-- "[[/_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-- "[[/_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-- "[[/_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-- "[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[/_Standards/WikiData/WD~Treccani's_Enciclopedia_on_line,65921422]]"
-- "[[/_Standards/WikiData/WD~Meyer’s_Universum,_Sechster_Band,130477825]]"
+  - "[[/_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[/_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+  - "[[/_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[/_Standards/WikiData/WD~Treccani's_Enciclopedia_on_line,65921422]]"
+  - "[[/_Standards/WikiData/WD~Meyer’s_Universum,_Sechster_Band,130477825]]"
 located_in_time_zone: "[[/_Standards/WikiData/WD~Indian_Standard_Time,604055]]"
 member_of: "[[/_Standards/WikiData/WD~Creative_Cities_Network,1139352]]"
-part_of: '[[/_Standards/WikiData/WD~Konkan,1142402]]'
+part_of: "[[/_Standards/WikiData/WD~Konkan,1142402]]"
 authority: "[[/_Standards/WikiData/WD~Brihanmumbai_Municipal_Corporation,1195653]]"
 economy_of_topic: "[[/_Standards/WikiData/WD~economy_of_Mumbai,5333727]]"
 geography_of_topic: "[[/_Standards/WikiData/WD~geography_of_Mumbai,5535200]]"
 office_held_by_head_of_government:
-- "[[/_Standards/WikiData/WD~Mayor_of_Mumbai,6797761]]"
-- "[[/_Standards/WikiData/WD~Municipal_Commissioner_of_Mumbai,6936210]]"
-category_for_people_buried_here: '[[/_Standards/WikiData/WD~Q32414945,32414945]]'
-named_after: '[[/_Standards/WikiData/WD~Mumba,76027520]]'
+  - "[[/_Standards/WikiData/WD~Mayor_of_Mumbai,6797761]]"
+  - "[[/_Standards/WikiData/WD~Municipal_Commissioner_of_Mumbai,6936210]]"
+category_for_people_buried_here: "[[/_Standards/WikiData/WD~Q32414945,32414945]]"
+named_after: "[[/_Standards/WikiData/WD~Mumba,76027520]]"
 head_of_government: "[[/_Standards/WikiData/WD~Iqbal_Singh_Chahal,106782866]]"
 BHCL_UUID: 9d82e58f-8cc2-4c9e-b98b-2e6aa757e290
-ISNI: 0000000112661998
+ISNI: 112661998
 panoramic_view:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/1A%3DDowntownBombay.jpg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Mumbai%20panaroma.jpg"
-coordinate_location: "Point(72.8775 19.075833333)"
-country: '[[/_Standards/WikiData/WD~India,668]]'
-capital_of: '[[/_Standards/WikiData/WD~Maharashtra,1191]]'
-located_in_the_administrative_territorial_entity: '[[/_Standards/WikiData/WD~Maharashtra,1191]]'
+  - http://commons.wikimedia.org/wiki/Special:FilePath/1A%3DDowntownBombay.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Mumbai%20panaroma.jpg
+coordinate_location: Point(72.8775 19.075833333)
+country: "[[/_Standards/WikiData/WD~India,668]]"
+capital_of: "[[/_Standards/WikiData/WD~Maharashtra,1191]]"
+located_in_the_administrative_territorial_entity: "[[/_Standards/WikiData/WD~Maharashtra,1191]]"
 language_used:
-- '[[/_Standards/WikiData/WD~Marathi,1571]]'
-- '[[/_Standards/WikiData/WD~Urdu,1617]]'
-- '[[/_Standards/WikiData/WD~Tamil,5885]]'
-- '[[/_Standards/WikiData/WD~Telugu,8097]]'
-- '[[/_Standards/WikiData/WD~Kannada,33673]]'
-- '[[/_Standards/WikiData/WD~Konkani,34239]]'
-- '[[/_Standards/WikiData/WD~Tulu,34251]]'
-- '[[/_Standards/WikiData/WD~Maithili,36109]]'
-- '[[/_Standards/WikiData/WD~Malayalam,36236]]'
-continent: '[[/_Standards/WikiData/WD~Asia,48]]'
+  - "[[/_Standards/WikiData/WD~Marathi,1571]]"
+  - "[[/_Standards/WikiData/WD~Urdu,1617]]"
+  - "[[/_Standards/WikiData/WD~Tamil,5885]]"
+  - "[[/_Standards/WikiData/WD~Telugu,8097]]"
+  - "[[/_Standards/WikiData/WD~Kannada,33673]]"
+  - "[[/_Standards/WikiData/WD~Konkani,34239]]"
+  - "[[/_Standards/WikiData/WD~Tulu,34251]]"
+  - "[[/_Standards/WikiData/WD~Maithili,36109]]"
+  - "[[/_Standards/WikiData/WD~Malayalam,36236]]"
+continent: "[[/_Standards/WikiData/WD~Asia,48]]"
 elevation_above_sea_level: 14
 area: 603
 social_media_followers: 408256
-local_dialing_code: 0022
+local_dialing_code: 22
 postal_code: 400001
 Commons_category: Mumbai
 hashtag:
-- Mumbai
-- मुंबई
-- मुम्बई
+  - Mumbai
+  - मुंबई
+  - मुम्बई
 Commons_gallery: मुंबई
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Mumbai%2003-2016%2010%20skyline%20of%20Lotus%20Colony.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Mumbai%2003-2016%2010%20skyline%20of%20Lotus%20Colony.jpg
 U_S_National_Archives_Identifier: 10044397
 OmegaWiki_Defined_Meaning: 457536
 official_name: Mumbai
 population: 15414288
-nighttime_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Mumbai%20Skyline%20at%20Night.jpg"
+nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Mumbai%20Skyline%20at%20Night.jpg
 WOEID: 2295411
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Mumbai%20banner%20Taj%20Mahal%20Palace%20Hotel.jpg"
-locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Mumbai%20locator%20map.png"
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Mumbai%20banner%20Taj%20Mahal%20Palace%20Hotel.jpg
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Mumbai%20locator%20map.png
 aerial_view:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Mumbai%20Skyview%20near%20Airport%20173829.jpg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Mumbai%2C%20India%20%285460922649%29.jpg"
-detail_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Mumbai%20suburban%20rail%20map.svg"
-location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Mumbaicitydistricts.png"
-montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/MumbaiMontage.png"
-official_website: "https://portal.mcgm.gov.in/"
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Mumbai%20Skyview%20near%20Airport%20173829.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Mumbai%2C%20India%20%285460922649%29.jpg
+detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Mumbai%20suburban%20rail%20map.svg
+location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Mumbaicitydistricts.png
+montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/MumbaiMontage.png
+official_website: https://portal.mcgm.gov.in/
 IPA_transcription: ˈmumbəi
 HASC: IN.MH.MC
 UN_LOCODE: INBOM
 licence_plate_code:
-- MH-01
-- MH-02
-- MH-03
+  - MH-01
+  - MH-02
+  - MH-03
 GitHub_topic: mumbai
 subreddit: mumbai
 demonym: Mumbaikar
 native_label: मुंबई
-inception: "1507-01-01T00:00:00Z"
+inception: 1507-01-01T00:00:00Z
 ---
 
 # [[Mumbai]] 
@@ -130,11 +130,16 @@ Country :: [[../../India]]
 [Population::] 
 [Unknown::] 
 
+#is_/same_as :: [[../../../../../../WikiData/WD~Mumbai,1156|WD~Mumbai,1156]] 
+
+## #has_/map 
 
 ```leaflet
-id: Bombay
-coordinates: [[Bombay]] 
-markerFile: [[Bombay]] 
+id: Mumbai
+coordinates: [[Mumbai]] 
+markerFile: [[Mumbai]] 
+geojsonFolder: ./Mumbai//
+markerFolder: ./Mumbai/
 defaultZoom: 11 
 maxZoom: 18
 ```
