@@ -178,6 +178,9 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Delhi/
 markerFolder: ./Delhi/
+coordinates: [[Delhi]] 
+markerFile: [[Delhi]] 
+defaultZoom: 11 
 ```
 
 ## #has_/text_of_/abstract
