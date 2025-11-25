@@ -26,15 +26,21 @@ publishDate:
 expiryDate:
 ---
 
-# West_Bengal
+# [[West_Bengal]]
+
+## #has_/map 
 
 ```leaflet
 id: West_Bengal
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./West_Bengal/
+geojsonFolder: ./West_Bengal//
 markerFolder: ./West_Bengal/
+coordinates: [[West_Bengal]] 
+markerFile: [[West_Bengal]] 
+zoomFeatures: true
+defaultZoom: 7 
 ```
 
 
