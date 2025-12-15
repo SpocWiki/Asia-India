@@ -74,7 +74,8 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610
 > The university was fourth in the Indian University Ranking 2021 list, 
 > released by the National Institutional Ranking Framework of the Ministry of Education.
 >
-> Its alumni and faculty include several heads of state and government, social reformers, prominent artists, the only Indian Dirac Medal winner, many Fellows of the Royal Society, and six Nobel laureates as of 2025. The Nobel laureates associated with this university are Ronald Ross, Rabindranath Tagore, C. V. Raman, Amartya Sen, and Abhijit Banerjee.
+> Its alumni and faculty include several heads of state and government, 
+> social reformers, prominent artists, the only Indian Dirac Medal winner, many Fellows of the Royal Society, and six Nobel laureates as of 2025. The Nobel laureates associated with this university are Ronald Ross, Rabindranath Tagore, C. V. Raman, Amartya Sen, and Abhijit Banerjee.
 >
 > The university has the highest number of students 
 > who have cleared the National Eligibility Test. 
