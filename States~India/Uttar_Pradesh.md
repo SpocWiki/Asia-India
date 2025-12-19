@@ -26,7 +26,9 @@ publishDate:
 expiryDate:
 ---
 
-# Uttar_Pradesh
+# [[Uttar_Pradesh]]
+
+## #has_/map 
 
 ```leaflet
 id: Uttar_Pradesh

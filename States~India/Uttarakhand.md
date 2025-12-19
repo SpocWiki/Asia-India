@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Uttaranchal
+  - Uttarakhand
 location:
   - 30.1
   - 79.3
@@ -12,8 +15,6 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Uttaranchal
 Languages:
   - de
 cssclasses:
@@ -26,15 +27,21 @@ publishDate:
 expiryDate:
 ---
 
-# Uttaranchal
+# [[Uttarakhand]] 
+
+## #has_/map 
 
 ```leaflet
-id: Uttaranchal
+id: Uttarakhand
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Uttaranchal/
-markerFolder: ./Uttaranchal/
+geojsonFolder: ./Uttarakhand/
+markerFolder: ./Uttarakhand/
+coordinates: [[Uttarakhand]] 
+markerFile: [[Uttarakhand]] 
+zoomFeatures: true
+defaultZoom: 11 
 ```
 
 
