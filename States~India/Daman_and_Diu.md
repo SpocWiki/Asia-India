@@ -40,17 +40,17 @@ markerFolder: ./Daman_and_Diu/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Daman_and_Diu](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Daman_and_Diu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Daman_and_Diu|Daman_and_Diu]] 
 
-### #is_/same_as :: [Daman_and_Diu.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Daman_and_Diu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Daman_and_Diu.public|Daman_and_Diu.public]] 
 
-### #is_/same_as :: [Daman_and_Diu.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Daman_and_Diu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Daman_and_Diu.internal|Daman_and_Diu.internal]] 
 
-### #is_/same_as :: [Daman_and_Diu.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Daman_and_Diu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Daman_and_Diu.protect|Daman_and_Diu.protect]] 
 
-### #is_/same_as :: [Daman_and_Diu.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Daman_and_Diu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Daman_and_Diu.private|Daman_and_Diu.private]] 
 
-### #is_/same_as :: [Daman_and_Diu.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Daman_and_Diu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Daman_and_Diu.personal|Daman_and_Diu.personal]] 
 
-### #is_/same_as :: [Daman_and_Diu.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Daman_and_Diu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Daman_and_Diu.secret|Daman_and_Diu.secret]] 
 

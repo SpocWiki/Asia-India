@@ -109,3 +109,20 @@ Krugosvet_article_archived_: istoriya/NERU_DZHAVAHARLAL.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jawaharlal%20Nehru) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/Jawaharlal_Nehru|Jawaharlal_Nehru]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/Jawaharlal_Nehru.public|Jawaharlal_Nehru.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/Jawaharlal_Nehru.internal|Jawaharlal_Nehru.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/Jawaharlal_Nehru.protect|Jawaharlal_Nehru.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/Jawaharlal_Nehru.private|Jawaharlal_Nehru.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/Jawaharlal_Nehru.personal|Jawaharlal_Nehru.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/Jawaharlal_Nehru.secret|Jawaharlal_Nehru.secret]] 
+

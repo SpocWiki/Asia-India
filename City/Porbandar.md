@@ -32,17 +32,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Porbandar](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/City/Porbandar.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/City/Porbandar|Porbandar]] 
 
-### #is_/same_as :: [Porbandar.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India/City/Porbandar.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/City/Porbandar.public|Porbandar.public]] 
 
-### #is_/same_as :: [Porbandar.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/City/Porbandar.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/City/Porbandar.internal|Porbandar.internal]] 
 
-### #is_/same_as :: [Porbandar.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/City/Porbandar.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/City/Porbandar.protect|Porbandar.protect]] 
 
-### #is_/same_as :: [Porbandar.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India/City/Porbandar.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/City/Porbandar.private|Porbandar.private]] 
 
-### #is_/same_as :: [Porbandar.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/City/Porbandar.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/City/Porbandar.personal|Porbandar.personal]] 
 
-### #is_/same_as :: [Porbandar.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/City/Porbandar.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/City/Porbandar.secret|Porbandar.secret]] 
 

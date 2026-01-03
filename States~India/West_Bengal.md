@@ -46,17 +46,17 @@ defaultZoom: 7
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [West_Bengal](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal|West_Bengal]] 
 
-### #is_/same_as :: [West_Bengal.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal.public|West_Bengal.public]] 
 
-### #is_/same_as :: [West_Bengal.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal.internal|West_Bengal.internal]] 
 
-### #is_/same_as :: [West_Bengal.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal.protect|West_Bengal.protect]] 
 
-### #is_/same_as :: [West_Bengal.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal.private|West_Bengal.private]] 
 
-### #is_/same_as :: [West_Bengal.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal.personal|West_Bengal.personal]] 
 
-### #is_/same_as :: [West_Bengal.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal.secret|West_Bengal.secret]] 
 

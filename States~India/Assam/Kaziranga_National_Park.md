@@ -52,3 +52,20 @@ It comprises 1,641 adult rhinos and 385 calves.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kaziranga%20National%20Park) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Assam/Kaziranga_National_Park|Kaziranga_National_Park]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Assam/Kaziranga_National_Park.public|Kaziranga_National_Park.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Assam/Kaziranga_National_Park.internal|Kaziranga_National_Park.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Assam/Kaziranga_National_Park.protect|Kaziranga_National_Park.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Assam/Kaziranga_National_Park.private|Kaziranga_National_Park.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Assam/Kaziranga_National_Park.personal|Kaziranga_National_Park.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Assam/Kaziranga_National_Park.secret|Kaziranga_National_Park.secret]] 
+

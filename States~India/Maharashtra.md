@@ -40,17 +40,17 @@ markerFolder: ./Maharashtra/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Maharashtra](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Maharashtra.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Maharashtra|Maharashtra]] 
 
-### #is_/same_as :: [Maharashtra.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Maharashtra.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Maharashtra.public|Maharashtra.public]] 
 
-### #is_/same_as :: [Maharashtra.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Maharashtra.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Maharashtra.internal|Maharashtra.internal]] 
 
-### #is_/same_as :: [Maharashtra.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Maharashtra.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Maharashtra.protect|Maharashtra.protect]] 
 
-### #is_/same_as :: [Maharashtra.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Maharashtra.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Maharashtra.private|Maharashtra.private]] 
 
-### #is_/same_as :: [Maharashtra.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Maharashtra.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Maharashtra.personal|Maharashtra.personal]] 
 
-### #is_/same_as :: [Maharashtra.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Maharashtra.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Maharashtra.secret|Maharashtra.secret]] 
 

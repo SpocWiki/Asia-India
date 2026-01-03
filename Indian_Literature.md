@@ -30,3 +30,20 @@ Commons_category: Literature of India
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Indian%20literature) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/Indian_Literature|Indian_Literature]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/Indian_Literature.public|Indian_Literature.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/Indian_Literature.internal|Indian_Literature.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/Indian_Literature.protect|Indian_Literature.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/Indian_Literature.private|Indian_Literature.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/Indian_Literature.personal|Indian_Literature.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/Indian_Literature.secret|Indian_Literature.secret]] 
+

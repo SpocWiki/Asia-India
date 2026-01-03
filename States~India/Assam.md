@@ -40,17 +40,17 @@ markerFolder: ./Assam/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Assam](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Assam.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Assam|Assam]] 
 
-### #is_/same_as :: [Assam.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Assam.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Assam.public|Assam.public]] 
 
-### #is_/same_as :: [Assam.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Assam.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Assam.internal|Assam.internal]] 
 
-### #is_/same_as :: [Assam.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Assam.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Assam.protect|Assam.protect]] 
 
-### #is_/same_as :: [Assam.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Assam.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Assam.private|Assam.private]] 
 
-### #is_/same_as :: [Assam.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Assam.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Assam.personal|Assam.personal]] 
 
-### #is_/same_as :: [Assam.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Assam.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Assam.secret|Assam.secret]] 
 

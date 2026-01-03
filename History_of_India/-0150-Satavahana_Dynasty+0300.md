@@ -73,3 +73,20 @@ Commons_category: Satavahana
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Satavahana%20dynasty) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/-0150-Satavahana_Dynasty+0300|-0150-Satavahana_Dynasty+0300]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/-0150-Satavahana_Dynasty+0300.public|-0150-Satavahana_Dynasty+0300.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/-0150-Satavahana_Dynasty+0300.internal|-0150-Satavahana_Dynasty+0300.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/-0150-Satavahana_Dynasty+0300.protect|-0150-Satavahana_Dynasty+0300.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/-0150-Satavahana_Dynasty+0300.private|-0150-Satavahana_Dynasty+0300.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/-0150-Satavahana_Dynasty+0300.personal|-0150-Satavahana_Dynasty+0300.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/-0150-Satavahana_Dynasty+0300.secret|-0150-Satavahana_Dynasty+0300.secret]] 
+

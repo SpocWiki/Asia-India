@@ -115,17 +115,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Darjeeling](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal/City/Darjeeling.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal/counties~West_Bengal/Darjiling/cities~Darjiling/Darjeeling,City|Darjeeling,City]] 
 
-### #is_/same_as :: [Darjeeling.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal/City/Darjeeling.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal/counties~West_Bengal/Darjiling/cities~Darjiling/Darjeeling,City.public|Darjeeling,City.public]] 
 
-### #is_/same_as :: [Darjeeling.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal/City/Darjeeling.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal/counties~West_Bengal/Darjiling/cities~Darjiling/Darjeeling,City.internal|Darjeeling,City.internal]] 
 
-### #is_/same_as :: [Darjeeling.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal/City/Darjeeling.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal/counties~West_Bengal/Darjiling/cities~Darjiling/Darjeeling,City.protect|Darjeeling,City.protect]] 
 
-### #is_/same_as :: [Darjeeling.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal/City/Darjeeling.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal/counties~West_Bengal/Darjiling/cities~Darjiling/Darjeeling,City.private|Darjeeling,City.private]] 
 
-### #is_/same_as :: [Darjeeling.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal/City/Darjeeling.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal/counties~West_Bengal/Darjiling/cities~Darjiling/Darjeeling,City.personal|Darjeeling,City.personal]] 
 
-### #is_/same_as :: [Darjeeling.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal/City/Darjeeling.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal/counties~West_Bengal/Darjiling/cities~Darjiling/Darjeeling,City.secret|Darjeeling,City.secret]] 
 

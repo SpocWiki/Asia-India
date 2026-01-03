@@ -40,3 +40,20 @@ native_label: खजुराहो
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Khajuraho) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Madhya_Pradesh/counties~Madhya_Pradesh/Chhatarpur,County/cities~Chhatarpur/Chhatarpur,City/Khajuraho|Khajuraho]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Madhya_Pradesh/counties~Madhya_Pradesh/Chhatarpur,County/cities~Chhatarpur/Chhatarpur,City/Khajuraho.public|Khajuraho.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Madhya_Pradesh/counties~Madhya_Pradesh/Chhatarpur,County/cities~Chhatarpur/Chhatarpur,City/Khajuraho.internal|Khajuraho.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Madhya_Pradesh/counties~Madhya_Pradesh/Chhatarpur,County/cities~Chhatarpur/Chhatarpur,City/Khajuraho.protect|Khajuraho.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Madhya_Pradesh/counties~Madhya_Pradesh/Chhatarpur,County/cities~Chhatarpur/Chhatarpur,City/Khajuraho.private|Khajuraho.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Madhya_Pradesh/counties~Madhya_Pradesh/Chhatarpur,County/cities~Chhatarpur/Chhatarpur,City/Khajuraho.personal|Khajuraho.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Madhya_Pradesh/counties~Madhya_Pradesh/Chhatarpur,County/cities~Chhatarpur/Chhatarpur,City/Khajuraho.secret|Khajuraho.secret]] 
+

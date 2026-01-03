@@ -40,17 +40,17 @@ markerFolder: ./Tamil_Nadu/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tamil_Nadu](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Tamil_Nadu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Tamil_Nadu|Tamil_Nadu]] 
 
-### #is_/same_as :: [Tamil_Nadu.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Tamil_Nadu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Tamil_Nadu.public|Tamil_Nadu.public]] 
 
-### #is_/same_as :: [Tamil_Nadu.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Tamil_Nadu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Tamil_Nadu.internal|Tamil_Nadu.internal]] 
 
-### #is_/same_as :: [Tamil_Nadu.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Tamil_Nadu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Tamil_Nadu.protect|Tamil_Nadu.protect]] 
 
-### #is_/same_as :: [Tamil_Nadu.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Tamil_Nadu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Tamil_Nadu.private|Tamil_Nadu.private]] 
 
-### #is_/same_as :: [Tamil_Nadu.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Tamil_Nadu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Tamil_Nadu.personal|Tamil_Nadu.personal]] 
 
-### #is_/same_as :: [Tamil_Nadu.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Tamil_Nadu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Tamil_Nadu.secret|Tamil_Nadu.secret]] 
 

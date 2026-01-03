@@ -38,3 +38,21 @@ aliases:
 > Bengaluru is one of the fastest-growing metropolises in India. As of 2023, the metropolitan area had an estimated GDP of $359.9 billion, and is one of the most productive metro areas of India. The city is a major center for information technology (IT), and is consistently ranked amongst the world's fastest growing technology hubs. It is widely regarded as the "Silicon Valley of India", as the largest hub and exporter of IT services in the country. Manufacturing is a major contributor to the economy and the city is also home to several state-owned manufacturing companies. Bengaluru also hosts several institutes of national importance in higher education.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bengaluru)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Karnataka/counties~Karnataka/Bangalore_Urban/cities~Bangalore/Bangalore,City|Bangalore,City]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Karnataka/counties~Karnataka/Bangalore_Urban/cities~Bangalore/Bangalore,City.public|Bangalore,City.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Karnataka/counties~Karnataka/Bangalore_Urban/cities~Bangalore/Bangalore,City.internal|Bangalore,City.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Karnataka/counties~Karnataka/Bangalore_Urban/cities~Bangalore/Bangalore,City.protect|Bangalore,City.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Karnataka/counties~Karnataka/Bangalore_Urban/cities~Bangalore/Bangalore,City.private|Bangalore,City.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Karnataka/counties~Karnataka/Bangalore_Urban/cities~Bangalore/Bangalore,City.personal|Bangalore,City.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Karnataka/counties~Karnataka/Bangalore_Urban/cities~Bangalore/Bangalore,City.secret|Bangalore,City.secret]] 
+

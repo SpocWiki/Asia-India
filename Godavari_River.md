@@ -73,3 +73,20 @@ Wolfram_Language_entity_code: Entity["River", "Godavari::h5266"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Godavari%20River) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/Godavari_River|Godavari_River]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/Godavari_River.public|Godavari_River.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/Godavari_River.internal|Godavari_River.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/Godavari_River.protect|Godavari_River.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/Godavari_River.private|Godavari_River.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/Godavari_River.personal|Godavari_River.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/Godavari_River.secret|Godavari_River.secret]] 
+

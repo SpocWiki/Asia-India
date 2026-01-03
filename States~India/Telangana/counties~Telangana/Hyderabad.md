@@ -135,3 +135,20 @@ zoomFeatures: true
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hyderabad) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Telangana/counties~Telangana/Hyderabad|Hyderabad]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Telangana/counties~Telangana/Hyderabad.public|Hyderabad.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Telangana/counties~Telangana/Hyderabad.internal|Hyderabad.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Telangana/counties~Telangana/Hyderabad.protect|Hyderabad.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Telangana/counties~Telangana/Hyderabad.private|Hyderabad.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Telangana/counties~Telangana/Hyderabad.personal|Hyderabad.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Telangana/counties~Telangana/Hyderabad.secret|Hyderabad.secret]] 
+

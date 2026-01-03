@@ -40,17 +40,17 @@ markerFolder: ./Chandigarh/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chandigarh](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Chandigarh.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Chandigarh|Chandigarh]] 
 
-### #is_/same_as :: [Chandigarh.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Chandigarh.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Chandigarh.public|Chandigarh.public]] 
 
-### #is_/same_as :: [Chandigarh.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Chandigarh.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Chandigarh.internal|Chandigarh.internal]] 
 
-### #is_/same_as :: [Chandigarh.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Chandigarh.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Chandigarh.protect|Chandigarh.protect]] 
 
-### #is_/same_as :: [Chandigarh.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Chandigarh.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Chandigarh.private|Chandigarh.private]] 
 
-### #is_/same_as :: [Chandigarh.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Chandigarh.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Chandigarh.personal|Chandigarh.personal]] 
 
-### #is_/same_as :: [Chandigarh.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Chandigarh.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Chandigarh.secret|Chandigarh.secret]] 
 

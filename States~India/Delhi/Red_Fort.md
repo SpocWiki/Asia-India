@@ -74,3 +74,20 @@ date_of_official_opening: 1648-04-06T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Red%20Fort) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Delhi/Red_Fort|Red_Fort]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Delhi/Red_Fort.public|Red_Fort.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Delhi/Red_Fort.internal|Red_Fort.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Delhi/Red_Fort.protect|Red_Fort.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Delhi/Red_Fort.private|Red_Fort.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Delhi/Red_Fort.personal|Red_Fort.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Delhi/Red_Fort.secret|Red_Fort.secret]] 
+

@@ -40,17 +40,17 @@ markerFolder: ./Jharkhand/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jharkhand](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Jharkhand.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Jharkhand|Jharkhand]] 
 
-### #is_/same_as :: [Jharkhand.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Jharkhand.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Jharkhand.public|Jharkhand.public]] 
 
-### #is_/same_as :: [Jharkhand.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Jharkhand.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Jharkhand.internal|Jharkhand.internal]] 
 
-### #is_/same_as :: [Jharkhand.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Jharkhand.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Jharkhand.protect|Jharkhand.protect]] 
 
-### #is_/same_as :: [Jharkhand.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Jharkhand.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Jharkhand.private|Jharkhand.private]] 
 
-### #is_/same_as :: [Jharkhand.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Jharkhand.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Jharkhand.personal|Jharkhand.personal]] 
 
-### #is_/same_as :: [Jharkhand.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Jharkhand.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Jharkhand.secret|Jharkhand.secret]] 
 

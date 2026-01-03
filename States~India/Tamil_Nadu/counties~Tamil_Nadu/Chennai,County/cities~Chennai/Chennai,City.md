@@ -93,21 +93,19 @@ inception: "1639-01-01T00:00:00Z"
 > [Wikipedia](https://en.wikipedia.org/wiki/Chennai) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chennai,City](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Tamil_Nadu/counties~Tamil_Nadu/Chennai,County/cities~Chennai/Chennai,City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Tamil_Nadu/counties~Tamil_Nadu/Chennai,County/cities~Chennai/Chennai,City|Chennai,City]] 
 
-### #is_/same_as :: [Chennai,City.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Tamil_Nadu/counties~Tamil_Nadu/Chennai,County/cities~Chennai/Chennai,City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Tamil_Nadu/counties~Tamil_Nadu/Chennai,County/cities~Chennai/Chennai,City.public|Chennai,City.public]] 
 
-### #is_/same_as :: [Chennai,City.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Tamil_Nadu/counties~Tamil_Nadu/Chennai,County/cities~Chennai/Chennai,City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Tamil_Nadu/counties~Tamil_Nadu/Chennai,County/cities~Chennai/Chennai,City.internal|Chennai,City.internal]] 
 
-### #is_/same_as :: [Chennai,City.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Tamil_Nadu/counties~Tamil_Nadu/Chennai,County/cities~Chennai/Chennai,City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Tamil_Nadu/counties~Tamil_Nadu/Chennai,County/cities~Chennai/Chennai,City.protect|Chennai,City.protect]] 
 
-### #is_/same_as :: [Chennai,City.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Tamil_Nadu/counties~Tamil_Nadu/Chennai,County/cities~Chennai/Chennai,City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Tamil_Nadu/counties~Tamil_Nadu/Chennai,County/cities~Chennai/Chennai,City.private|Chennai,City.private]] 
 
-### #is_/same_as :: [Chennai,City.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Tamil_Nadu/counties~Tamil_Nadu/Chennai,County/cities~Chennai/Chennai,City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Tamil_Nadu/counties~Tamil_Nadu/Chennai,County/cities~Chennai/Chennai,City.personal|Chennai,City.personal]] 
 
-### #is_/same_as :: [Chennai,City.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Tamil_Nadu/counties~Tamil_Nadu/Chennai,County/cities~Chennai/Chennai,City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Tamil_Nadu/counties~Tamil_Nadu/Chennai,County/cities~Chennai/Chennai,City.secret|Chennai,City.secret]] 
 

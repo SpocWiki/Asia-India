@@ -116,19 +116,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Varanasi)
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Varanasi](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Uttar_Pradesh/City/Varanasi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Uttar_Pradesh/counties~Uttar_Pradesh/Varanasi,County/cities~Varanasi/Varanasi,City|Varanasi,City]] 
 
-### #is_/same_as :: [Varanasi.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Uttar_Pradesh/City/Varanasi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Uttar_Pradesh/counties~Uttar_Pradesh/Varanasi,County/cities~Varanasi/Varanasi,City.public|Varanasi,City.public]] 
 
-### #is_/same_as :: [Varanasi.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Uttar_Pradesh/City/Varanasi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Uttar_Pradesh/counties~Uttar_Pradesh/Varanasi,County/cities~Varanasi/Varanasi,City.internal|Varanasi,City.internal]] 
 
-### #is_/same_as :: [Varanasi.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Uttar_Pradesh/City/Varanasi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Uttar_Pradesh/counties~Uttar_Pradesh/Varanasi,County/cities~Varanasi/Varanasi,City.protect|Varanasi,City.protect]] 
 
-### #is_/same_as :: [Varanasi.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Uttar_Pradesh/City/Varanasi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Uttar_Pradesh/counties~Uttar_Pradesh/Varanasi,County/cities~Varanasi/Varanasi,City.private|Varanasi,City.private]] 
 
-### #is_/same_as :: [Varanasi.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Uttar_Pradesh/City/Varanasi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Uttar_Pradesh/counties~Uttar_Pradesh/Varanasi,County/cities~Varanasi/Varanasi,City.personal|Varanasi,City.personal]] 
 
-### #is_/same_as :: [Varanasi.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Uttar_Pradesh/City/Varanasi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Uttar_Pradesh/counties~Uttar_Pradesh/Varanasi,County/cities~Varanasi/Varanasi,City.secret|Varanasi,City.secret]] 
 

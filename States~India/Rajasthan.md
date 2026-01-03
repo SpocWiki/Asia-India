@@ -54,20 +54,19 @@ markerFolder: ./Rajasthan/
 > [Wikipedia](https://en.wikipedia.org/wiki/Rajasthan)  
 
 
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rajasthan](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Rajasthan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Rajasthan|Rajasthan]] 
 
-### #is_/same_as :: [Rajasthan.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Rajasthan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Rajasthan.public|Rajasthan.public]] 
 
-### #is_/same_as :: [Rajasthan.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Rajasthan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Rajasthan.internal|Rajasthan.internal]] 
 
-### #is_/same_as :: [Rajasthan.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Rajasthan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Rajasthan.protect|Rajasthan.protect]] 
 
-### #is_/same_as :: [Rajasthan.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Rajasthan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Rajasthan.private|Rajasthan.private]] 
 
-### #is_/same_as :: [Rajasthan.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Rajasthan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Rajasthan.personal|Rajasthan.personal]] 
 
-### #is_/same_as :: [Rajasthan.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Rajasthan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Rajasthan.secret|Rajasthan.secret]] 
 

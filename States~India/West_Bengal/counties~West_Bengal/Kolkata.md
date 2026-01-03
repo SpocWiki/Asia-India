@@ -154,19 +154,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kolkata)
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kolkata](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal/City/Kolkata.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal/counties~West_Bengal/Kolkata|Kolkata]] 
 
-### #is_/same_as :: [Kolkata.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal/City/Kolkata.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal/counties~West_Bengal/Kolkata.public|Kolkata.public]] 
 
-### #is_/same_as :: [Kolkata.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal/City/Kolkata.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal/counties~West_Bengal/Kolkata.internal|Kolkata.internal]] 
 
-### #is_/same_as :: [Kolkata.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal/City/Kolkata.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal/counties~West_Bengal/Kolkata.protect|Kolkata.protect]] 
 
-### #is_/same_as :: [Kolkata.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal/City/Kolkata.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal/counties~West_Bengal/Kolkata.private|Kolkata.private]] 
 
-### #is_/same_as :: [Kolkata.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal/City/Kolkata.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal/counties~West_Bengal/Kolkata.personal|Kolkata.personal]] 
 
-### #is_/same_as :: [Kolkata.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal/City/Kolkata.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal/counties~West_Bengal/Kolkata.secret|Kolkata.secret]] 
 

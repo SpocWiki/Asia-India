@@ -40,17 +40,17 @@ markerFolder: ./Lakshadweep/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lakshadweep](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Lakshadweep.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Lakshadweep|Lakshadweep]] 
 
-### #is_/same_as :: [Lakshadweep.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Lakshadweep.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Lakshadweep.public|Lakshadweep.public]] 
 
-### #is_/same_as :: [Lakshadweep.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Lakshadweep.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Lakshadweep.internal|Lakshadweep.internal]] 
 
-### #is_/same_as :: [Lakshadweep.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Lakshadweep.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Lakshadweep.protect|Lakshadweep.protect]] 
 
-### #is_/same_as :: [Lakshadweep.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Lakshadweep.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Lakshadweep.private|Lakshadweep.private]] 
 
-### #is_/same_as :: [Lakshadweep.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Lakshadweep.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Lakshadweep.personal|Lakshadweep.personal]] 
 
-### #is_/same_as :: [Lakshadweep.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Lakshadweep.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Lakshadweep.secret|Lakshadweep.secret]] 
 

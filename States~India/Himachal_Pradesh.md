@@ -40,17 +40,17 @@ markerFolder: ./Himachal_Pradesh/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Himachal_Pradesh](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Himachal_Pradesh.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Himachal_Pradesh|Himachal_Pradesh]] 
 
-### #is_/same_as :: [Himachal_Pradesh.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Himachal_Pradesh.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Himachal_Pradesh.public|Himachal_Pradesh.public]] 
 
-### #is_/same_as :: [Himachal_Pradesh.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Himachal_Pradesh.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Himachal_Pradesh.internal|Himachal_Pradesh.internal]] 
 
-### #is_/same_as :: [Himachal_Pradesh.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Himachal_Pradesh.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Himachal_Pradesh.protect|Himachal_Pradesh.protect]] 
 
-### #is_/same_as :: [Himachal_Pradesh.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Himachal_Pradesh.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Himachal_Pradesh.private|Himachal_Pradesh.private]] 
 
-### #is_/same_as :: [Himachal_Pradesh.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Himachal_Pradesh.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Himachal_Pradesh.personal|Himachal_Pradesh.personal]] 
 
-### #is_/same_as :: [Himachal_Pradesh.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Himachal_Pradesh.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Himachal_Pradesh.secret|Himachal_Pradesh.secret]] 
 

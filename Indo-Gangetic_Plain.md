@@ -44,3 +44,20 @@ coordinate_location: Point(80.0 27.0)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Indo-Gangetic%20Plain) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/Indo-Gangetic_Plain|Indo-Gangetic_Plain]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/Indo-Gangetic_Plain.public|Indo-Gangetic_Plain.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/Indo-Gangetic_Plain.internal|Indo-Gangetic_Plain.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/Indo-Gangetic_Plain.protect|Indo-Gangetic_Plain.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/Indo-Gangetic_Plain.private|Indo-Gangetic_Plain.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/Indo-Gangetic_Plain.personal|Indo-Gangetic_Plain.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/Indo-Gangetic_Plain.secret|Indo-Gangetic_Plain.secret]] 
+

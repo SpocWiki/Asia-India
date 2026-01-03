@@ -38,3 +38,21 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Indian%20independence%20movement) 
 
  
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/Indian_Independence|Indian_Independence]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/Indian_Independence.public|Indian_Independence.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/Indian_Independence.internal|Indian_Independence.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/Indian_Independence.protect|Indian_Independence.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/Indian_Independence.private|Indian_Independence.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/Indian_Independence.personal|Indian_Independence.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/Indian_Independence.secret|Indian_Independence.secret]] 
+

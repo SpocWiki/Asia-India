@@ -64,3 +64,20 @@ name_in_kana: クリシュナがわ
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Krishna%20River) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/Krishna_River|Krishna_River]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/Krishna_River.public|Krishna_River.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/Krishna_River.internal|Krishna_River.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/Krishna_River.protect|Krishna_River.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/Krishna_River.private|Krishna_River.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/Krishna_River.personal|Krishna_River.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/Krishna_River.secret|Krishna_River.secret]] 
+

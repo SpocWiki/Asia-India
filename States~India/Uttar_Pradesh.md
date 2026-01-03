@@ -42,17 +42,17 @@ markerFolder: ./Uttar_Pradesh/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Uttar_Pradesh](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Uttar_Pradesh.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Uttar_Pradesh|Uttar_Pradesh]] 
 
-### #is_/same_as :: [Uttar_Pradesh.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Uttar_Pradesh.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Uttar_Pradesh.public|Uttar_Pradesh.public]] 
 
-### #is_/same_as :: [Uttar_Pradesh.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Uttar_Pradesh.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Uttar_Pradesh.internal|Uttar_Pradesh.internal]] 
 
-### #is_/same_as :: [Uttar_Pradesh.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Uttar_Pradesh.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Uttar_Pradesh.protect|Uttar_Pradesh.protect]] 
 
-### #is_/same_as :: [Uttar_Pradesh.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Uttar_Pradesh.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Uttar_Pradesh.private|Uttar_Pradesh.private]] 
 
-### #is_/same_as :: [Uttar_Pradesh.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Uttar_Pradesh.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Uttar_Pradesh.personal|Uttar_Pradesh.personal]] 
 
-### #is_/same_as :: [Uttar_Pradesh.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Uttar_Pradesh.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Uttar_Pradesh.secret|Uttar_Pradesh.secret]] 
 

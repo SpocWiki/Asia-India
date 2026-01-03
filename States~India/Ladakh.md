@@ -12,23 +12,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Ladakh) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ladakh](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Ladakh.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Ladakh|Ladakh]] 
 
-### #is_/same_as :: [Ladakh.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Ladakh.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Ladakh.public|Ladakh.public]] 
 
-### #is_/same_as :: [Ladakh.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Ladakh.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Ladakh.internal|Ladakh.internal]] 
 
-### #is_/same_as :: [Ladakh.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Ladakh.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Ladakh.protect|Ladakh.protect]] 
 
-### #is_/same_as :: [Ladakh.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Ladakh.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Ladakh.private|Ladakh.private]] 
 
-### #is_/same_as :: [Ladakh.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Ladakh.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Ladakh.personal|Ladakh.personal]] 
 
-### #is_/same_as :: [Ladakh.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Ladakh.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Ladakh.secret|Ladakh.secret]] 
 

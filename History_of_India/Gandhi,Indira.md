@@ -190,3 +190,20 @@ Krugosvet_article_archived_: istoriya/GANDI_INDIRA.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Indira%20Gandhi) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/Gandhi,Indira|Gandhi,Indira]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/Gandhi,Indira.public|Gandhi,Indira.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/Gandhi,Indira.internal|Gandhi,Indira.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/Gandhi,Indira.protect|Gandhi,Indira.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/Gandhi,Indira.private|Gandhi,Indira.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/Gandhi,Indira.personal|Gandhi,Indira.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/Gandhi,Indira.secret|Gandhi,Indira.secret]] 
+

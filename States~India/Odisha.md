@@ -41,17 +41,17 @@ markerFolder: ./Orissa/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Odisha](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Odisha.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Odisha|Odisha]] 
 
-### #is_/same_as :: [Odisha.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Odisha.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Odisha.public|Odisha.public]] 
 
-### #is_/same_as :: [Odisha.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Odisha.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Odisha.internal|Odisha.internal]] 
 
-### #is_/same_as :: [Odisha.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Odisha.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Odisha.protect|Odisha.protect]] 
 
-### #is_/same_as :: [Odisha.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Odisha.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Odisha.private|Odisha.private]] 
 
-### #is_/same_as :: [Odisha.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Odisha.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Odisha.personal|Odisha.personal]] 
 
-### #is_/same_as :: [Odisha.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Odisha.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Odisha.secret|Odisha.secret]] 
 

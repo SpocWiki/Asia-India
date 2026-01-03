@@ -40,17 +40,17 @@ markerFolder: ./Karnataka/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Karnataka](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Karnataka.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Karnataka|Karnataka]] 
 
-### #is_/same_as :: [Karnataka.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Karnataka.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Karnataka.public|Karnataka.public]] 
 
-### #is_/same_as :: [Karnataka.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Karnataka.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Karnataka.internal|Karnataka.internal]] 
 
-### #is_/same_as :: [Karnataka.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Karnataka.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Karnataka.protect|Karnataka.protect]] 
 
-### #is_/same_as :: [Karnataka.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Karnataka.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Karnataka.private|Karnataka.private]] 
 
-### #is_/same_as :: [Karnataka.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Karnataka.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Karnataka.personal|Karnataka.personal]] 
 
-### #is_/same_as :: [Karnataka.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Karnataka.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Karnataka.secret|Karnataka.secret]] 
 

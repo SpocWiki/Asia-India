@@ -41,17 +41,17 @@ zoomFeatures: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Telangana](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Telangana.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Telangana|Telangana]] 
 
-### #is_/same_as :: [Telangana.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Telangana.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Telangana.public|Telangana.public]] 
 
-### #is_/same_as :: [Telangana.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Telangana.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Telangana.internal|Telangana.internal]] 
 
-### #is_/same_as :: [Telangana.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Telangana.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Telangana.protect|Telangana.protect]] 
 
-### #is_/same_as :: [Telangana.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Telangana.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Telangana.private|Telangana.private]] 
 
-### #is_/same_as :: [Telangana.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Telangana.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Telangana.personal|Telangana.personal]] 
 
-### #is_/same_as :: [Telangana.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Telangana.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Telangana.secret|Telangana.secret]] 
 

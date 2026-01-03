@@ -207,17 +207,17 @@ defaultZoom: 11
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Delhi](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Delhi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Delhi|Delhi]] 
 
-### #is_/same_as :: [Delhi.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Delhi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Delhi.public|Delhi.public]] 
 
-### #is_/same_as :: [Delhi.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Delhi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Delhi.internal|Delhi.internal]] 
 
-### #is_/same_as :: [Delhi.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Delhi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Delhi.protect|Delhi.protect]] 
 
-### #is_/same_as :: [Delhi.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Delhi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Delhi.private|Delhi.private]] 
 
-### #is_/same_as :: [Delhi.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Delhi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Delhi.personal|Delhi.personal]] 
 
-### #is_/same_as :: [Delhi.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Delhi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Delhi.secret|Delhi.secret]] 
 

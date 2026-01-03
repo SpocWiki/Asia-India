@@ -80,3 +80,20 @@ native_label: ਹਰਿਮੰਦਰ ਸਾਹਿਬ
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Golden%20Temple) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Punjab,India/counties~Punjab/Amritsar/Harmandir_Sahib|Harmandir_Sahib]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Punjab,India/counties~Punjab/Amritsar/Harmandir_Sahib.public|Harmandir_Sahib.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Punjab,India/counties~Punjab/Amritsar/Harmandir_Sahib.internal|Harmandir_Sahib.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Punjab,India/counties~Punjab/Amritsar/Harmandir_Sahib.protect|Harmandir_Sahib.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Punjab,India/counties~Punjab/Amritsar/Harmandir_Sahib.private|Harmandir_Sahib.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Punjab,India/counties~Punjab/Amritsar/Harmandir_Sahib.personal|Harmandir_Sahib.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Punjab,India/counties~Punjab/Amritsar/Harmandir_Sahib.secret|Harmandir_Sahib.secret]] 
+

@@ -37,3 +37,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ahmedabad) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Gujarat/counties~Gujarat/Ahmadabad/cities~Ahmadabad/Ahmedabad,City|Ahmedabad,City]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Gujarat/counties~Gujarat/Ahmadabad/cities~Ahmadabad/Ahmedabad,City.public|Ahmedabad,City.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Gujarat/counties~Gujarat/Ahmadabad/cities~Ahmadabad/Ahmedabad,City.internal|Ahmedabad,City.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Gujarat/counties~Gujarat/Ahmadabad/cities~Ahmadabad/Ahmedabad,City.protect|Ahmedabad,City.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Gujarat/counties~Gujarat/Ahmadabad/cities~Ahmadabad/Ahmedabad,City.private|Ahmedabad,City.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Gujarat/counties~Gujarat/Ahmadabad/cities~Ahmadabad/Ahmedabad,City.personal|Ahmedabad,City.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Gujarat/counties~Gujarat/Ahmadabad/cities~Ahmadabad/Ahmedabad,City.secret|Ahmedabad,City.secret]] 
+

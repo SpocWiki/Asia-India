@@ -83,3 +83,20 @@ minZoom: 6
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Yamuna) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Haryana/Yamuna|Yamuna]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Haryana/Yamuna.public|Yamuna.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Haryana/Yamuna.internal|Yamuna.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Haryana/Yamuna.protect|Yamuna.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Haryana/Yamuna.private|Yamuna.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Haryana/Yamuna.personal|Yamuna.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Haryana/Yamuna.secret|Yamuna.secret]] 
+

@@ -84,3 +84,20 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/University%20of%20Calcutta) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal/counties~West_Bengal/Kolkata/University_of_Calcutta|University_of_Calcutta]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal/counties~West_Bengal/Kolkata/University_of_Calcutta.public|University_of_Calcutta.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal/counties~West_Bengal/Kolkata/University_of_Calcutta.internal|University_of_Calcutta.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal/counties~West_Bengal/Kolkata/University_of_Calcutta.protect|University_of_Calcutta.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal/counties~West_Bengal/Kolkata/University_of_Calcutta.private|University_of_Calcutta.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal/counties~West_Bengal/Kolkata/University_of_Calcutta.personal|University_of_Calcutta.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/West_Bengal/counties~West_Bengal/Kolkata/University_of_Calcutta.secret|University_of_Calcutta.secret]] 
+

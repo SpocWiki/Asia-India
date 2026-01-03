@@ -120,20 +120,19 @@ maxZoom: 18
 > [Wikipedia](https://en.wikipedia.org/wiki/Pune) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pune](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Maharashtra/City/Pune.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Maharashtra/counties~Maharashtra/Pune,District/cities~Pune/Pune,City|Pune,City]] 
 
-### #is_/same_as :: [Pune.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Maharashtra/City/Pune.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Maharashtra/counties~Maharashtra/Pune,District/cities~Pune/Pune,City.public|Pune,City.public]] 
 
-### #is_/same_as :: [Pune.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Maharashtra/City/Pune.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Maharashtra/counties~Maharashtra/Pune,District/cities~Pune/Pune,City.internal|Pune,City.internal]] 
 
-### #is_/same_as :: [Pune.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Maharashtra/City/Pune.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Maharashtra/counties~Maharashtra/Pune,District/cities~Pune/Pune,City.protect|Pune,City.protect]] 
 
-### #is_/same_as :: [Pune.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Maharashtra/City/Pune.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Maharashtra/counties~Maharashtra/Pune,District/cities~Pune/Pune,City.private|Pune,City.private]] 
 
-### #is_/same_as :: [Pune.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Maharashtra/City/Pune.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Maharashtra/counties~Maharashtra/Pune,District/cities~Pune/Pune,City.personal|Pune,City.personal]] 
 
-### #is_/same_as :: [Pune.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Maharashtra/City/Pune.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Maharashtra/counties~Maharashtra/Pune,District/cities~Pune/Pune,City.secret|Pune,City.secret]] 
 

@@ -60,3 +60,20 @@ Commons_category: Indian Institutes of Management
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Indian%20Institutes%20of%20Management) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/Indian_Institutes_of_Management|Indian_Institutes_of_Management]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/Indian_Institutes_of_Management.public|Indian_Institutes_of_Management.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/Indian_Institutes_of_Management.internal|Indian_Institutes_of_Management.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/Indian_Institutes_of_Management.protect|Indian_Institutes_of_Management.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/Indian_Institutes_of_Management.private|Indian_Institutes_of_Management.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/Indian_Institutes_of_Management.personal|Indian_Institutes_of_Management.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/Indian_Institutes_of_Management.secret|Indian_Institutes_of_Management.secret]] 
+

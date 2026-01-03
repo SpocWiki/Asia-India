@@ -51,3 +51,20 @@ Commons_category: Sikh Empire
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sikh%20Empire) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/1799-Sikh_Empire+1849|1799-Sikh_Empire+1849]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/1799-Sikh_Empire+1849.public|1799-Sikh_Empire+1849.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/1799-Sikh_Empire+1849.internal|1799-Sikh_Empire+1849.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/1799-Sikh_Empire+1849.protect|1799-Sikh_Empire+1849.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/1799-Sikh_Empire+1849.private|1799-Sikh_Empire+1849.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/1799-Sikh_Empire+1849.personal|1799-Sikh_Empire+1849.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/1799-Sikh_Empire+1849.secret|1799-Sikh_Empire+1849.secret]] 
+

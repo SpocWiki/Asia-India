@@ -72,19 +72,20 @@ markerFolder: ./Gujarat/
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gujarat)
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gujarat](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Gujarat.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Gujarat|Gujarat]] 
 
-### #is_/same_as :: [Gujarat.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Gujarat.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Gujarat.public|Gujarat.public]] 
 
-### #is_/same_as :: [Gujarat.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Gujarat.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Gujarat.internal|Gujarat.internal]] 
 
-### #is_/same_as :: [Gujarat.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Gujarat.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Gujarat.protect|Gujarat.protect]] 
 
-### #is_/same_as :: [Gujarat.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Gujarat.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Gujarat.private|Gujarat.private]] 
 
-### #is_/same_as :: [Gujarat.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Gujarat.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Gujarat.personal|Gujarat.personal]] 
 
-### #is_/same_as :: [Gujarat.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Gujarat.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Gujarat.secret|Gujarat.secret]] 
 

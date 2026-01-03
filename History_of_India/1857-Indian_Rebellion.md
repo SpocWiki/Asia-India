@@ -58,3 +58,19 @@ Gujarati_Vishwakosh_entry: અઢારસો-સત્તાવન1857નો-�
 > [Wikipedia](https://en.wikipedia.org/wiki/Indian%20Rebellion%20of%201857) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/1857-Indian_Rebellion|1857-Indian_Rebellion]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/1857-Indian_Rebellion.public|1857-Indian_Rebellion.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/1857-Indian_Rebellion.internal|1857-Indian_Rebellion.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/1857-Indian_Rebellion.protect|1857-Indian_Rebellion.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/1857-Indian_Rebellion.private|1857-Indian_Rebellion.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/1857-Indian_Rebellion.personal|1857-Indian_Rebellion.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/1857-Indian_Rebellion.secret|1857-Indian_Rebellion.secret]] 
+

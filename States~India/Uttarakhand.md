@@ -47,17 +47,17 @@ defaultZoom: 11
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Uttarakhand](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Uttarakhand.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Uttarakhand|Uttarakhand]] 
 
-### #is_/same_as :: [Uttarakhand.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Uttarakhand.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Uttarakhand.public|Uttarakhand.public]] 
 
-### #is_/same_as :: [Uttarakhand.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Uttarakhand.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Uttarakhand.internal|Uttarakhand.internal]] 
 
-### #is_/same_as :: [Uttarakhand.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Uttarakhand.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Uttarakhand.protect|Uttarakhand.protect]] 
 
-### #is_/same_as :: [Uttarakhand.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Uttarakhand.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Uttarakhand.private|Uttarakhand.private]] 
 
-### #is_/same_as :: [Uttarakhand.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Uttarakhand.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Uttarakhand.personal|Uttarakhand.personal]] 
 
-### #is_/same_as :: [Uttarakhand.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Uttarakhand.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Uttarakhand.secret|Uttarakhand.secret]] 
 

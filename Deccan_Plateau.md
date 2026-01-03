@@ -64,3 +64,21 @@ maxZoom: 18
 > The Deccan plateau region was ruled by several kingdoms in Indian history such as Pallavas, Cholas, Pandyas, Satavahanas, Chalukyas, Rashtrakutas, Hoysalas, Kadambas, Kakatiyas, and Western Gangas. In the later medieval era, the lower plateau was ruled by the Vijayanagara empire, and the upper portion by the Bahmani kingdom, and its successors, the Deccan sultanates. It later housed the Kingdom of Mysore, Maratha confederacy, and Nizam's dominions. It was under the control of British Raj for nearly two centuries before Indian Independence in 1947. The Reorganisation of Indian states in the 1950s resulted in the creation of states on linguistic lines.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Deccan%20Plateau)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/Deccan_Plateau|Deccan_Plateau]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/Deccan_Plateau.public|Deccan_Plateau.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/Deccan_Plateau.internal|Deccan_Plateau.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/Deccan_Plateau.protect|Deccan_Plateau.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/Deccan_Plateau.private|Deccan_Plateau.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/Deccan_Plateau.personal|Deccan_Plateau.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/Deccan_Plateau.secret|Deccan_Plateau.secret]] 
+

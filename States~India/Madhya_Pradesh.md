@@ -40,17 +40,17 @@ markerFolder: ./Madhya_Pradesh/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Madhya_Pradesh](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Madhya_Pradesh.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Madhya_Pradesh|Madhya_Pradesh]] 
 
-### #is_/same_as :: [Madhya_Pradesh.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Madhya_Pradesh.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Madhya_Pradesh.public|Madhya_Pradesh.public]] 
 
-### #is_/same_as :: [Madhya_Pradesh.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Madhya_Pradesh.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Madhya_Pradesh.internal|Madhya_Pradesh.internal]] 
 
-### #is_/same_as :: [Madhya_Pradesh.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Madhya_Pradesh.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Madhya_Pradesh.protect|Madhya_Pradesh.protect]] 
 
-### #is_/same_as :: [Madhya_Pradesh.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Madhya_Pradesh.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Madhya_Pradesh.private|Madhya_Pradesh.private]] 
 
-### #is_/same_as :: [Madhya_Pradesh.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Madhya_Pradesh.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Madhya_Pradesh.personal|Madhya_Pradesh.personal]] 
 
-### #is_/same_as :: [Madhya_Pradesh.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Madhya_Pradesh.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Madhya_Pradesh.secret|Madhya_Pradesh.secret]] 
 

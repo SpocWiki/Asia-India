@@ -133,17 +133,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [New_Delhi](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Delhi/City/New_Delhi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Delhi/City/New_Delhi|New_Delhi]] 
 
-### #is_/same_as :: [New_Delhi.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Delhi/City/New_Delhi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Delhi/City/New_Delhi.public|New_Delhi.public]] 
 
-### #is_/same_as :: [New_Delhi.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Delhi/City/New_Delhi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Delhi/City/New_Delhi.internal|New_Delhi.internal]] 
 
-### #is_/same_as :: [New_Delhi.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Delhi/City/New_Delhi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Delhi/City/New_Delhi.protect|New_Delhi.protect]] 
 
-### #is_/same_as :: [New_Delhi.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Delhi/City/New_Delhi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Delhi/City/New_Delhi.private|New_Delhi.private]] 
 
-### #is_/same_as :: [New_Delhi.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Delhi/City/New_Delhi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Delhi/City/New_Delhi.personal|New_Delhi.personal]] 
 
-### #is_/same_as :: [New_Delhi.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Delhi/City/New_Delhi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Delhi/City/New_Delhi.secret|New_Delhi.secret]] 
 

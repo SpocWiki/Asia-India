@@ -106,3 +106,20 @@ official_website: http://jaipurmc.org/
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jaipur) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Rajasthan/counties~Rajasthan/Jaipur,County/cities~Jaipur/Jaipur,City|Jaipur,City]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Rajasthan/counties~Rajasthan/Jaipur,County/cities~Jaipur/Jaipur,City.public|Jaipur,City.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Rajasthan/counties~Rajasthan/Jaipur,County/cities~Jaipur/Jaipur,City.internal|Jaipur,City.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Rajasthan/counties~Rajasthan/Jaipur,County/cities~Jaipur/Jaipur,City.protect|Jaipur,City.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Rajasthan/counties~Rajasthan/Jaipur,County/cities~Jaipur/Jaipur,City.private|Jaipur,City.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Rajasthan/counties~Rajasthan/Jaipur,County/cities~Jaipur/Jaipur,City.personal|Jaipur,City.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Rajasthan/counties~Rajasthan/Jaipur,County/cities~Jaipur/Jaipur,City.secret|Jaipur,City.secret]] 
+

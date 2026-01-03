@@ -40,17 +40,17 @@ markerFolder: ./Jammu_and_Kashmir/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jammu_and_Kashmir](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Jammu_and_Kashmir.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Jammu_and_Kashmir|Jammu_and_Kashmir]] 
 
-### #is_/same_as :: [Jammu_and_Kashmir.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Jammu_and_Kashmir.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Jammu_and_Kashmir.public|Jammu_and_Kashmir.public]] 
 
-### #is_/same_as :: [Jammu_and_Kashmir.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Jammu_and_Kashmir.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Jammu_and_Kashmir.internal|Jammu_and_Kashmir.internal]] 
 
-### #is_/same_as :: [Jammu_and_Kashmir.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Jammu_and_Kashmir.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Jammu_and_Kashmir.protect|Jammu_and_Kashmir.protect]] 
 
-### #is_/same_as :: [Jammu_and_Kashmir.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Jammu_and_Kashmir.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Jammu_and_Kashmir.private|Jammu_and_Kashmir.private]] 
 
-### #is_/same_as :: [Jammu_and_Kashmir.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Jammu_and_Kashmir.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Jammu_and_Kashmir.personal|Jammu_and_Kashmir.personal]] 
 
-### #is_/same_as :: [Jammu_and_Kashmir.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Jammu_and_Kashmir.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Jammu_and_Kashmir.secret|Jammu_and_Kashmir.secret]] 
 

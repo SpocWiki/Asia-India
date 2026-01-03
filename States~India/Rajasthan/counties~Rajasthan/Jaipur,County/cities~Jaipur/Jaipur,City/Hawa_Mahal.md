@@ -44,3 +44,20 @@ Commons_category: Hawa Mahal
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hawa%20Mahal) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Rajasthan/counties~Rajasthan/Jaipur,County/cities~Jaipur/Jaipur,City/Hawa_Mahal|Hawa_Mahal]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Rajasthan/counties~Rajasthan/Jaipur,County/cities~Jaipur/Jaipur,City/Hawa_Mahal.public|Hawa_Mahal.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Rajasthan/counties~Rajasthan/Jaipur,County/cities~Jaipur/Jaipur,City/Hawa_Mahal.internal|Hawa_Mahal.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Rajasthan/counties~Rajasthan/Jaipur,County/cities~Jaipur/Jaipur,City/Hawa_Mahal.protect|Hawa_Mahal.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Rajasthan/counties~Rajasthan/Jaipur,County/cities~Jaipur/Jaipur,City/Hawa_Mahal.private|Hawa_Mahal.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Rajasthan/counties~Rajasthan/Jaipur,County/cities~Jaipur/Jaipur,City/Hawa_Mahal.personal|Hawa_Mahal.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Rajasthan/counties~Rajasthan/Jaipur,County/cities~Jaipur/Jaipur,City/Hawa_Mahal.secret|Hawa_Mahal.secret]] 
+

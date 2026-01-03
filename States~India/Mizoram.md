@@ -40,17 +40,17 @@ markerFolder: ./Mizoram/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mizoram](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Mizoram.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Mizoram|Mizoram]] 
 
-### #is_/same_as :: [Mizoram.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Mizoram.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Mizoram.public|Mizoram.public]] 
 
-### #is_/same_as :: [Mizoram.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Mizoram.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Mizoram.internal|Mizoram.internal]] 
 
-### #is_/same_as :: [Mizoram.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Mizoram.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Mizoram.protect|Mizoram.protect]] 
 
-### #is_/same_as :: [Mizoram.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Mizoram.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Mizoram.private|Mizoram.private]] 
 
-### #is_/same_as :: [Mizoram.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Mizoram.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Mizoram.personal|Mizoram.personal]] 
 
-### #is_/same_as :: [Mizoram.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Mizoram.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Mizoram.secret|Mizoram.secret]] 
 

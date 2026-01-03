@@ -240,3 +240,20 @@ Telegram_username: NarendraModi_Official
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Narendra%20Modi) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/Modi,Narendra|Modi,Narendra]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/Modi,Narendra.public|Modi,Narendra.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/Modi,Narendra.internal|Modi,Narendra.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/Modi,Narendra.protect|Modi,Narendra.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/Modi,Narendra.private|Modi,Narendra.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/Modi,Narendra.personal|Modi,Narendra.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/Modi,Narendra.secret|Modi,Narendra.secret]] 
+

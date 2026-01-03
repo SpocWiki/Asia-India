@@ -30,3 +30,20 @@ minZoom: 6
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Western%20Ghats) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/Western_Ghats|Western_Ghats]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/Western_Ghats.public|Western_Ghats.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/Western_Ghats.internal|Western_Ghats.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/Western_Ghats.protect|Western_Ghats.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/Western_Ghats.private|Western_Ghats.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/Western_Ghats.personal|Western_Ghats.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/Western_Ghats.secret|Western_Ghats.secret]] 
+

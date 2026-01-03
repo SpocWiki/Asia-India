@@ -40,17 +40,17 @@ markerFolder: ./Kerala/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kerala](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Kerala.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Kerala|Kerala]] 
 
-### #is_/same_as :: [Kerala.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Kerala.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Kerala.public|Kerala.public]] 
 
-### #is_/same_as :: [Kerala.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Kerala.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Kerala.internal|Kerala.internal]] 
 
-### #is_/same_as :: [Kerala.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Kerala.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Kerala.protect|Kerala.protect]] 
 
-### #is_/same_as :: [Kerala.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Kerala.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Kerala.private|Kerala.private]] 
 
-### #is_/same_as :: [Kerala.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Kerala.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Kerala.personal|Kerala.personal]] 
 
-### #is_/same_as :: [Kerala.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Kerala.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Kerala.secret|Kerala.secret]] 
 

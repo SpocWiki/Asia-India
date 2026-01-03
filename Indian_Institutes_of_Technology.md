@@ -67,3 +67,20 @@ Commons_category: Indian Institutes of Technology
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Indian%20Institutes%20of%20Technology) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/Indian_Institutes_of_Technology|Indian_Institutes_of_Technology]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/Indian_Institutes_of_Technology.public|Indian_Institutes_of_Technology.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/Indian_Institutes_of_Technology.internal|Indian_Institutes_of_Technology.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/Indian_Institutes_of_Technology.protect|Indian_Institutes_of_Technology.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/Indian_Institutes_of_Technology.private|Indian_Institutes_of_Technology.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/Indian_Institutes_of_Technology.personal|Indian_Institutes_of_Technology.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/Indian_Institutes_of_Technology.secret|Indian_Institutes_of_Technology.secret]] 
+

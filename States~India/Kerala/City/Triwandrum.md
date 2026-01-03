@@ -32,17 +32,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Triwandrum](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Kerala/City/Triwandrum.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Kerala/City/Triwandrum|Triwandrum]] 
 
-### #is_/same_as :: [Triwandrum.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Kerala/City/Triwandrum.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Kerala/City/Triwandrum.public|Triwandrum.public]] 
 
-### #is_/same_as :: [Triwandrum.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Kerala/City/Triwandrum.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Kerala/City/Triwandrum.internal|Triwandrum.internal]] 
 
-### #is_/same_as :: [Triwandrum.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Kerala/City/Triwandrum.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Kerala/City/Triwandrum.protect|Triwandrum.protect]] 
 
-### #is_/same_as :: [Triwandrum.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Kerala/City/Triwandrum.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Kerala/City/Triwandrum.private|Triwandrum.private]] 
 
-### #is_/same_as :: [Triwandrum.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Kerala/City/Triwandrum.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Kerala/City/Triwandrum.personal|Triwandrum.personal]] 
 
-### #is_/same_as :: [Triwandrum.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Kerala/City/Triwandrum.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Kerala/City/Triwandrum.secret|Triwandrum.secret]] 
 

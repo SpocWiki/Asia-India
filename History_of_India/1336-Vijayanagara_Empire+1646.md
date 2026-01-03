@@ -81,3 +81,20 @@ native_label: ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯ
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vijayanagara%20Empire) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/1336-Vijayanagara_Empire+1646|1336-Vijayanagara_Empire+1646]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/1336-Vijayanagara_Empire+1646.public|1336-Vijayanagara_Empire+1646.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/1336-Vijayanagara_Empire+1646.internal|1336-Vijayanagara_Empire+1646.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/1336-Vijayanagara_Empire+1646.protect|1336-Vijayanagara_Empire+1646.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/1336-Vijayanagara_Empire+1646.private|1336-Vijayanagara_Empire+1646.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/1336-Vijayanagara_Empire+1646.personal|1336-Vijayanagara_Empire+1646.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/1336-Vijayanagara_Empire+1646.secret|1336-Vijayanagara_Empire+1646.secret]] 
+

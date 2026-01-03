@@ -68,3 +68,20 @@ Gujarati_Vishwakosh_entry: સૂરત
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Surat) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Gujarat/counties~Gujarat/Surat,District/cities~Surat/Surat,City|Surat,City]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Gujarat/counties~Gujarat/Surat,District/cities~Surat/Surat,City.public|Surat,City.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Gujarat/counties~Gujarat/Surat,District/cities~Surat/Surat,City.internal|Surat,City.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Gujarat/counties~Gujarat/Surat,District/cities~Surat/Surat,City.protect|Surat,City.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Gujarat/counties~Gujarat/Surat,District/cities~Surat/Surat,City.private|Surat,City.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Gujarat/counties~Gujarat/Surat,District/cities~Surat/Surat,City.personal|Surat,City.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Gujarat/counties~Gujarat/Surat,District/cities~Surat/Surat,City.secret|Surat,City.secret]] 
+

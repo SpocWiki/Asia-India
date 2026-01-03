@@ -32,17 +32,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Anantapur](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Andhra_Pradesh/City/Anantapur.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Andhra_Pradesh/City/Anantapur|Anantapur]] 
 
-### #is_/same_as :: [Anantapur.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Andhra_Pradesh/City/Anantapur.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Andhra_Pradesh/City/Anantapur.public|Anantapur.public]] 
 
-### #is_/same_as :: [Anantapur.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Andhra_Pradesh/City/Anantapur.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Andhra_Pradesh/City/Anantapur.internal|Anantapur.internal]] 
 
-### #is_/same_as :: [Anantapur.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Andhra_Pradesh/City/Anantapur.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Andhra_Pradesh/City/Anantapur.protect|Anantapur.protect]] 
 
-### #is_/same_as :: [Anantapur.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Andhra_Pradesh/City/Anantapur.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Andhra_Pradesh/City/Anantapur.private|Anantapur.private]] 
 
-### #is_/same_as :: [Anantapur.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Andhra_Pradesh/City/Anantapur.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Andhra_Pradesh/City/Anantapur.personal|Anantapur.personal]] 
 
-### #is_/same_as :: [Anantapur.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Andhra_Pradesh/City/Anantapur.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Andhra_Pradesh/City/Anantapur.secret|Anantapur.secret]] 
 

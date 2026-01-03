@@ -40,17 +40,17 @@ markerFolder: ./Manipur/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Manipur](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Manipur.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Manipur|Manipur]] 
 
-### #is_/same_as :: [Manipur.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Manipur.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Manipur.public|Manipur.public]] 
 
-### #is_/same_as :: [Manipur.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Manipur.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Manipur.internal|Manipur.internal]] 
 
-### #is_/same_as :: [Manipur.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Manipur.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Manipur.protect|Manipur.protect]] 
 
-### #is_/same_as :: [Manipur.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Manipur.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Manipur.private|Manipur.private]] 
 
-### #is_/same_as :: [Manipur.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Manipur.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Manipur.personal|Manipur.personal]] 
 
-### #is_/same_as :: [Manipur.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Manipur.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Manipur.secret|Manipur.secret]] 
 

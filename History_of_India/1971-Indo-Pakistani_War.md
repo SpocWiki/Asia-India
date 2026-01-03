@@ -35,3 +35,21 @@ Commons_category: Indo-Pakistani War of 1971
 > During the war, members of the Pakistani military and supporting pro-Pakistani Islamist militias called the Razakars raped between 200,000 and 400,000 Bangladeshi women and girls in a systematic campaign of genocidal rape.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Indo-Pakistani%20war%20of%201971)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/1971-Indo-Pakistani_War|1971-Indo-Pakistani_War]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/1971-Indo-Pakistani_War.public|1971-Indo-Pakistani_War.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/1971-Indo-Pakistani_War.internal|1971-Indo-Pakistani_War.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/1971-Indo-Pakistani_War.protect|1971-Indo-Pakistani_War.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/1971-Indo-Pakistani_War.private|1971-Indo-Pakistani_War.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/1971-Indo-Pakistani_War.personal|1971-Indo-Pakistani_War.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/History_of_India/1971-Indo-Pakistani_War.secret|1971-Indo-Pakistani_War.secret]] 
+

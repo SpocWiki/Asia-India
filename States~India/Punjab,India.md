@@ -40,17 +40,17 @@ markerFolder: ./Punjab/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Punjab,India](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Punjab,India.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Punjab,India|Punjab,India]] 
 
-### #is_/same_as :: [Punjab,India.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Punjab,India.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Punjab,India.public|Punjab,India.public]] 
 
-### #is_/same_as :: [Punjab,India.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Punjab,India.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Punjab,India.internal|Punjab,India.internal]] 
 
-### #is_/same_as :: [Punjab,India.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Punjab,India.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Punjab,India.protect|Punjab,India.protect]] 
 
-### #is_/same_as :: [Punjab,India.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Punjab,India.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Punjab,India.private|Punjab,India.private]] 
 
-### #is_/same_as :: [Punjab,India.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Punjab,India.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Punjab,India.personal|Punjab,India.personal]] 
 
-### #is_/same_as :: [Punjab,India.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Punjab,India.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Punjab,India.secret|Punjab,India.secret]] 
 

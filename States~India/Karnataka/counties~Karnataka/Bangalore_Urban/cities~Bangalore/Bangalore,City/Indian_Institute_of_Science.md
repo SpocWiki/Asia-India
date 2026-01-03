@@ -64,4 +64,19 @@ inception: 1909-05-27T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Indian%20Institute%20of%20Science) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Karnataka/counties~Karnataka/Bangalore_Urban/cities~Bangalore/Bangalore,City/Indian_Institute_of_Science|Indian_Institute_of_Science]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Karnataka/counties~Karnataka/Bangalore_Urban/cities~Bangalore/Bangalore,City/Indian_Institute_of_Science.public|Indian_Institute_of_Science.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Karnataka/counties~Karnataka/Bangalore_Urban/cities~Bangalore/Bangalore,City/Indian_Institute_of_Science.internal|Indian_Institute_of_Science.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Karnataka/counties~Karnataka/Bangalore_Urban/cities~Bangalore/Bangalore,City/Indian_Institute_of_Science.protect|Indian_Institute_of_Science.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Karnataka/counties~Karnataka/Bangalore_Urban/cities~Bangalore/Bangalore,City/Indian_Institute_of_Science.private|Indian_Institute_of_Science.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Karnataka/counties~Karnataka/Bangalore_Urban/cities~Bangalore/Bangalore,City/Indian_Institute_of_Science.personal|Indian_Institute_of_Science.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Karnataka/counties~Karnataka/Bangalore_Urban/cities~Bangalore/Bangalore,City/Indian_Institute_of_Science.secret|Indian_Institute_of_Science.secret]] 
 

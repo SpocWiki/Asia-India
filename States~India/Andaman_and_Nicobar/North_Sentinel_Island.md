@@ -36,21 +36,19 @@ defaultZoom: 10
 ```
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [North_Sentinel_Island](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Andaman_and_Nicobar/North_Sentinel_Island.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Andaman_and_Nicobar/North_Sentinel_Island|North_Sentinel_Island]] 
 
-### #is_/same_as :: [North_Sentinel_Island.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Andaman_and_Nicobar/North_Sentinel_Island.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Andaman_and_Nicobar/North_Sentinel_Island.public|North_Sentinel_Island.public]] 
 
-### #is_/same_as :: [North_Sentinel_Island.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Andaman_and_Nicobar/North_Sentinel_Island.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Andaman_and_Nicobar/North_Sentinel_Island.internal|North_Sentinel_Island.internal]] 
 
-### #is_/same_as :: [North_Sentinel_Island.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Andaman_and_Nicobar/North_Sentinel_Island.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Andaman_and_Nicobar/North_Sentinel_Island.protect|North_Sentinel_Island.protect]] 
 
-### #is_/same_as :: [North_Sentinel_Island.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Andaman_and_Nicobar/North_Sentinel_Island.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Andaman_and_Nicobar/North_Sentinel_Island.private|North_Sentinel_Island.private]] 
 
-### #is_/same_as :: [North_Sentinel_Island.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Andaman_and_Nicobar/North_Sentinel_Island.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Andaman_and_Nicobar/North_Sentinel_Island.personal|North_Sentinel_Island.personal]] 
 
-### #is_/same_as :: [North_Sentinel_Island.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Andaman_and_Nicobar/North_Sentinel_Island.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Andaman_and_Nicobar/North_Sentinel_Island.secret|North_Sentinel_Island.secret]] 
 

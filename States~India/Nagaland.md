@@ -40,17 +40,17 @@ markerFolder: ./Nagaland/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nagaland](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Nagaland.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Nagaland|Nagaland]] 
 
-### #is_/same_as :: [Nagaland.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Nagaland.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Nagaland.public|Nagaland.public]] 
 
-### #is_/same_as :: [Nagaland.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Nagaland.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Nagaland.internal|Nagaland.internal]] 
 
-### #is_/same_as :: [Nagaland.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Nagaland.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Nagaland.protect|Nagaland.protect]] 
 
-### #is_/same_as :: [Nagaland.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Nagaland.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Nagaland.private|Nagaland.private]] 
 
-### #is_/same_as :: [Nagaland.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Nagaland.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Nagaland.personal|Nagaland.personal]] 
 
-### #is_/same_as :: [Nagaland.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Nagaland.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Nagaland.secret|Nagaland.secret]] 
 
