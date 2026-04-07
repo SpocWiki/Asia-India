@@ -24,43 +24,43 @@ official_name:
   - वरणासी
   - Varanasi
 Commons_gallery: वाराणसी
-shares_border_with: "[[_Standards/WikiData/WD~Azamgarh,526757]]"
+shares_border_with: "[[_Standards/WikiData/WD~Azamgarh,526757|WD~Azamgarh,526757]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Vierter_Band,129249812]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Siebenter_Band,131314460]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862|WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"
+  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Vierter_Band,129249812|WD~Meyer_s_Universum,_Vierter_Band,129249812]]"
+  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Siebenter_Band,131314460|WD~Meyer_s_Universum,_Siebenter_Band,131314460]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~holy_city,692581]]"
-  - "[[_Standards/WikiData/WD~million_city,1637706]]"
-  - "[[_Standards/WikiData/WD~city,515]]"
+  - "[[_Standards/WikiData/WD~holy_city,692581|WD~holy_city,692581]]"
+  - "[[_Standards/WikiData/WD~million_city,1637706|WD~million_city,1637706]]"
+  - "[[_Standards/WikiData/WD~city,515|WD~city,515]]"
 named_after:
-  - "[[_Standards/WikiData/WD~Assi_River,741472]]"
-  - "[[_Standards/WikiData/WD~Varuna_River,1365269]]"
+  - "[[_Standards/WikiData/WD~Assi_River,741472|WD~Assi_River,741472]]"
+  - "[[_Standards/WikiData/WD~Varuna_River,1365269|WD~Varuna_River,1365269]]"
 member_of:
-  - "[[_Standards/WikiData/WD~Creative_Cities_Network,1139352]]"
-  - "[[_Standards/WikiData/WD~League_of_Historical_Cities,9383972]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Varanasi_district,1321140]]"
+  - "[[_Standards/WikiData/WD~Creative_Cities_Network,1139352|WD~Creative_Cities_Network,1139352]]"
+  - "[[_Standards/WikiData/WD~League_of_Historical_Cities,9383972|WD~League_of_Historical_Cities,9383972]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Varanasi_district,1321140|WD~Varanasi_district,1321140]]"
 capital_of:
-  - "[[_Standards/WikiData/WD~Varanasi_district,1321140]]"
-  - "[[_Standards/WikiData/WD~Benares_State,1375154]]"
-  - "[[_Standards/WikiData/WD~Varanasi_division,2478439]]"
-  - "[[_Standards/WikiData/WD~Royal_House_of_Benares,3403527]]"
-  - "[[_Standards/WikiData/WD~Kashi,12660335]]"
+  - "[[_Standards/WikiData/WD~Varanasi_district,1321140|WD~Varanasi_district,1321140]]"
+  - "[[_Standards/WikiData/WD~Benares_State,1375154|WD~Benares_State,1375154]]"
+  - "[[_Standards/WikiData/WD~Varanasi_division,2478439|WD~Varanasi_division,2478439]]"
+  - "[[_Standards/WikiData/WD~Royal_House_of_Benares,3403527|WD~Royal_House_of_Benares,3403527]]"
+  - "[[_Standards/WikiData/WD~Kashi,12660335|WD~Kashi,12660335]]"
 located_in_or_next_to_body_of_water:
-  - "[[_Standards/WikiData/WD~Varuna_River,1365269]]"
-  - "[[_Standards/WikiData/WD~Ganges,5089]]"
-different_from: "[[_Standards/WikiData/WD~Varanasi_division,2478439]]"
-part_of: "[[_Standards/WikiData/WD~Purvanchal,7261660]]"
-authority: "[[_Standards/WikiData/WD~Varanasi_Municipal_Corporation,48726994]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Varanasi,100865751]]"
+  - "[[_Standards/WikiData/WD~Varuna_River,1365269|WD~Varuna_River,1365269]]"
+  - "[[_Standards/WikiData/WD~Ganges,5089|WD~Ganges,5089]]"
+different_from: "[[_Standards/WikiData/WD~Varanasi_division,2478439|WD~Varanasi_division,2478439]]"
+part_of: "[[_Standards/WikiData/WD~Purvanchal,7261660|WD~Purvanchal,7261660]]"
+authority: "[[_Standards/WikiData/WD~Varanasi_Municipal_Corporation,48726994|WD~Varanasi_Municipal_Corporation,48726994]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Varanasi,100865751|WD~economy_of_Varanasi,100865751]]"
 coordinate_location: Point(83.012777777 25.318888888)
-country: "[[_Standards/WikiData/WD~India,668]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+05_30,6828]]"
+country: "[[_Standards/WikiData/WD~India,668|WD~India,668]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~UTC+05_30,6828|WD~UTC+05_30,6828]]"
 elevation_above_sea_level: 76
 area: 82.1
 local_dialing_code: "542"
@@ -86,11 +86,11 @@ Commons_category: Varanasi
 [geo-lat::25.33] 
 [name::Varanasi] 
 State ::  
-Country :: [[../../../../../../India]]  
+Country :: [[../../../../../../India|India]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
-#is_/same_as :: [[_Standards/WikiData/WD~Varanasi,79980]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Varanasi,79980|WD~Varanasi,79980]] 
 
 ## #has_/map 
 

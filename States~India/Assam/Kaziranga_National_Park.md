@@ -2,19 +2,19 @@
 aliases:
   - Kaziranga National Park
 has_id_wikidata: Q192764
-significant_place: "[[_Standards/WikiData/WD~Golaghat,1708160]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Kaziranga_National_Park,5535168]]"
-IUCN_protected_areas_category: "[[_Standards/WikiData/WD~IUCN_category_II_National_Park,14545628]]"
-World_Heritage_criteria: "[[_Standards/WikiData/WD~(ix),23038985]]"
-country: "[[_Standards/WikiData/WD~India,668]]"
-part_of: "[[_Standards/WikiData/WD~Assam,1164]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Assam,1164]]"
-heritage_designation: "[[_Standards/WikiData/WD~World_Heritage_Site,9259]]"
+significant_place: "[[_Standards/WikiData/WD~Golaghat,1708160|WD~Golaghat,1708160]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Kaziranga_National_Park,5535168|WD~geography_of_Kaziranga_National_Park,5535168]]"
+IUCN_protected_areas_category: "[[_Standards/WikiData/WD~IUCN_category_II_National_Park,14545628|WD~IUCN_category_II_National_Park,14545628]]"
+World_Heritage_criteria: "[[_Standards/WikiData/WD~(ix),23038985|WD~(ix),23038985]]"
+country: "[[_Standards/WikiData/WD~India,668|WD~India,668]]"
+part_of: "[[_Standards/WikiData/WD~Assam,1164|WD~Assam,1164]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Assam,1164|WD~Assam,1164]]"
+heritage_designation: "[[_Standards/WikiData/WD~World_Heritage_Site,9259|WD~World_Heritage_Site,9259]]"
 area:
   - 170
   - 42996
-location: "[[_Standards/WikiData/WD~Golaghat_district,42517]]"
-instance_of: "[[_Standards/WikiData/WD~national_park,46169]]"
+location: "[[_Standards/WikiData/WD~Golaghat_district,42517|WD~Golaghat_district,42517]]"
+instance_of: "[[_Standards/WikiData/WD~national_park,46169|WD~national_park,46169]]"
 social_media_followers: 29976
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Indian%20Rhinoceros%20Rhinoceros%20unicornis%20by%20Dr.%20Raju%20Kasambe%20%285%29.JPG
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Kaziranga%20National%20Park%20banner.jpg
@@ -43,7 +43,7 @@ inception: 1905-01-01T00:00:00Z
 > and some recognized wildlife NGOs, 
 > the rhino population in Kaziranga National Park is 2,613. 
 > 
-![[Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Assam/Untitled.base]]
+![[Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Assam/Untitled.base|Untitled.base]]
 It comprises 1,641 adult rhinos and 385 calves.
 >
 > In 2015, the rhino population stood at 2,401. Kaziranga National Park was declared a Tiger Reserve in 2006. The park is home to large breeding populations of elephants, wild water buffalo, and swamp deer. Kaziranga is recognized as an Important Bird Area by BirdLife International for conservation of avifaunal species which refers as the birds or types of birds found in a specific region, period, or environment. When compared with other protected areas in India, Kaziranga has achieved notable success in wildlife conservation. Located on the edge of the Eastern Himalaya biodiversity hotspot, the park combines high species diversity and visibility.

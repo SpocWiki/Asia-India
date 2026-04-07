@@ -5,15 +5,15 @@ has_id_wikidata: Q532440
 inception: 1984-01-01T00:00:00Z
 location: [ 21.75, 88.75]
 coordinate_location: Point(88.75 21.75)
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~South_24_Parganas_district,2308319]]"
-significant_place: "[[_Standards/WikiData/WD~Canning,4886236]]"
-member_of: "[[_Standards/WikiData/WD~Man_and_the_Biosphere_Programme,14018439]]"
-IUCN_protected_areas_category: "[[_Standards/WikiData/WD~IUCN_category_II_National_Park,14545628]]"
-World_Heritage_criteria: "[[_Standards/WikiData/WD~(ix),23038985]]"
-country: "[[_Standards/WikiData/WD~India,668]]"
-part_of: "[[_Standards/WikiData/WD~Sundarbans,4526]]"
-heritage_designation: "[[_Standards/WikiData/WD~World_Heritage_Site,9259]]"
-instance_of: "[[_Standards/WikiData/WD~national_park,46169]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~South_24_Parganas_district,2308319|WD~South_24_Parganas_district,2308319]]"
+significant_place: "[[_Standards/WikiData/WD~Canning,4886236|WD~Canning,4886236]]"
+member_of: "[[_Standards/WikiData/WD~Man_and_the_Biosphere_Programme,14018439|WD~Man_and_the_Biosphere_Programme,14018439]]"
+IUCN_protected_areas_category: "[[_Standards/WikiData/WD~IUCN_category_II_National_Park,14545628|WD~IUCN_category_II_National_Park,14545628]]"
+World_Heritage_criteria: "[[_Standards/WikiData/WD~(ix),23038985|WD~(ix),23038985]]"
+country: "[[_Standards/WikiData/WD~India,668|WD~India,668]]"
+part_of: "[[_Standards/WikiData/WD~Sundarbans,4526|WD~Sundarbans,4526]]"
+heritage_designation: "[[_Standards/WikiData/WD~World_Heritage_Site,9259|WD~World_Heritage_Site,9259]]"
+instance_of: "[[_Standards/WikiData/WD~national_park,46169|WD~national_park,46169]]"
 area:
   - 133010
   - 1330.12

@@ -2,19 +2,19 @@
 aliases:
 has_id_wikidata: Q5257
 language_used:
-  - "[[_Standards/WikiData/WD~Prakrit,192170]]"
-  - "[[_Standards/WikiData/WD~Telugu,8097]]"
-  - "[[_Standards/WikiData/WD~Kannada,33673]]"
-replaced_by: "[[_Standards/WikiData/WD~Vakataka_empire,1501306]]"
-capital: "[[_Standards/WikiData/WD~Amaravathi,2087762]]"
-instance_of: "[[_Standards/WikiData/WD~historical_country,3024240]]"
+  - "[[_Standards/WikiData/WD~Prakrit,192170|WD~Prakrit,192170]]"
+  - "[[_Standards/WikiData/WD~Telugu,8097|WD~Telugu,8097]]"
+  - "[[_Standards/WikiData/WD~Kannada,33673|WD~Kannada,33673]]"
+replaced_by: "[[_Standards/WikiData/WD~Vakataka_empire,1501306|WD~Vakataka_empire,1501306]]"
+capital: "[[_Standards/WikiData/WD~Amaravathi,2087762|WD~Amaravathi,2087762]]"
+instance_of: "[[_Standards/WikiData/WD~historical_country,3024240|WD~historical_country,3024240]]"
 dissolved_abolished_or_demolished_date: 0220-01-01T00:00:00Z
-country: "[[_Standards/WikiData/WD~India,668]]"
-basic_form_of_government: "[[_Standards/WikiData/WD~monarchy,7269]]"
-official_religion: "[[_Standards/WikiData/WD~Hinduism,9089]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Hinduism,9089]]"
-continent: "[[_Standards/WikiData/WD~Asia,48]]"
-replaces: "[[_Standards/WikiData/WD~Maurya_empire,62943]]"
+country: "[[_Standards/WikiData/WD~India,668|WD~India,668]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~monarchy,7269|WD~monarchy,7269]]"
+official_religion: "[[_Standards/WikiData/WD~Hinduism,9089|WD~Hinduism,9089]]"
+religion_or_worldview: "[[_Standards/WikiData/WD~Hinduism,9089|WD~Hinduism,9089]]"
+continent: "[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]"
+replaces: "[[_Standards/WikiData/WD~Maurya_empire,62943|WD~Maurya_empire,62943]]"
 coordinate_location: Point(79.5 16.52)
 inception: -0229-01-01T00:00:00Z
 pronunciation_audio:

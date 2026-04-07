@@ -4,27 +4,27 @@ aliases:
   - Calcutta University
 has_id_wikidata: Q1145306
 affiliation:
-  - "[[_Standards/WikiData/WD~Association_of_Commonwealth_Universities,593768]]"
-  - "[[_Standards/WikiData/WD~Association_of_Indian_Universities,2867626]]"
-  - "[[_Standards/WikiData/WD~University_Grants_Commission,3345459]]"
-  - "[[_Standards/WikiData/WD~All_India_Council_for_Technical_Education,3532608]]"
-  - "[[_Standards/WikiData/WD~Bar_Council_of_India,3595123]]"
-founded_by: "[[_Standards/WikiData/WD~Alexander_Duff,2758864]]"
-accredited_by: "[[_Standards/WikiData/WD~National_Assessment_and_Accreditation_Council,3522862]]"
+  - "[[_Standards/WikiData/WD~Association_of_Commonwealth_Universities,593768|WD~Association_of_Commonwealth_Universities,593768]]"
+  - "[[_Standards/WikiData/WD~Association_of_Indian_Universities,2867626|WD~Association_of_Indian_Universities,2867626]]"
+  - "[[_Standards/WikiData/WD~University_Grants_Commission,3345459|WD~University_Grants_Commission,3345459]]"
+  - "[[_Standards/WikiData/WD~All_India_Council_for_Technical_Education,3532608|WD~All_India_Council_for_Technical_Education,3532608]]"
+  - "[[_Standards/WikiData/WD~Bar_Council_of_India,3595123|WD~Bar_Council_of_India,3595123]]"
+founded_by: "[[_Standards/WikiData/WD~Alexander_Duff,2758864|WD~Alexander_Duff,2758864]]"
+accredited_by: "[[_Standards/WikiData/WD~National_Assessment_and_Accreditation_Council,3522862|WD~National_Assessment_and_Accreditation_Council,3522862]]"
 child_organization_or_unit:
-  - "[[_Standards/WikiData/WD~Department_of_Business_Management,_University_of_Calcutta,5260168]]"
-  - "[[_Standards/WikiData/WD~Sahid_Khudiram_Siksha_Prangan,_University_of_Calcutta,7399628]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_the_University_of_Calcutta,5867029]]"
+  - "[[_Standards/WikiData/WD~Department_of_Business_Management,_University_of_Calcutta,5260168|WD~Department_of_Business_Management,_University_of_Calcutta,5260168]]"
+  - "[[_Standards/WikiData/WD~Sahid_Khudiram_Siksha_Prangan,_University_of_Calcutta,7399628|WD~Sahid_Khudiram_Siksha_Prangan,_University_of_Calcutta,7399628]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_the_University_of_Calcutta,5867029|WD~history_of_the_University_of_Calcutta,5867029]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~state_public_university,7603893]]"
-  - "[[_Standards/WikiData/WD~university,3918]]"
-member_of: "[[_Standards/WikiData/WD~e_ShodhSindhu,76612397]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+  - "[[_Standards/WikiData/WD~state_public_university,7603893|WD~state_public_university,7603893]]"
+  - "[[_Standards/WikiData/WD~university,3918|WD~university,3918]]"
+member_of: "[[_Standards/WikiData/WD~e_ShodhSindhu,76612397|WD~e_ShodhSindhu,76612397]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
 inception: 1857-01-24T00:00:00Z
 coordinate_location: Point(88.3628 22.575)
-country: "[[_Standards/WikiData/WD~India,668]]"
-headquarters_location: "[[_Standards/WikiData/WD~Kolkata,1348]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Kolkata,1348]]"
+country: "[[_Standards/WikiData/WD~India,668|WD~India,668]]"
+headquarters_location: "[[_Standards/WikiData/WD~Kolkata,1348|WD~Kolkata,1348]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Kolkata,1348|WD~Kolkata,1348]]"
 employees: 5500
 social_media_followers: 1298
 count_of_students: 22520

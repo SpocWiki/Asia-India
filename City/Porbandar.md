@@ -15,7 +15,7 @@ tags:
 [geo-lat::21.63] 
 [name::Porbandar] 
 State ::  
-Country :: [[../../India]]  
+Country :: [[../../India|India]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 

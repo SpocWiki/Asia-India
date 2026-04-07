@@ -1,24 +1,24 @@
 ---
 aliases:
 has_id_wikidata: Q83572
-country: "[[_Standards/WikiData/WD~Sikh_Empire,83572]]"
+country: "[[_Standards/WikiData/WD~Sikh_Empire,83572|WD~Sikh_Empire,83572]]"
 capital:
-  - "[[_Standards/WikiData/WD~Gujranwala,243322]]"
-  - "[[_Standards/WikiData/WD~Lahore,11739]]"
-instance_of: "[[_Standards/WikiData/WD~historical_country,3024240]]"
+  - "[[_Standards/WikiData/WD~Gujranwala,243322|WD~Gujranwala,243322]]"
+  - "[[_Standards/WikiData/WD~Lahore,11739|WD~Lahore,11739]]"
+instance_of: "[[_Standards/WikiData/WD~historical_country,3024240|WD~historical_country,3024240]]"
 basic_form_of_government:
-  - "[[_Standards/WikiData/WD~federal_monarchy,3208952]]"
-  - "[[_Standards/WikiData/WD~monarchy,7269]]"
-anthem: "[[_Standards/WikiData/WD~Deg_Tegh_Fateh,3696299]]"
-different_from: "[[_Standards/WikiData/WD~Kingdom_of_Sikkim,3960459]]"
+  - "[[_Standards/WikiData/WD~federal_monarchy,3208952|WD~federal_monarchy,3208952]]"
+  - "[[_Standards/WikiData/WD~monarchy,7269|WD~monarchy,7269]]"
+anthem: "[[_Standards/WikiData/WD~Deg_Tegh_Fateh,3696299|WD~Deg_Tegh_Fateh,3696299]]"
+different_from: "[[_Standards/WikiData/WD~Kingdom_of_Sikkim,3960459|WD~Kingdom_of_Sikkim,3960459]]"
 inception: 1733-01-01T00:00:00Z
 dissolved_abolished_or_demolished_date: 1849-01-01T00:00:00Z
 official_language:
-  - "[[_Standards/WikiData/WD~Persian,9168]]"
-  - "[[_Standards/WikiData/WD~Punjabi,58635]]"
-continent: "[[_Standards/WikiData/WD~Asia,48]]"
+  - "[[_Standards/WikiData/WD~Persian,9168|WD~Persian,9168]]"
+  - "[[_Standards/WikiData/WD~Punjabi,58635|WD~Punjabi,58635]]"
+continent: "[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]"
 population: 1500000
-language_used: "[[_Standards/WikiData/WD~Punjabi,58635]]"
+language_used: "[[_Standards/WikiData/WD~Punjabi,58635|WD~Punjabi,58635]]"
 area: 491.464
 locator_map_image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Sikh%20Empire.JPG

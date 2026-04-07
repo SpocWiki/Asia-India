@@ -2,17 +2,17 @@
 aliases:
 has_id_wikidata: Q1922071
 location:
-  - "[[_Standards/WikiData/WD~Indo_Bangladesh_enclaves,645659]]"
-  - "[[_Standards/WikiData/WD~Line_of_Control,1366583]]"
-  - "[[_Standards/WikiData/WD~Bangladesh_India_border,2399139]]"
-  - "[[_Standards/WikiData/WD~India_Pakistan_border,2635466]]"
-  - "[[_Standards/WikiData/WD~Bay_of_Bengal,38684]]"
-  - "[[_Standards/WikiData/WD~Arabian_Sea,58705]]"
-has_effect: "[[_Standards/WikiData/WD~Pakistani_Instrument_of_Surrender,3351237]]"
+  - "[[_Standards/WikiData/WD~Indo_Bangladesh_enclaves,645659|WD~Indo_Bangladesh_enclaves,645659]]"
+  - "[[_Standards/WikiData/WD~Line_of_Control,1366583|WD~Line_of_Control,1366583]]"
+  - "[[_Standards/WikiData/WD~Bangladesh_India_border,2399139|WD~Bangladesh_India_border,2399139]]"
+  - "[[_Standards/WikiData/WD~India_Pakistan_border,2635466|WD~India_Pakistan_border,2635466]]"
+  - "[[_Standards/WikiData/WD~Bay_of_Bengal,38684|WD~Bay_of_Bengal,38684]]"
+  - "[[_Standards/WikiData/WD~Arabian_Sea,58705|WD~Arabian_Sea,58705]]"
+has_effect: "[[_Standards/WikiData/WD~Pakistani_Instrument_of_Surrender,3351237|WD~Pakistani_Instrument_of_Surrender,3351237]]"
 participant:
-  - "[[_Standards/WikiData/WD~India,668]]"
-  - "[[_Standards/WikiData/WD~Pakistan,843]]"
-instance_of: "[[_Standards/WikiData/WD~war,198]]"
+  - "[[_Standards/WikiData/WD~India,668|WD~India,668]]"
+  - "[[_Standards/WikiData/WD~Pakistan,843|WD~Pakistan,843]]"
+instance_of: "[[_Standards/WikiData/WD~war,198|WD~war,198]]"
 start_time: 1971-12-03T00:00:00Z
 end_time: 1971-12-16T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bangladesh%201971%20Liberation.jpg

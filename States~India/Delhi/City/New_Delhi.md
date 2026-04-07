@@ -29,16 +29,16 @@ native_label:
 OmegaWiki_Defined_Meaning: 728014
 coordinate_location: Point(77.208888888 28.613888888)
 inception: 1911-01-01T00:00:00Z
-located_in_or_next_to_body_of_water: "[[/_Standards/WikiData/WD~Yamuna,132726]]"
+located_in_or_next_to_body_of_water: "[[/_Standards/WikiData/WD~Yamuna,132726|WD~Yamuna,132726]]"
 instance_of:
-  - "[[/_Standards/WikiData/WD~federal_capital,257391]]"
-  - "[[/_Standards/WikiData/WD~municipality_of_India,112684326]]"
-authority: "[[/_Standards/WikiData/WD~New_Delhi_Municipal_Council,3429205]]"
-located_in_the_administrative_territorial_entity: "[[/_Standards/WikiData/WD~New_Delhi_district,8560886]]"
+  - "[[/_Standards/WikiData/WD~federal_capital,257391|WD~federal_capital,257391]]"
+  - "[[/_Standards/WikiData/WD~municipality_of_India,112684326|WD~municipality_of_India,112684326]]"
+authority: "[[/_Standards/WikiData/WD~New_Delhi_Municipal_Council,3429205|WD~New_Delhi_Municipal_Council,3429205]]"
+located_in_the_administrative_territorial_entity: "[[/_Standards/WikiData/WD~New_Delhi_district,8560886|WD~New_Delhi_district,8560886]]"
 different_from:
-  - "[[/_Standards/WikiData/WD~New_Delhi_district,8560886]]"
-  - "[[/_Standards/WikiData/WD~Xinde_Village,96974292]]"
-  - "[[/_Standards/WikiData/WD~Delhi,1353]]"
+  - "[[/_Standards/WikiData/WD~New_Delhi_district,8560886|WD~New_Delhi_district,8560886]]"
+  - "[[/_Standards/WikiData/WD~Xinde_Village,96974292|WD~Xinde_Village,96974292]]"
+  - "[[/_Standards/WikiData/WD~Delhi,1353|WD~Delhi,1353]]"
 detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Location%20map%20India%20New%20Delhi%20EN.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/New%20Delhi%20montage.png
 aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/New%20Delhi%20SPOT%201084.jpg
@@ -58,20 +58,20 @@ demonym:
   - نو دهلوی
   - Newdelhijčan
   - Newdelhijčanka
-category_for_films_shot_at_this_location: "[[/_Standards/WikiData/WD~Q21291696,21291696]]"
+category_for_films_shot_at_this_location: "[[/_Standards/WikiData/WD~Q21291696,21291696|WD~Q21291696,21291696]]"
 UN_LOCODE: INICD
 twinned_administrative_body:
-  - "[[/_Standards/WikiData/WD~Moscow,649]]"
-  - "[[/_Standards/WikiData/WD~Samarkand,5753]]"
-  - "[[/_Standards/WikiData/WD~Jersey_City,26339]]"
-country: "[[/_Standards/WikiData/WD~India,668]]"
-capital_of: "[[/_Standards/WikiData/WD~India,668]]"
-named_after: "[[/_Standards/WikiData/WD~Delhi,1353]]"
+  - "[[/_Standards/WikiData/WD~Moscow,649|WD~Moscow,649]]"
+  - "[[/_Standards/WikiData/WD~Samarkand,5753|WD~Samarkand,5753]]"
+  - "[[/_Standards/WikiData/WD~Jersey_City,26339|WD~Jersey_City,26339]]"
+country: "[[/_Standards/WikiData/WD~India,668|WD~India,668]]"
+capital_of: "[[/_Standards/WikiData/WD~India,668|WD~India,668]]"
+named_after: "[[/_Standards/WikiData/WD~Delhi,1353|WD~Delhi,1353]]"
 official_language:
-  - "[[/_Standards/WikiData/WD~Hindi,1568]]"
-  - "[[/_Standards/WikiData/WD~Urdu,1617]]"
-  - "[[/_Standards/WikiData/WD~Punjabi,58635]]"
-located_in_time_zone: "[[/_Standards/WikiData/WD~UTC+05_30,6828]]"
+  - "[[/_Standards/WikiData/WD~Hindi,1568|WD~Hindi,1568]]"
+  - "[[/_Standards/WikiData/WD~Urdu,1617|WD~Urdu,1617]]"
+  - "[[/_Standards/WikiData/WD~Punjabi,58635|WD~Punjabi,58635]]"
+located_in_time_zone: "[[/_Standards/WikiData/WD~UTC+05_30,6828|WD~UTC+05_30,6828]]"
 elevation_above_sea_level: 216
 area: 42.7
 female_population: 113560
@@ -87,7 +87,7 @@ population: 249998
 [geo-lat::28.62] 
 [name::New Delhi] 
 State ::  
-Country :: [[../../../../India]]  
+Country :: [[../../../../India|India]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 

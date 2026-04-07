@@ -2,32 +2,32 @@
 aliases:
 has_id_wikidata: Q129864
 participant:
-  - "[[_Standards/WikiData/WD~East_India_Company,83164]]"
-  - "[[_Standards/WikiData/WD~Rani_Lakshmibai,181878]]"
-  - "[[_Standards/WikiData/WD~Jhansi,242995]]"
-  - "[[_Standards/WikiData/WD~Sepoy,697185]]"
-  - "[[_Standards/WikiData/WD~Nana_Sahib,951444]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Nepal,1078602]]"
-  - "[[_Standards/WikiData/WD~Gwalior_State,1557792]]"
-  - "[[_Standards/WikiData/WD~Jung_Bahadur_Rana,2355896]]"
-  - "[[_Standards/WikiData/WD~Kunwar_Singh,3595882]]"
-  - "[[_Standards/WikiData/WD~Birjis_Qadir,4916371]]"
-  - "[[_Standards/WikiData/WD~Tulsipur_State,5915498]]"
-  - "[[_Standards/WikiData/WD~Oudh_State,18129046]]"
-  - "[[_Standards/WikiData/WD~Dhir_Shumsher_Rana,20096130]]"
-  - "[[_Standards/WikiData/WD~British_Empire,8680]]"
+  - "[[_Standards/WikiData/WD~East_India_Company,83164|WD~East_India_Company,83164]]"
+  - "[[_Standards/WikiData/WD~Rani_Lakshmibai,181878|WD~Rani_Lakshmibai,181878]]"
+  - "[[_Standards/WikiData/WD~Jhansi,242995|WD~Jhansi,242995]]"
+  - "[[_Standards/WikiData/WD~Sepoy,697185|WD~Sepoy,697185]]"
+  - "[[_Standards/WikiData/WD~Nana_Sahib,951444|WD~Nana_Sahib,951444]]"
+  - "[[_Standards/WikiData/WD~Kingdom_of_Nepal,1078602|WD~Kingdom_of_Nepal,1078602]]"
+  - "[[_Standards/WikiData/WD~Gwalior_State,1557792|WD~Gwalior_State,1557792]]"
+  - "[[_Standards/WikiData/WD~Jung_Bahadur_Rana,2355896|WD~Jung_Bahadur_Rana,2355896]]"
+  - "[[_Standards/WikiData/WD~Kunwar_Singh,3595882|WD~Kunwar_Singh,3595882]]"
+  - "[[_Standards/WikiData/WD~Birjis_Qadir,4916371|WD~Birjis_Qadir,4916371]]"
+  - "[[_Standards/WikiData/WD~Tulsipur_State,5915498|WD~Tulsipur_State,5915498]]"
+  - "[[_Standards/WikiData/WD~Oudh_State,18129046|WD~Oudh_State,18129046]]"
+  - "[[_Standards/WikiData/WD~Dhir_Shumsher_Rana,20096130|WD~Dhir_Shumsher_Rana,20096130]]"
+  - "[[_Standards/WikiData/WD~British_Empire,8680|WD~British_Empire,8680]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~rebellion,124734]]"
-  - "[[_Standards/WikiData/WD~war,198]]"
+  - "[[_Standards/WikiData/WD~rebellion,124734|WD~rebellion,124734]]"
+  - "[[_Standards/WikiData/WD~war,198|WD~war,198]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-location: "[[_Standards/WikiData/WD~Company_rule_in_India,2001966]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+location: "[[_Standards/WikiData/WD~Company_rule_in_India,2001966|WD~Company_rule_in_India,2001966]]"
 end_time: 1858-06-20T00:00:00Z
 start_time: 1857-05-10T00:00:00Z
 point_in_time: 1857-01-01T00:00:00Z
-country: "[[_Standards/WikiData/WD~India,668]]"
+country: "[[_Standards/WikiData/WD~India,668|WD~India,668]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Indian%20Rebellion%20of%201857.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%B8%E0%A6%BF%E0%A6%AA%E0%A6%BE%E0%A6%B9%E0%A7%80%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%B9%20%E0%A7%A7%E0%A7%AE%E0%A7%AB%E0%A7%AD.wav
 Commons_category: Indian Rebellion of 1857

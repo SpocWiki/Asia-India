@@ -4,14 +4,14 @@ aliases:
   - Northern Plain
   - North Indian River Plain
 has_id_wikidata: Q192305
-instance_of: "[[_Standards/WikiData/WD~plain,160091]]"
-has_part_s_: "[[_Standards/WikiData/WD~Ganga_plain,11792455]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
-part_of: "[[_Standards/WikiData/WD~India,668]]"
-country: "[[_Standards/WikiData/WD~India,668]]"
+instance_of: "[[_Standards/WikiData/WD~plain,160091|WD~plain,160091]]"
+has_part_s_: "[[_Standards/WikiData/WD~Ganga_plain,11792455|WD~Ganga_plain,11792455]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630|WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
+part_of: "[[_Standards/WikiData/WD~India,668|WD~India,668]]"
+country: "[[_Standards/WikiData/WD~India,668|WD~India,668]]"
 named_after:
-  - "[[_Standards/WikiData/WD~Ganges,5089]]"
-  - "[[_Standards/WikiData/WD~Indus_River,7348]]"
+  - "[[_Standards/WikiData/WD~Ganges,5089|WD~Ganges,5089]]"
+  - "[[_Standards/WikiData/WD~Indus_River,7348|WD~Indus_River,7348]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ganges%20calling.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Indo-Gangetic%20Plain.png
 Commons_category: Indo-Gangetic Plain

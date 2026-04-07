@@ -2,21 +2,21 @@
 aliases:
   - Harmandir Sahib
 has_id_wikidata: Q180422
-instance_of: "[[_Standards/WikiData/WD~gurdwara,337986]]"
-heritage_designation: "[[_Standards/WikiData/WD~Tentative_World_Heritage_Site,1459900]]"
+instance_of: "[[_Standards/WikiData/WD~gurdwara,337986|WD~gurdwara,337986]]"
+heritage_designation: "[[_Standards/WikiData/WD~Tentative_World_Heritage_Site,1459900|WD~Tentative_World_Heritage_Site,1459900]]"
 different_from:
-  - "[[_Standards/WikiData/WD~Lakshmi_Narayani_Golden_Temple,3739592]]"
-  - "[[_Standards/WikiData/WD~Shiromani_Gurdwara_Parbandhak_Committee,7498941]]"
-  - "[[_Standards/WikiData/WD~Kashi_Vishwanath_Temple,3675]]"
+  - "[[_Standards/WikiData/WD~Lakshmi_Narayani_Golden_Temple,3739592|WD~Lakshmi_Narayani_Golden_Temple,3739592]]"
+  - "[[_Standards/WikiData/WD~Shiromani_Gurdwara_Parbandhak_Committee,7498941|WD~Shiromani_Gurdwara_Parbandhak_Committee,7498941]]"
+  - "[[_Standards/WikiData/WD~Kashi_Vishwanath_Temple,3675|WD~Kashi_Vishwanath_Temple,3675]]"
 World_Heritage_criteria:
-  - "[[_Standards/WikiData/WD~(iv),23038978]]"
-  - "[[_Standards/WikiData/WD~(iii),23038977]]"
-  - "[[_Standards/WikiData/WD~(vi),23038980]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Wiki_Loves_Monuments_in_India,73852346]]"
+  - "[[_Standards/WikiData/WD~(iv),23038978|WD~(iv),23038978]]"
+  - "[[_Standards/WikiData/WD~(iii),23038977|WD~(iii),23038977]]"
+  - "[[_Standards/WikiData/WD~(vi),23038980|WD~(vi),23038980]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Wiki_Loves_Monuments_in_India,73852346|WD~Wiki_Loves_Monuments_in_India,73852346]]"
 inception: 1589-01-01T00:00:00Z
-country: "[[_Standards/WikiData/WD~India,668]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Sikhism,9316]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Amritsar,48403]]"
+country: "[[_Standards/WikiData/WD~India,668|WD~India,668]]"
+religion_or_worldview: "[[_Standards/WikiData/WD~Sikhism,9316|WD~Sikhism,9316]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Amritsar,48403|WD~Amritsar,48403]]"
 coordinate_location: Point(74.876667 31.62)
 nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/A%20final%20look%20at%20main%20shrine%20now%20before%20we%20depart%20%2827161013349%29.jpg
 image_of_interior:

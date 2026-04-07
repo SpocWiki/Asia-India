@@ -3,38 +3,38 @@ aliases:
   - Godavari River
 has_id_wikidata: Q191314
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Telangana,677037]]"
-  - "[[_Standards/WikiData/WD~Andhra_Pradesh,1159]]"
-  - "[[_Standards/WikiData/WD~Chhattisgarh,1168]]"
-  - "[[_Standards/WikiData/WD~Maharashtra,1191]]"
-  - "[[_Standards/WikiData/WD~Odisha,22048]]"
+  - "[[_Standards/WikiData/WD~Telangana,677037|WD~Telangana,677037]]"
+  - "[[_Standards/WikiData/WD~Andhra_Pradesh,1159|WD~Andhra_Pradesh,1159]]"
+  - "[[_Standards/WikiData/WD~Chhattisgarh,1168|WD~Chhattisgarh,1168]]"
+  - "[[_Standards/WikiData/WD~Maharashtra,1191|WD~Maharashtra,1191]]"
+  - "[[_Standards/WikiData/WD~Odisha,22048|WD~Odisha,22048]]"
 tributary:
-  - "[[_Standards/WikiData/WD~Indravati_River,1661830]]"
-  - "[[_Standards/WikiData/WD~Manjira_River,3695675]]"
-  - "[[_Standards/WikiData/WD~Maner_River,6748418]]"
-  - "[[_Standards/WikiData/WD~Pranhita_River,7238359]]"
-  - "[[_Standards/WikiData/WD~Sabari_River,7395907]]"
-  - "[[_Standards/WikiData/WD~Pravara_River,13118971]]"
-  - "[[_Standards/WikiData/WD~Sindphana_River,13121944]]"
-  - "[[_Standards/WikiData/WD~Kinnerasani_River,15692504]]"
-  - "[[_Standards/WikiData/WD~Kadam_river,21475408]]"
-different_from: "[[_Standards/WikiData/WD~Godavari,5576181]]"
-category_for_the_water_basin: "[[_Standards/WikiData/WD~Q18013725,18013725]]"
+  - "[[_Standards/WikiData/WD~Indravati_River,1661830|WD~Indravati_River,1661830]]"
+  - "[[_Standards/WikiData/WD~Manjira_River,3695675|WD~Manjira_River,3695675]]"
+  - "[[_Standards/WikiData/WD~Maner_River,6748418|WD~Maner_River,6748418]]"
+  - "[[_Standards/WikiData/WD~Pranhita_River,7238359|WD~Pranhita_River,7238359]]"
+  - "[[_Standards/WikiData/WD~Sabari_River,7395907|WD~Sabari_River,7395907]]"
+  - "[[_Standards/WikiData/WD~Pravara_River,13118971|WD~Pravara_River,13118971]]"
+  - "[[_Standards/WikiData/WD~Sindphana_River,13121944|WD~Sindphana_River,13121944]]"
+  - "[[_Standards/WikiData/WD~Kinnerasani_River,15692504|WD~Kinnerasani_River,15692504]]"
+  - "[[_Standards/WikiData/WD~Kadam_river,21475408|WD~Kadam_river,21475408]]"
+different_from: "[[_Standards/WikiData/WD~Godavari,5576181|WD~Godavari,5576181]]"
+category_for_the_water_basin: "[[_Standards/WikiData/WD~Q18013725,18013725|WD~Q18013725,18013725]]"
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-%E0%A4%B8%E0%A5%81%E0%A4%AC%E0%A5%8B%E0%A4%A7%20%E0%A4%95%E0%A5%81%E0%A4%B2%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A3%E0%A5%80-%E0%A4%97%E0%A5%8B%E0%A4%A6%E0%A4%BE%E0%A4%B5%E0%A4%B0%E0%A5%80%20%E0%A4%A8%E0%A4%A6%E0%A5%80.wav
 coordinate_location:
   - Point(82.3311 16.7256)
   - Point(73.5275 19.93)
-country: "[[_Standards/WikiData/WD~India,668]]"
-instance_of: "[[_Standards/WikiData/WD~river,4022]]"
-continent: "[[_Standards/WikiData/WD~Asia,48]]"
-mouth_of_the_watercourse: "[[_Standards/WikiData/WD~Bay_of_Bengal,38684]]"
+country: "[[_Standards/WikiData/WD~India,668|WD~India,668]]"
+instance_of: "[[_Standards/WikiData/WD~river,4022|WD~river,4022]]"
+continent: "[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]"
+mouth_of_the_watercourse: "[[_Standards/WikiData/WD~Bay_of_Bengal,38684|WD~Bay_of_Bengal,38684]]"
 watershed_area: 313000
 length: 1465
 discharge: 3061.18

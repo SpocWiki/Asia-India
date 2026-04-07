@@ -5,29 +5,29 @@ has_id_wikidata: Q4629
 location: [ 21.205, 72.84]
 coordinate_location: Point(72.84 21.205)
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~History_of_Ming,28763]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+  - "[[_Standards/WikiData/WD~History_of_Ming,28763|WD~History_of_Ming,28763]]"
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Bombay_Presidency,891827]]"
-  - "[[_Standards/WikiData/WD~Bombay_State,2627082]]"
-  - "[[_Standards/WikiData/WD~Gujarat,1061]]"
+  - "[[_Standards/WikiData/WD~Bombay_Presidency,891827|WD~Bombay_Presidency,891827]]"
+  - "[[_Standards/WikiData/WD~Bombay_State,2627082|WD~Bombay_State,2627082]]"
+  - "[[_Standards/WikiData/WD~Gujarat,1061|WD~Gujarat,1061]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~big_city,1549591]]"
-  - "[[_Standards/WikiData/WD~city,515]]"
+  - "[[_Standards/WikiData/WD~big_city,1549591|WD~big_city,1549591]]"
+  - "[[_Standards/WikiData/WD~city,515|WD~city,515]]"
 capital_of:
-  - "[[_Standards/WikiData/WD~Surat_district,1797317]]"
-  - "[[_Standards/WikiData/WD~Choryasi_Taluka,2757125]]"
-  - "[[_Standards/WikiData/WD~Surat_City_Taluka,61881635]]"
-authority: "[[_Standards/WikiData/WD~Surat_Municipal_Corporation,7645445]]"
-country: "[[_Standards/WikiData/WD~India,668]]"
+  - "[[_Standards/WikiData/WD~Surat_district,1797317|WD~Surat_district,1797317]]"
+  - "[[_Standards/WikiData/WD~Choryasi_Taluka,2757125|WD~Choryasi_Taluka,2757125]]"
+  - "[[_Standards/WikiData/WD~Surat_City_Taluka,61881635|WD~Surat_City_Taluka,61881635]]"
+authority: "[[_Standards/WikiData/WD~Surat_Municipal_Corporation,7645445|WD~Surat_Municipal_Corporation,7645445]]"
+country: "[[_Standards/WikiData/WD~India,668|WD~India,668]]"
 official_language:
-  - "[[_Standards/WikiData/WD~Hindi,1568]]"
-  - "[[_Standards/WikiData/WD~Gujarati,5137]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+05_30,6828]]"
+  - "[[_Standards/WikiData/WD~Hindi,1568|WD~Hindi,1568]]"
+  - "[[_Standards/WikiData/WD~Gujarati,5137|WD~Gujarati,5137]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~UTC+05_30,6828|WD~UTC+05_30,6828]]"
 elevation_above_sea_level: 13
 area: 327
 population: 5935000

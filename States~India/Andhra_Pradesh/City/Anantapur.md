@@ -15,7 +15,7 @@ tags:
 [geo-lat::14.68] 
 [name::Anantapur] 
 State ::  
-Country :: [[../../../../India]]  
+Country :: [[../../../../India|India]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 

@@ -27,61 +27,61 @@ RTECS_number: KU5340000
 SPLASH: splash10-004i-9000000000-eacac6164c6e518f24f1
 Gujarati_Vishwakosh_entry: ઈથિલીન
 subclass_of:
-  - "[[_Standards/WikiData/WD~alkene,81406]]"
-  - "[[_Standards/WikiData/WD~biogenic_aliphatic_hydrocarbon,109910560]]"
+  - "[[_Standards/WikiData/WD~alkene,81406|WD~alkene,81406]]"
+  - "[[_Standards/WikiData/WD~biogenic_aliphatic_hydrocarbon,109910560|WD~biogenic_aliphatic_hydrocarbon,109910560]]"
 monomer_of:
-  - "[[_Standards/WikiData/WD~polyethylene,143429]]"
-  - "[[_Standards/WikiData/WD~EPDM_rubber,144403]]"
-  - "[[_Standards/WikiData/WD~ethylene_vinyl_acetate,144917]]"
-  - "[[_Standards/WikiData/WD~ultra_high_molecular_weight_polyethylene,575823]]"
-  - "[[_Standards/WikiData/WD~Hypalon,900292]]"
-  - "[[_Standards/WikiData/WD~linear_low_density_polyethylene,1863987]]"
-  - "[[_Standards/WikiData/WD~low_density_polyethylene,2033818]]"
-  - "[[_Standards/WikiData/WD~high_density_polyethylene,2641430]]"
-  - "[[_Standards/WikiData/WD~cross_linked_polyethylene,2666962]]"
-  - "[[_Standards/WikiData/WD~chlorinated_polyethylene_rubber,72516833]]"
+  - "[[_Standards/WikiData/WD~polyethylene,143429|WD~polyethylene,143429]]"
+  - "[[_Standards/WikiData/WD~EPDM_rubber,144403|WD~EPDM_rubber,144403]]"
+  - "[[_Standards/WikiData/WD~ethylene_vinyl_acetate,144917|WD~ethylene_vinyl_acetate,144917]]"
+  - "[[_Standards/WikiData/WD~ultra_high_molecular_weight_polyethylene,575823|WD~ultra_high_molecular_weight_polyethylene,575823]]"
+  - "[[_Standards/WikiData/WD~Hypalon,900292|WD~Hypalon,900292]]"
+  - "[[_Standards/WikiData/WD~linear_low_density_polyethylene,1863987|WD~linear_low_density_polyethylene,1863987]]"
+  - "[[_Standards/WikiData/WD~low_density_polyethylene,2033818|WD~low_density_polyethylene,2033818]]"
+  - "[[_Standards/WikiData/WD~high_density_polyethylene,2641430|WD~high_density_polyethylene,2641430]]"
+  - "[[_Standards/WikiData/WD~cross_linked_polyethylene,2666962|WD~cross_linked_polyethylene,2666962]]"
+  - "[[_Standards/WikiData/WD~chlorinated_polyethylene_rubber,72516833|WD~chlorinated_polyethylene_rubber,72516833]]"
 found_in_taxon:
-  - "[[_Standards/WikiData/WD~Calendula_officinalis,145930]]"
-  - "[[_Standards/WikiData/WD~Malus_pumila,158657]]"
-  - "[[_Standards/WikiData/WD~Arabidopsis_thaliana,158695]]"
-  - "[[_Standards/WikiData/WD~Eschscholzia_californica,158795]]"
-  - "[[_Standards/WikiData/WD~Annona_cherimola,158986]]"
-  - "[[_Standards/WikiData/WD~Dianthus_caryophyllus,158984]]"
-  - "[[_Standards/WikiData/WD~Actinidia_chinensis,163522]]"
-  - "[[_Standards/WikiData/WD~Beta_vulgaris,165191]]"
-  - "[[_Standards/WikiData/WD~Nicotiana_tabacum,181095]]"
-  - "[[_Standards/WikiData/WD~Pseudomonas_syringae,311202]]"
-  - "[[_Standards/WikiData/WD~Eucalyptus_gomphocephala,514995]]"
-  - "[[_Standards/WikiData/WD~Marsilea_quadrifolia,1332525]]"
-  - "[[_Standards/WikiData/WD~Regnellidium_diphyllum,2281911]]"
-  - "[[_Standards/WikiData/WD~Mangifera_indica,3919027]]"
-  - "[[_Standards/WikiData/WD~Corynocarpus_laevigatus,5477982]]"
-  - "[[_Standards/WikiData/WD~Malus_domestica,18674606]]"
-  - "[[_Standards/WikiData/WD~Capsicum_annuum,1380]]"
-  - "[[_Standards/WikiData/WD~Brassica_rapa,3384]]"
+  - "[[_Standards/WikiData/WD~Calendula_officinalis,145930|WD~Calendula_officinalis,145930]]"
+  - "[[_Standards/WikiData/WD~Malus_pumila,158657|WD~Malus_pumila,158657]]"
+  - "[[_Standards/WikiData/WD~Arabidopsis_thaliana,158695|WD~Arabidopsis_thaliana,158695]]"
+  - "[[_Standards/WikiData/WD~Eschscholzia_californica,158795|WD~Eschscholzia_californica,158795]]"
+  - "[[_Standards/WikiData/WD~Annona_cherimola,158986|WD~Annona_cherimola,158986]]"
+  - "[[_Standards/WikiData/WD~Dianthus_caryophyllus,158984|WD~Dianthus_caryophyllus,158984]]"
+  - "[[_Standards/WikiData/WD~Actinidia_chinensis,163522|WD~Actinidia_chinensis,163522]]"
+  - "[[_Standards/WikiData/WD~Beta_vulgaris,165191|WD~Beta_vulgaris,165191]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_tabacum,181095|WD~Nicotiana_tabacum,181095]]"
+  - "[[_Standards/WikiData/WD~Pseudomonas_syringae,311202|WD~Pseudomonas_syringae,311202]]"
+  - "[[_Standards/WikiData/WD~Eucalyptus_gomphocephala,514995|WD~Eucalyptus_gomphocephala,514995]]"
+  - "[[_Standards/WikiData/WD~Marsilea_quadrifolia,1332525|WD~Marsilea_quadrifolia,1332525]]"
+  - "[[_Standards/WikiData/WD~Regnellidium_diphyllum,2281911|WD~Regnellidium_diphyllum,2281911]]"
+  - "[[_Standards/WikiData/WD~Mangifera_indica,3919027|WD~Mangifera_indica,3919027]]"
+  - "[[_Standards/WikiData/WD~Corynocarpus_laevigatus,5477982|WD~Corynocarpus_laevigatus,5477982]]"
+  - "[[_Standards/WikiData/WD~Malus_domestica,18674606|WD~Malus_domestica,18674606]]"
+  - "[[_Standards/WikiData/WD~Capsicum_annuum,1380|WD~Capsicum_annuum,1380]]"
+  - "[[_Standards/WikiData/WD~Brassica_rapa,3384|WD~Brassica_rapa,3384]]"
 subject_has_role:
-  - "[[_Standards/WikiData/WD~plant_growth_regulator,408245]]"
-  - "[[_Standards/WikiData/WD~primary_metabolite,3333419]]"
+  - "[[_Standards/WikiData/WD~plant_growth_regulator,408245|WD~plant_growth_regulator,408245]]"
+  - "[[_Standards/WikiData/WD~primary_metabolite,3333419|WD~primary_metabolite,3333419]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517|WD~Small_Soviet_Encyclopedia,66386517]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047|WD~WikiProject_Climate_change,15305047]]"
 part_of:
-  - "[[_Standards/WikiData/WD~ethylene_binding,22243607]]"
-  - "[[_Standards/WikiData/WD~ethylene_gasoreceptor_activity,22243608]]"
-  - "[[_Standards/WikiData/WD~response_to_ethylene,22273085]]"
-  - "[[_Standards/WikiData/WD~cellular_response_to_ethylene_stimulus,22273680]]"
-  - "[[_Standards/WikiData/WD~ethylene_metabolic_process,22281423]]"
-  - "[[_Standards/WikiData/WD~ethylene_catabolic_process,22281424]]"
-  - "[[_Standards/WikiData/WD~ethylene_biosynthetic_process,22282751]]"
-  - "[[_Standards/WikiData/WD~1_aminocyclopropane_1_carboxylate_oxidase_activity,22319762]]"
-  - "[[_Standards/WikiData/WD~2_oxoglutarate_oxygenase_decarboxylase_(ethylene_forming)_activity,29573353]]"
-safety_classification_and_labelling: "[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]"
+  - "[[_Standards/WikiData/WD~ethylene_binding,22243607|WD~ethylene_binding,22243607]]"
+  - "[[_Standards/WikiData/WD~ethylene_gasoreceptor_activity,22243608|WD~ethylene_gasoreceptor_activity,22243608]]"
+  - "[[_Standards/WikiData/WD~response_to_ethylene,22273085|WD~response_to_ethylene,22273085]]"
+  - "[[_Standards/WikiData/WD~cellular_response_to_ethylene_stimulus,22273680|WD~cellular_response_to_ethylene_stimulus,22273680]]"
+  - "[[_Standards/WikiData/WD~ethylene_metabolic_process,22281423|WD~ethylene_metabolic_process,22281423]]"
+  - "[[_Standards/WikiData/WD~ethylene_catabolic_process,22281424|WD~ethylene_catabolic_process,22281424]]"
+  - "[[_Standards/WikiData/WD~ethylene_biosynthetic_process,22282751|WD~ethylene_biosynthetic_process,22282751]]"
+  - "[[_Standards/WikiData/WD~1_aminocyclopropane_1_carboxylate_oxidase_activity,22319762|WD~1_aminocyclopropane_1_carboxylate_oxidase_activity,22319762]]"
+  - "[[_Standards/WikiData/WD~2_oxoglutarate_oxygenase_decarboxylase_(ethylene_forming)_activity,29573353|WD~2_oxoglutarate_oxygenase_decarboxylase_(ethylene_forming)_activity,29573353]]"
+safety_classification_and_labelling: "[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288|WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_chemical_entity,113145171|WD~type_of_chemical_entity,113145171]]"
 boiling_point:
   - -103.77
   - -103.7
@@ -92,7 +92,7 @@ electric_dipole_moment: 0
 speed_of_sound:
   - 331
   - 1309
-different_from: "[[_Standards/WikiData/WD~ethane,52858]]"
+different_from: "[[_Standards/WikiData/WD~ethane,52858|WD~ethane,52858]]"
 Gmelin_number: "214"
 ionization_energy: 10.51
 density: 0.001178
@@ -117,7 +117,7 @@ chemical_structure: http://commons.wikimedia.org/wiki/Special:FilePath/Ethene%20
 [geo-lat::21.15] 
 [name::Nagpur] 
 State ::  
-Country :: [[../../../../../../India]]  
+Country :: [[../../../../../../India|India]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 

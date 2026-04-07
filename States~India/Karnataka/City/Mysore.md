@@ -15,7 +15,7 @@ tags:
 [geo-lat::12.3] 
 [name::Mysore] 
 State ::  
-Country :: [[../../../../India]]  
+Country :: [[../../../../India|India]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 

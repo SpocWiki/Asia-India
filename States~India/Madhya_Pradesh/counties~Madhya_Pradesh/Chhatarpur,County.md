@@ -6,7 +6,7 @@ has_id_wikidata: Q2449785
 
 # [[Chhatarpur,County]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Chhatarpur_district,2449785]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Chhatarpur_district,2449785|WD~Chhatarpur_district,2449785]] 
 
 ## #has_/map 
 

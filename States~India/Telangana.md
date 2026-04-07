@@ -5,7 +5,7 @@ has_id_wikidata: Q677037
 
 # [[Telangana]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Telangana,677037]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Telangana,677037|WD~Telangana,677037]] 
 
 ## #has_/map 
 

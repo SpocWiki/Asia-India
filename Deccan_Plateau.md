@@ -2,21 +2,21 @@
 aliases:
   - Deccan Plateau
 has_id_wikidata: Q169966
-instance_of: "[[_Standards/WikiData/WD~plateau,75520]]"
+instance_of: "[[_Standards/WikiData/WD~plateau,75520|WD~plateau,75520]]"
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Eastern_Ghats,465055]]"
-  - "[[_Standards/WikiData/WD~Satpura_Range,1145416]]"
-  - "[[_Standards/WikiData/WD~Western_Ghats,4527]]"
+  - "[[_Standards/WikiData/WD~Eastern_Ghats,465055|WD~Eastern_Ghats,465055]]"
+  - "[[_Standards/WikiData/WD~Satpura_Range,1145416|WD~Satpura_Range,1145416]]"
+  - "[[_Standards/WikiData/WD~Western_Ghats,4527|WD~Western_Ghats,4527]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q6753576,6753576]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q6753576,6753576|WD~Q6753576,6753576]]"
 coordinate_location:
   - Point(77.0 15.0)
   - http://www.wikidata.org/.well-known/genid/7ba9b8295e79bbea9003fed2f32c7144
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~India,668]]"
-country: "[[_Standards/WikiData/WD~India,668]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~India,668|WD~India,668]]"
+country: "[[_Standards/WikiData/WD~India,668|WD~India,668]]"
 area: 1000000
 elevation_above_sea_level: 600
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dek%C3%A1nsk%C3%A1%20krajina%20u%20Hajdar%C3%A1b%C3%A1du.jpg

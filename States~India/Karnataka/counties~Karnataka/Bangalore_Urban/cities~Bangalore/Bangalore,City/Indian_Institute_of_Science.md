@@ -3,23 +3,23 @@ aliases:
   - Indian Institute of Science
   - IISc
 has_id_wikidata: Q948720
-industry: "[[_Standards/WikiData/WD~higher_education,136822]]"
-founded_by: "[[_Standards/WikiData/WD~Jamsetji_Tata,320109]]"
+industry: "[[_Standards/WikiData/WD~higher_education,136822|WD~higher_education,136822]]"
+founded_by: "[[_Standards/WikiData/WD~Jamsetji_Tata,320109|WD~Jamsetji_Tata,320109]]"
 member_of:
-  - "[[_Standards/WikiData/WD~International_Federation_of_Library_Associations_and_Institutions,1334284]]"
-  - "[[_Standards/WikiData/WD~e_ShodhSindhu,76612397]]"
-part_of: "[[_Standards/WikiData/WD~Ministry_of_Education,4294642]]"
-child_organization_unit: "[[_Standards/WikiData/WD~Center_for_Infrastructure,_Sustainable_Transportation_and_Urban_Planning,45131686]]"
-director_manager: "[[_Standards/WikiData/WD~Govindan_Rangarajan,97457577]]"
+  - "[[_Standards/WikiData/WD~International_Federation_of_Library_Associations_and_Institutions,1334284|WD~International_Federation_of_Library_Associations_and_Institutions,1334284]]"
+  - "[[_Standards/WikiData/WD~e_ShodhSindhu,76612397|WD~e_ShodhSindhu,76612397]]"
+part_of: "[[_Standards/WikiData/WD~Ministry_of_Education,4294642|WD~Ministry_of_Education,4294642]]"
+child_organization_unit: "[[_Standards/WikiData/WD~Center_for_Infrastructure,_Sustainable_Transportation_and_Urban_Planning,45131686|WD~Center_for_Infrastructure,_Sustainable_Transportation_and_Urban_Planning,45131686]]"
+director_manager: "[[_Standards/WikiData/WD~Govindan_Rangarajan,97457577|WD~Govindan_Rangarajan,97457577]]"
 coordinate_location: Point(77.56605 13.01978)
-country: "[[_Standards/WikiData/WD~India,668]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Karnataka,1185]]"
-headquarters_location: "[[_Standards/WikiData/WD~Bengaluru,1355]]"
-language_used: "[[_Standards/WikiData/WD~English,1860]]"
-official_language: "[[_Standards/WikiData/WD~English,1860]]"
+country: "[[_Standards/WikiData/WD~India,668|WD~India,668]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Karnataka,1185|WD~Karnataka,1185]]"
+headquarters_location: "[[_Standards/WikiData/WD~Bengaluru,1355|WD~Bengaluru,1355]]"
+language_used: "[[_Standards/WikiData/WD~English,1860|WD~English,1860]]"
+official_language: "[[_Standards/WikiData/WD~English,1860|WD~English,1860]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~research_institute,31855]]"
-  - "[[_Standards/WikiData/WD~higher_education_institution,38723]]"
+  - "[[_Standards/WikiData/WD~research_institute,31855|WD~research_institute,31855]]"
+  - "[[_Standards/WikiData/WD~higher_education_institution,38723|WD~higher_education_institution,38723]]"
 ranking:
   - 170
   - 190

@@ -1,14 +1,14 @@
 ---
 aliases:
 has_id_wikidata: Q178948
-capital_of: "[[_Standards/WikiData/WD~Chandelas_of_Jejakabhukti,2039087]]"
+capital_of: "[[_Standards/WikiData/WD~Chandelas_of_Jejakabhukti,2039087|WD~Chandelas_of_Jejakabhukti,2039087]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~Nagar_Panchayat,2322432]]"
-  - "[[_Standards/WikiData/WD~city,515]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Chhatarpur_district,2449785]]"
+  - "[[_Standards/WikiData/WD~Nagar_Panchayat,2322432|WD~Nagar_Panchayat,2322432]]"
+  - "[[_Standards/WikiData/WD~city,515|WD~city,515]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Chhatarpur_district,2449785|WD~Chhatarpur_district,2449785]]"
 coordinate_location: Point(79.933333333 24.85)
-country: "[[_Standards/WikiData/WD~India,668]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+05_30,6828]]"
+country: "[[_Standards/WikiData/WD~India,668|WD~India,668]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~UTC+05_30,6828|WD~UTC+05_30,6828]]"
 elevation_above_sea_level: 282
 population: 24481
 local_dialing_code: "7686"

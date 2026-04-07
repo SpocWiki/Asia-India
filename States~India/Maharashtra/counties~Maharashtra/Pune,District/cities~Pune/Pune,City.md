@@ -18,39 +18,39 @@ confidential: public
 tags:
   - geo/City
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Fairbanks,79638]]"
-  - "[[_Standards/WikiData/WD~Okayama_Prefecture,132936]]"
-  - "[[_Standards/WikiData/WD~Fairbanks_North_Star_Borough,512901]]"
-  - "[[_Standards/WikiData/WD~Vacoas_Phoenix,676724]]"
-  - "[[_Standards/WikiData/WD~Cape_Town,5465]]"
-  - "[[_Standards/WikiData/WD~Nagoya,11751]]"
-  - "[[_Standards/WikiData/WD~San_Jose,16553]]"
-  - "[[_Standards/WikiData/WD~Bremen,24879]]"
-  - "[[_Standards/WikiData/WD~Tromsø_Municipality,26087]]"
-shares_border_with: "[[_Standards/WikiData/WD~Pimpri_Chinchwad,119219]]"
-contains_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~41,712623]]"
+  - "[[_Standards/WikiData/WD~Fairbanks,79638|WD~Fairbanks,79638]]"
+  - "[[_Standards/WikiData/WD~Okayama_Prefecture,132936|WD~Okayama_Prefecture,132936]]"
+  - "[[_Standards/WikiData/WD~Fairbanks_North_Star_Borough,512901|WD~Fairbanks_North_Star_Borough,512901]]"
+  - "[[_Standards/WikiData/WD~Vacoas_Phoenix,676724|WD~Vacoas_Phoenix,676724]]"
+  - "[[_Standards/WikiData/WD~Cape_Town,5465|WD~Cape_Town,5465]]"
+  - "[[_Standards/WikiData/WD~Nagoya,11751|WD~Nagoya,11751]]"
+  - "[[_Standards/WikiData/WD~San_Jose,16553|WD~San_Jose,16553]]"
+  - "[[_Standards/WikiData/WD~Bremen,24879|WD~Bremen,24879]]"
+  - "[[_Standards/WikiData/WD~Tromsø_Municipality,26087|WD~Tromsø_Municipality,26087]]"
+shares_border_with: "[[_Standards/WikiData/WD~Pimpri_Chinchwad,119219|WD~Pimpri_Chinchwad,119219]]"
+contains_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~41,712623|WD~41,712623]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636|WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~million_city,1637706]]"
-  - "[[_Standards/WikiData/WD~city,515]]"
+  - "[[_Standards/WikiData/WD~million_city,1637706|WD~million_city,1637706]]"
+  - "[[_Standards/WikiData/WD~city,515|WD~city,515]]"
 capital_of:
-  - "[[_Standards/WikiData/WD~Pune_district,1797336]]"
-  - "[[_Standards/WikiData/WD~Pune_division,1854679]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Pune_district,1797336]]"
-authority: "[[_Standards/WikiData/WD~Pune_Municipal_Corporation,4045808]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Pune,100860355]]"
+  - "[[_Standards/WikiData/WD~Pune_district,1797336|WD~Pune_district,1797336]]"
+  - "[[_Standards/WikiData/WD~Pune_division,1854679|WD~Pune_division,1854679]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Pune_district,1797336|WD~Pune_district,1797336]]"
+authority: "[[_Standards/WikiData/WD~Pune_Municipal_Corporation,4045808|WD~Pune_Municipal_Corporation,4045808]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Pune,100860355|WD~economy_of_Pune,100860355]]"
 inception: 1436-01-01T00:00:00Z
-country: "[[_Standards/WikiData/WD~India,668]]"
+country: "[[_Standards/WikiData/WD~India,668|WD~India,668]]"
 official_language:
-  - "[[_Standards/WikiData/WD~Marathi,1571]]"
-  - "[[_Standards/WikiData/WD~Hindi,1568]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+05_30,6828]]"
+  - "[[_Standards/WikiData/WD~Marathi,1571|WD~Marathi,1571]]"
+  - "[[_Standards/WikiData/WD~Hindi,1568|WD~Hindi,1568]]"
+  - "[[_Standards/WikiData/WD~English,1860|WD~English,1860]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~UTC+05_30,6828|WD~UTC+05_30,6828]]"
 area: 710
 elevation_above_sea_level: 561
 local_dialing_code: "20"
@@ -85,7 +85,7 @@ coordinate_location: Point(73.855287 18.519574)
 [geo-lat::18.53] 
 [name::Poona] 
 State ::  
-Country :: [[../../../../../../India]]  
+Country :: [[../../../../../../India|India]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 

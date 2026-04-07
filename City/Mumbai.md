@@ -17,67 +17,67 @@ confidential: public
 tags:
   - geo/City
 twinned_administrative_body:
-  - "[[/_Standards/WikiData/WD~Durango,112813]]"
-  - "[[/_Standards/WikiData/WD~Honolulu_County,487704]]"
-  - "[[/_Standards/WikiData/WD~Saint_Petersburg,656]]"
-  - "[[/_Standards/WikiData/WD~Stuttgart,1022]]"
-  - "[[/_Standards/WikiData/WD~Manila,1461]]"
-  - "[[/_Standards/WikiData/WD~Jakarta,3630]]"
-  - "[[/_Standards/WikiData/WD~Busan,16520]]"
-  - "[[/_Standards/WikiData/WD~Honolulu,18094]]"
-  - "[[/_Standards/WikiData/WD~Berlin,64]]"
-  - "[[/_Standards/WikiData/WD~Los_Angeles,65]]"
-  - "[[/_Standards/WikiData/WD~London,84]]"
-  - "[[/_Standards/WikiData/WD~İzmir,35997]]"
-  - "[[/_Standards/WikiData/WD~Yokohama,38283]]"
-  - "[[/_Standards/WikiData/WD~Espoo,47034]]"
+  - "[[/_Standards/WikiData/WD~Durango,112813|WD~Durango,112813]]"
+  - "[[/_Standards/WikiData/WD~Honolulu_County,487704|WD~Honolulu_County,487704]]"
+  - "[[/_Standards/WikiData/WD~Saint_Petersburg,656|WD~Saint_Petersburg,656]]"
+  - "[[/_Standards/WikiData/WD~Stuttgart,1022|WD~Stuttgart,1022]]"
+  - "[[/_Standards/WikiData/WD~Manila,1461|WD~Manila,1461]]"
+  - "[[/_Standards/WikiData/WD~Jakarta,3630|WD~Jakarta,3630]]"
+  - "[[/_Standards/WikiData/WD~Busan,16520|WD~Busan,16520]]"
+  - "[[/_Standards/WikiData/WD~Honolulu,18094|WD~Honolulu,18094]]"
+  - "[[/_Standards/WikiData/WD~Berlin,64|WD~Berlin,64]]"
+  - "[[/_Standards/WikiData/WD~Los_Angeles,65|WD~Los_Angeles,65]]"
+  - "[[/_Standards/WikiData/WD~London,84|WD~London,84]]"
+  - "[[/_Standards/WikiData/WD~İzmir,35997|WD~İzmir,35997]]"
+  - "[[/_Standards/WikiData/WD~Yokohama,38283|WD~Yokohama,38283]]"
+  - "[[/_Standards/WikiData/WD~Espoo,47034|WD~Espoo,47034]]"
 instance_of:
-  - "[[/_Standards/WikiData/WD~megacity,174844]]"
-  - "[[/_Standards/WikiData/WD~metropolis,200250]]"
-  - "[[/_Standards/WikiData/WD~business_cluster,745456]]"
-  - "[[/_Standards/WikiData/WD~state_capital,11271835]]"
-  - "[[/_Standards/WikiData/WD~city,515]]"
+  - "[[/_Standards/WikiData/WD~megacity,174844|WD~megacity,174844]]"
+  - "[[/_Standards/WikiData/WD~metropolis,200250|WD~metropolis,200250]]"
+  - "[[/_Standards/WikiData/WD~business_cluster,745456|WD~business_cluster,745456]]"
+  - "[[/_Standards/WikiData/WD~state_capital,11271835|WD~state_capital,11271835]]"
+  - "[[/_Standards/WikiData/WD~city,515|WD~city,515]]"
 described_by_source:
-  - "[[/_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[/_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[/_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[/_Standards/WikiData/WD~Treccani's_Enciclopedia_on_line,65921422]]"
-  - "[[/_Standards/WikiData/WD~Meyer’s_Universum,_Sechster_Band,130477825]]"
-located_in_time_zone: "[[/_Standards/WikiData/WD~Indian_Standard_Time,604055]]"
-member_of: "[[/_Standards/WikiData/WD~Creative_Cities_Network,1139352]]"
-part_of: "[[/_Standards/WikiData/WD~Konkan,1142402]]"
-authority: "[[/_Standards/WikiData/WD~Brihanmumbai_Municipal_Corporation,1195653]]"
-economy_of_topic: "[[/_Standards/WikiData/WD~economy_of_Mumbai,5333727]]"
-geography_of_topic: "[[/_Standards/WikiData/WD~geography_of_Mumbai,5535200]]"
+  - "[[/_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[/_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]"
+  - "[[/_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[/_Standards/WikiData/WD~Treccani's_Enciclopedia_on_line,65921422|WD~Treccani's_Enciclopedia_on_line,65921422]]"
+  - "[[/_Standards/WikiData/WD~Meyer’s_Universum,_Sechster_Band,130477825|WD~Meyer’s_Universum,_Sechster_Band,130477825]]"
+located_in_time_zone: "[[/_Standards/WikiData/WD~Indian_Standard_Time,604055|WD~Indian_Standard_Time,604055]]"
+member_of: "[[/_Standards/WikiData/WD~Creative_Cities_Network,1139352|WD~Creative_Cities_Network,1139352]]"
+part_of: "[[/_Standards/WikiData/WD~Konkan,1142402|WD~Konkan,1142402]]"
+authority: "[[/_Standards/WikiData/WD~Brihanmumbai_Municipal_Corporation,1195653|WD~Brihanmumbai_Municipal_Corporation,1195653]]"
+economy_of_topic: "[[/_Standards/WikiData/WD~economy_of_Mumbai,5333727|WD~economy_of_Mumbai,5333727]]"
+geography_of_topic: "[[/_Standards/WikiData/WD~geography_of_Mumbai,5535200|WD~geography_of_Mumbai,5535200]]"
 office_held_by_head_of_government:
-  - "[[/_Standards/WikiData/WD~Mayor_of_Mumbai,6797761]]"
-  - "[[/_Standards/WikiData/WD~Municipal_Commissioner_of_Mumbai,6936210]]"
-category_for_people_buried_here: "[[/_Standards/WikiData/WD~Q32414945,32414945]]"
-named_after: "[[/_Standards/WikiData/WD~Mumba,76027520]]"
-head_of_government: "[[/_Standards/WikiData/WD~Iqbal_Singh_Chahal,106782866]]"
+  - "[[/_Standards/WikiData/WD~Mayor_of_Mumbai,6797761|WD~Mayor_of_Mumbai,6797761]]"
+  - "[[/_Standards/WikiData/WD~Municipal_Commissioner_of_Mumbai,6936210|WD~Municipal_Commissioner_of_Mumbai,6936210]]"
+category_for_people_buried_here: "[[/_Standards/WikiData/WD~Q32414945,32414945|WD~Q32414945,32414945]]"
+named_after: "[[/_Standards/WikiData/WD~Mumba,76027520|WD~Mumba,76027520]]"
+head_of_government: "[[/_Standards/WikiData/WD~Iqbal_Singh_Chahal,106782866|WD~Iqbal_Singh_Chahal,106782866]]"
 BHCL_UUID: 9d82e58f-8cc2-4c9e-b98b-2e6aa757e290
 ISNI: 112661998
 panoramic_view:
   - http://commons.wikimedia.org/wiki/Special:FilePath/1A%3DDowntownBombay.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Mumbai%20panaroma.jpg
 coordinate_location: Point(72.8775 19.075833333)
-country: "[[/_Standards/WikiData/WD~India,668]]"
-capital_of: "[[/_Standards/WikiData/WD~Maharashtra,1191]]"
-located_in_the_administrative_territorial_entity: "[[/_Standards/WikiData/WD~Maharashtra,1191]]"
+country: "[[/_Standards/WikiData/WD~India,668|WD~India,668]]"
+capital_of: "[[/_Standards/WikiData/WD~Maharashtra,1191|WD~Maharashtra,1191]]"
+located_in_the_administrative_territorial_entity: "[[/_Standards/WikiData/WD~Maharashtra,1191|WD~Maharashtra,1191]]"
 language_used:
-  - "[[/_Standards/WikiData/WD~Marathi,1571]]"
-  - "[[/_Standards/WikiData/WD~Urdu,1617]]"
-  - "[[/_Standards/WikiData/WD~Tamil,5885]]"
-  - "[[/_Standards/WikiData/WD~Telugu,8097]]"
-  - "[[/_Standards/WikiData/WD~Kannada,33673]]"
-  - "[[/_Standards/WikiData/WD~Konkani,34239]]"
-  - "[[/_Standards/WikiData/WD~Tulu,34251]]"
-  - "[[/_Standards/WikiData/WD~Maithili,36109]]"
-  - "[[/_Standards/WikiData/WD~Malayalam,36236]]"
-continent: "[[/_Standards/WikiData/WD~Asia,48]]"
+  - "[[/_Standards/WikiData/WD~Marathi,1571|WD~Marathi,1571]]"
+  - "[[/_Standards/WikiData/WD~Urdu,1617|WD~Urdu,1617]]"
+  - "[[/_Standards/WikiData/WD~Tamil,5885|WD~Tamil,5885]]"
+  - "[[/_Standards/WikiData/WD~Telugu,8097|WD~Telugu,8097]]"
+  - "[[/_Standards/WikiData/WD~Kannada,33673|WD~Kannada,33673]]"
+  - "[[/_Standards/WikiData/WD~Konkani,34239|WD~Konkani,34239]]"
+  - "[[/_Standards/WikiData/WD~Tulu,34251|WD~Tulu,34251]]"
+  - "[[/_Standards/WikiData/WD~Maithili,36109|WD~Maithili,36109]]"
+  - "[[/_Standards/WikiData/WD~Malayalam,36236|WD~Malayalam,36236]]"
+continent: "[[/_Standards/WikiData/WD~Asia,48|WD~Asia,48]]"
 elevation_above_sea_level: 14
 area: 603
 social_media_followers: 408256
@@ -125,7 +125,7 @@ inception: 1507-01-01T00:00:00Z
 [geo-lat::18.94] 
 [name::Bombay] 
 State ::  
-Country :: [[../../India]]  
+Country :: [[../../India|India]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 

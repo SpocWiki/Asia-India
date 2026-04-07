@@ -2,16 +2,16 @@
 aliases:
   - Hawa Mahal
 has_id_wikidata: Q836531
-location: "[[_Standards/WikiData/WD~Jaipur,66485]]"
-architectural_style: "[[_Standards/WikiData/WD~Mughal_architecture,542261]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Jaipur_district,1134781]]"
-architect: "[[_Standards/WikiData/WD~Lal_Chand_Ustad,6480034]]"
-commissioned_by: "[[_Standards/WikiData/WD~Sawai_Pratap_Singh,7428550]]"
-heritage_designation: "[[_Standards/WikiData/WD~State_Protected_Monument,17047640]]"
+location: "[[_Standards/WikiData/WD~Jaipur,66485|WD~Jaipur,66485]]"
+architectural_style: "[[_Standards/WikiData/WD~Mughal_architecture,542261|WD~Mughal_architecture,542261]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Jaipur_district,1134781|WD~Jaipur_district,1134781]]"
+architect: "[[_Standards/WikiData/WD~Lal_Chand_Ustad,6480034|WD~Lal_Chand_Ustad,6480034]]"
+commissioned_by: "[[_Standards/WikiData/WD~Sawai_Pratap_Singh,7428550|WD~Sawai_Pratap_Singh,7428550]]"
+heritage_designation: "[[_Standards/WikiData/WD~State_Protected_Monument,17047640|WD~State_Protected_Monument,17047640]]"
 coordinate_location: Point(75.82672 26.924)
-country: "[[_Standards/WikiData/WD~India,668]]"
-named_after: "[[_Standards/WikiData/WD~wind,8094]]"
-instance_of: "[[_Standards/WikiData/WD~palace,16560]]"
+country: "[[_Standards/WikiData/WD~India,668|WD~India,668]]"
+named_after: "[[_Standards/WikiData/WD~wind,8094|WD~wind,8094]]"
+instance_of: "[[_Standards/WikiData/WD~palace,16560|WD~palace,16560]]"
 floors_above_ground: 5
 date_of_official_opening: 1799-01-01T00:00:00Z
 inception: 1799-01-01T00:00:00Z

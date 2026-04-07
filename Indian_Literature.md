@@ -3,12 +3,12 @@ aliases:
   - Indian literature
 has_id_wikidata: Q622237
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-studied_by: "[[_Standards/WikiData/WD~Indology,625510]]"
-practiced_by: "[[_Standards/WikiData/WD~scholar_of_Indian_literature,96186663]]"
-instance_of: "[[_Standards/WikiData/WD~sub_set_of_literature,109551565]]"
-subclass_of: "[[_Standards/WikiData/WD~literature,8242]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+studied_by: "[[_Standards/WikiData/WD~Indology,625510|WD~Indology,625510]]"
+practiced_by: "[[_Standards/WikiData/WD~scholar_of_Indian_literature,96186663|WD~scholar_of_Indian_literature,96186663]]"
+instance_of: "[[_Standards/WikiData/WD~sub_set_of_literature,109551565|WD~sub_set_of_literature,109551565]]"
+subclass_of: "[[_Standards/WikiData/WD~literature,8242|WD~literature,8242]]"
 Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/INDISKAYA_LITERATURA.html
 Commons_category: Literature of India
 ---

@@ -142,7 +142,7 @@ markerFolder: ./
 [Area-Land::2973190] 
 Continent :: [[Asia]]  
 [VehicleCode::IND] 
-Capital :: [[India/Counties/Delhi/City/New_Delhi]]  
+Capital :: [[India/Counties/Delhi/City/New_Delhi|New_Delhi]]  
 ![[Emblem_of_India.svg|350]]  
 
 ![[Anthem-India.mp3]] 

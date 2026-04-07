@@ -5,19 +5,19 @@ location:
   - 28.655833333
   - 77.240277777
 coordinate_location: Point(77.240277777 28.655833333)
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Central_Delhi_district,107941]]"
-instance_of: "[[_Standards/WikiData/WD~fort,1785071]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Central_Delhi_district,107941|WD~Central_Delhi_district,107941]]"
+instance_of: "[[_Standards/WikiData/WD~fort,1785071|WD~fort,1785071]]"
 heritage_designation:
-  - "[[_Standards/WikiData/WD~Monument_of_National_Importance,17047513]]"
-  - "[[_Standards/WikiData/WD~World_Heritage_Site,9259]]"
+  - "[[_Standards/WikiData/WD~Monument_of_National_Importance,17047513|WD~Monument_of_National_Importance,17047513]]"
+  - "[[_Standards/WikiData/WD~World_Heritage_Site,9259|WD~World_Heritage_Site,9259]]"
 World_Heritage_criteria:
-  - "[[_Standards/WikiData/WD~(ii),23038976]]"
-  - "[[_Standards/WikiData/WD~(iii),23038977]]"
-  - "[[_Standards/WikiData/WD~(vi),23038980]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Wiki_Loves_Monuments_in_India,73852346]]"
-maintained_by: "[[_Standards/WikiData/WD~Archaeological_Survey_of_India,_Delhi_circle,110321655]]"
-country: "[[_Standards/WikiData/WD~India,668]]"
-made_from_material: "[[_Standards/WikiData/WD~sandstone,13085]]"
+  - "[[_Standards/WikiData/WD~(ii),23038976|WD~(ii),23038976]]"
+  - "[[_Standards/WikiData/WD~(iii),23038977|WD~(iii),23038977]]"
+  - "[[_Standards/WikiData/WD~(vi),23038980|WD~(vi),23038980]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Wiki_Loves_Monuments_in_India,73852346|WD~Wiki_Loves_Monuments_in_India,73852346]]"
+maintained_by: "[[_Standards/WikiData/WD~Archaeological_Survey_of_India,_Delhi_circle,110321655|WD~Archaeological_Survey_of_India,_Delhi_circle,110321655]]"
+country: "[[_Standards/WikiData/WD~India,668|WD~India,668]]"
+made_from_material: "[[_Standards/WikiData/WD~sandstone,13085|WD~sandstone,13085]]"
 height: 33
 area:
   - 43.4309

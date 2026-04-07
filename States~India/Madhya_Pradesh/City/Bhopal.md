@@ -15,7 +15,7 @@ tags:
 [geo-lat::23.27] 
 [name::Bhopal] 
 State ::  
-Country :: [[../../../../India]]  
+Country :: [[../../../../India|India]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 

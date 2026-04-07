@@ -15,7 +15,7 @@ tags:
 [geo-lat::8.48] 
 [name::Triwandrum] 
 State ::  
-Country :: [[../../../../India]]  
+Country :: [[../../../../India|India]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
